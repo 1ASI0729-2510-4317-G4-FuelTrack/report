@@ -1,5 +1,14 @@
 # Capitulo III: Requirements Specifications
 ## 3.1 To-Be Scenario Mapping
+
+### Escenario To-Be (Con FuelTrack)
+
+| FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
+|-------------------|----------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------------------------------------|
+| **DOING**         | Todo se centraliza en la app/web de FuelTrack. | Se llena un formulario estructurado que deja claro como se realiza el pedido             | Seguimiento en tiempo real con notificaciones. | Confirmación digital en la plataforma.       |
+| **THINKING**      | "Todo está en un solo lugar."                | "El pedido quedó registrado correctamente."       | "Puedo ver el progreso del pedido fácilmente." | "Ya tengo la confirmación de que llegó nuestro pedido."          |
+| **FEELING**       | Tranquilidad, control.                       | Confianza, seguridad.                            | Satisfacción, reducción del estrés.            | Alivio, certeza.                             |
+
 ## 3.2 User Stories
 
 | User Story ID | Título                              | Descripción                                                  | Criterios de aceptación                                                                                                |
