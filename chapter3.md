@@ -37,6 +37,14 @@
 | US12          | Cerrar pedido    | Como proveedor, quiero cerrar el pedido una vez que el solicitante lo confirme, para finalizar el proceso. | **Escenario 1: Pedido en estado entregado**<br/>Dado que el solicitante ha confirmado la entrega del pedido,<br/>Cuando ingreso al detalle del pedido,<br/>Entonces debo poder cerrarlo si está en estado “entregado”.<br/><br/>**Escenario 2: Pedido finalizado correctamente**<br/>Dado que presiono el botón para cerrar,<br/>Cuando se completa la acción,<br/>Entonces el estado debe cambiar a “cerrado” y no debe ser modificable.<br/><br/> |
 
 ## 3.3 Impact Mapping
+Solicitantes:
+
+<img src="imgs/ImpactMappingSolicitante.png" alt="Impact Map - Solicitante">
+
+Proveedores:
+
+<img src="imgs/ImpactMappingProveedor.png" alt="Impact Map - Proveedor">
+
 ## 3.4 Product Backlog
 
 | #Orden |   ID   | User Story | Story Points |
