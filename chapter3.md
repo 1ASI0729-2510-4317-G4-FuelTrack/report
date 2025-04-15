@@ -39,11 +39,11 @@
 ## 3.3 Impact Mapping
 Solicitantes:
 
-<img src="imgs/ImpactMappingSolicitante.png" alt="Impact Map - Solicitante">
+<img src="img/ImpactMappingSolicitante.png" alt="Impact Map - Solicitante">
 
 Proveedores:
 
-<img src="imgs/ImpactMappingProveedor.png" alt="Impact Map - Proveedor">
+<img src="img/ImpactMappingProveedor.png" alt="Impact Map - Proveedor">
 
 ## 3.4 Product Backlog
 
