@@ -1,16 +1,5 @@
 # Capitulo III: Requirements Specifications
 ## 3.1 To-Be Scenario Mapping
-
-### As-Is Scenario Mapping
-
-| FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
-|-------------------|----------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------------------------------------|
-| **DOING**         | Llamadas, correos, WhatsApp sin orden.       | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje.           |
-| **THINKING**      | "¿Habrán recibido mi mensaje?"               | "¿Me habrán entendido bien?"                     | "¿Dónde estará nuestro pedido?"                | "¿Ya habrán llegado?"                        |
-| **FEELING**       | Frustración, desorganización.                | Incertidumbre, falta de confianza.               | Ansiedad, impaciencia.                         | Duda, estrés.                                |
-
----
-
 ### Escenario To-Be (Con FuelTrack)
 
 | FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
