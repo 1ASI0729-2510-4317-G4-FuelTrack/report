@@ -14,6 +14,7 @@ Con estas decisiones en el diseño visual buscamos reflejar innovación que ince
 **Branding**
 
 ### 4.1.2. Web Style Guidelines
+Nuestra página web ha sido diseñada para brindar una navegación cómoda y accesible desde cualquier dispositivo. Para lograrlo, utilizamos un diseño basado en el patrón en Z, el cual dirige de forma natural la atención del usuario hacia los elementos más importantes de la interfaz, facilitando la comprensión rápida de la información clave.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
