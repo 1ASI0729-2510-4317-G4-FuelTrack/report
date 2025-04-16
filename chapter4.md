@@ -2,7 +2,7 @@
 En la realización de este capitulo, abordaremos el diseño integral de la startup, cubriendo aspectos clave como el estilo visual, los diagramas C4 para la arquitectura del sistema, los diagramas de clases, y los modelos de base de datos, proporcionando una visión clara y estructurada de la infraestructura y el funcionamiento del proyecto.
 
 ## 4.1. Style Guidelines
-En esta sección se presentan los estándares que definen el formato y el diseño de la solución, asegurando ycalidad en su implementación.
+En esta sección se presentan los estándares que definen el formato y el diseño de la solución, asegurando la calidad en su implementación.
 
 ### 4.1.1. General Style Guidelines
 Con estas decisiones en el diseño visual buscamos reflejar innovación que incentive a la formalidad en los procesos de comercialización, es asi como demostramos modernidad y calidad, valores que van alineados a nuestro proyecto
