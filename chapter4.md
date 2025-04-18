@@ -15,7 +15,9 @@ Seleccionamos esta gama de colores porque armoniza con el diseño del logo y ref
 
 **Tipografia**
 
+Seleccionamos esta tipografía por su excelente legibilidad en diversos entornos, lo que nos permite diferenciarnos frente a la competencia y aportar una identidad única a nuestra marca.
 
+![label](img/label.png)
 
 **Branding**
 
