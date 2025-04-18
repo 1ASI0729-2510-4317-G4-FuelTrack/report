@@ -8,9 +8,10 @@ En esta sección se presentan los estándares que definen el formato y el diseñ
 Con estas decisiones en el diseño visual buscamos reflejar innovación que incentive a la formalidad en los procesos de comercialización, es asi como demostramos modernidad y calidad, valores que van alineados a nuestro proyecto
 
 **Color**
+
 Seleccionamos esta gama de colores porque armoniza con el diseño del logo y refleja la temática de nuestra aplicación, asegurando la identidad de la marca.
 
-![Color Palette](img/Colorpalette.jpg)
+![Color Palette](img/Color-palette.jpg)
 
 **Tipografia**
 
