@@ -106,4 +106,4 @@ Los diagramas de contenedores representan los distintos elementos que conforman 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
+![DD](img/databasediagram.png)
