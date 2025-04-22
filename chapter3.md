@@ -1,6 +1,14 @@
 # Capitulo III: Requirements Specifications
 ## 3.1 To-Be Scenario Mapping
-### Escenario To-Be (Con FuelTrack)
+### Escenario To-Be (Segmento: proveedores de combustible)
+
+| FASES             | Comunicación                                     | Solicitar pedido                                   | Seguimiento                                     | Entrega                                      |
+|-------------------|--------------------------------------------------|----------------------------------------------------|------------------------------------------------|---------------------------------------------|
+| **DOING**         | Todo se centraliza en la app/web de FuelTrack, lo que permite gestionar múltiples clientes desde un solo lugar. | Los pedidos se ingresan de manera clara, con todos los detalles necesarios para una entrega eficiente. | Los proveedores pueden ver en tiempo real el estado de cada pedido, incluyendo ubicación y estimación de entrega. | La entrega se confirma digitalmente con una firma o verificación en la plataforma, garantizando precisión y trazabilidad. |
+| **THINKING**      | "Ahora puedo gestionar todos los pedidos desde una sola plataforma, sin perder información." | "El pedido ha sido registrado correctamente y no hay lugar para malentendidos." | "Sé exactamente dónde está cada pedido, puedo anticiparme a cualquier problema." | "La confirmación digital asegura que el pedido fue entregado correctamente, sin necesidad de llamar." |
+| **FEELING**       | Confianza en la automatización, control total de las operaciones. | Seguridad en el proceso de pedido, reducción de errores. | Tranquilidad al ver el avance, reducción del estrés logístico. | Alivio por la confirmación digital, satisfacción por un proceso sin problemas. |
+
+### Escenario To-Be (Segmento: empresas solicitantes)
 
 | FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
 |-------------------|----------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------------------------------------|
