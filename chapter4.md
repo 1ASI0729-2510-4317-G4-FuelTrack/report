@@ -100,17 +100,24 @@ Los diagramas de contenedores representan los distintos elementos que conforman 
 
 ### 4.6.3. Software Architecture Components Diagrams
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
+
 #### Bounded Context: Analytics
 
 ![Analytics](img/BoundedContext_Analytics.png)
+
+Este bounded context contiene todo lo relacionado al control y seguimiento de los pedidos, asimismo como el estados de los pedidos
 
 #### Bounded Context: Control
 
 ![Analytics](img/BoundedContext_Control.png)
 
+Este bounded context separa todo lo relacionado con el control de producto que en este caso es combustible de los diferentes proveedores, por lo que el feature de inventario de los proveedores está considerado dentro de este bounded context.
+
 #### Bounded Context: Planning
 
 ![Analytics](img/BoundedContext_Planning.png)
+
+Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
