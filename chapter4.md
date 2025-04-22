@@ -99,6 +99,18 @@ Los diagramas de contenedores representan los distintos elementos que conforman 
 ![SACD](img/Software-Architecture-Container-Diagrams.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
+En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
+#### Bounded Context: Analytics
+
+![Analytics](img/BoundedContext_Analytics.png)
+
+#### Bounded Context: Control
+
+![Analytics](img/BoundedContext_Control.png)
+
+#### Bounded Context: Planning
+
+![Analytics](img/BoundedContext_Planning.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
