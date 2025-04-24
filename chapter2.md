@@ -80,15 +80,6 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 9. ¿Cómo se realiza la conciliación de pagos con los clientes?
 10. ¿Estarían dispuestos a integrar su sistema actual con una plataforma SaaS que unifique y centralice estos procesos?
 
-
-**Preguntas complementarias:**
-
-- ¿Qué edad tiene?
-- ¿Cuál es su nivel de experiencia en logística o ventas?
-- ¿Qué tipo de dispositivo usa en el trabajo? (PC, tablet, celular)
-- ¿Qué aplicaciones o herramientas digitales usa en su día a día?
-- ¿Cómo describiría su nivel de habilidad con la tecnología?
-
 ---
 
 #### B. Empresas Solicitantes
@@ -106,15 +97,6 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 9. ¿Qué herramientas utilizan para monitorear el consumo mensual?
 10. ¿Qué mejoras desearían ver en el proceso actual?
 
-**Preguntas complementarias:**
-
-- ¿Qué edad tiene?
-- ¿En qué distrito vive y trabaja?
-- ¿Qué nivel de estudios tiene?
-- ¿Qué dispositivos utiliza más frecuentemente en el trabajo?
-- ¿Qué aplicaciones o plataformas usa para su gestión operativa?
-- ¿Cuáles son sus principales frustraciones en el proceso actual?
-
 ---
 
 ### 2.2.2. Registro de entrevistas.
@@ -125,8 +107,6 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - Apellidos: Apellido inventado
 - Edad: … años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-    
 - URL de Entrevista: 
 - Duración:
 - Resumen:<br>
@@ -144,8 +124,6 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - Apellidos: Apellido inventado
 - Edad: … años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-    
 - URL de Entrevista: 
 - Duración:
 - Resumen:<br>
@@ -158,9 +136,7 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - Nombres: Nombre inventado
 - Apellidos: Apellido inventado
 - Edad: … años
-- Distrito: Lima
-- Acerca de la entrevista:<br>
-    
+- Distrito: Lima  
 - URL de Entrevista: 
 - Duración:
 - Resumen:<br>
@@ -174,8 +150,6 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - Apellidos: Apellido inventado
 - Edad: … años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-    _Nombre inventado_ es supervisor operativo en una empresa distribuidora de combustibles que atiende pedidos corporativos a nivel regional. Tiene más de 15 años de experiencia en logística. Maneja los pedidos a través de WhatsApp, llamadas telefónicas y hojas Excel. Le preocupa el tiempo que toma organizar la información y los errores por duplicidad. Considera que una solución como FuelTrack sería útil si se adapta bien a su flujo de trabajo.
 - URL de Entrevista: 
 - Duración:
 - Resumen:<br>
@@ -186,31 +160,27 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 
 #### Entrevistado N°5
 ![entrevista_segmento1](img/entrevista5_segmento2.png) 
-- Nombres: Nombre inventado
-- Apellidos: Apellido inventado
-- Edad: … años
+- Nombres: Zahir
+- Apellidos: Sanchez
+- Edad: 19 años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-    
 - URL de Entrevista: 
-- Duración:
+- Duración: 00:05:35
 - Resumen:<br>
-    
+    Zahir es encargado del registro de pedidos de Petromax, que se dedica a la venta de combustible. Maneja los pedidos de forma semimanual ya que estos llegan primero a través de correo y luego su información pasa a su sistema interno. Tiene la necesidad de generar reportes tanto mensualmente como diariamente, y principalmente deben mostrar datos de ventas y consumo. Siente que es un gran problema el registro de pedidos, ya que cuando identifican un error de información, el pedido se encuentra en estado avanzado. Siente que seríal ideal centralizar todos estos procesos, principallmente por el registro y la conciliación de pagos.
 
 ---
 
 #### Entrevistado N°6
 ![entrevista_segmento1](img/entrevista6_segmento2.png) 
-- Nombres: Nombre inventado
-- Apellidos: Apellido inventado
-- Edad: … años
+- Nombres: Kevyn
+- Apellidos: Chacon
+- Edad: 31 años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-    
 - URL de Entrevista: 
-- Duración:
+- Duración: 00:07:06
 - Resumen:<br>
-    
+    Kevyn es un parte del area de operaciones de Energex que utiliza combustible para sus vehículos. Recibe los pedidos por correo y usa Excel para su registro y gestión. Se siente frustrado por la dificultad para hacer una gestión de las solicitudes de combustible. Es necesaria la comunicación con sus clientes para que estén al tanto del despacho de sus pedidos. Cree que una solución como FuelTrack podría ayudar a mejorar la comunicación con los proveedores y optimizar el proceso de pedidos.
 
 ---
 
