@@ -263,13 +263,21 @@ a. User Persona 1: Empresas solicitantes de combustible
 b. User Persona 2: Proveedores de combustible
 ![userjourneymap_userpersona2](img/userjourneymap_userpersona2.png)
 
-### 2.3.4. Empathy Mapping.
+## 2.3.4. Empathy Mapping.
 
 ![empathymap_segmento1](img/empathymap_segmento1.png)
 ![empathymap_segmento1](img/empathymap_segmento2.png)
 
-### 2.3.5. As-is Scenario Mapping. 
-### As-Is Scenario Mapping
+## 2.3.5. As-is Scenario Mapping. 
+### Escenario As-is (Segmento: proveedores de combustible)
+
+| FASES | Comunicación | Solicitar pedido | Seguimiento | Entrega |
+|-------|--------------|------------------|-------------|---------|
+| **DOING** | Llamadas, correos, WhatsApp sin orden. | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje. |
+| **THINKING** | "¿Habrán recibido mi mensaje?" | "¿Me habrán entendido bien?" | "¿Dónde estará nuestro pedido?" | "¿Ya habrán llegado?" |
+| **FEELING** | Frustración, desorganización. | Incertidumbre, falta de confianza. | Ansiedad, impaciencia. | Duda, estrés. |
+
+### Escenario As-is (Segmento: Solicitantes de combustible)
 
 | FASES | Comunicación | Solicitar pedido | Seguimiento | Entrega |
 |-------|--------------|------------------|-------------|---------|
