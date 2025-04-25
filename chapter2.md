@@ -101,87 +101,76 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 
 ### 2.2.2. Registro de entrevistas.
 
-#### Entrevista 1 – Segmento: Empresa Solicitante
-![entrevista_segmento1](img/entrevista1_segmento1.png) 
-- Nombres: Nombre inventado
-- Apellidos: Apellido inventado
-- Edad: … años
+#### Entrevista N°1 – Segmento: Proveedores
+![entrevista_Luciana](img/entrevista-Luciana.jpg) 
+- Nombres: Jorge Luis
+- Apellidos: Binda
+- Edad: 27 años
 - Distrito: Lima
-- URL de Entrevista: 
-- Duración:
+- Duración: 00:06:00 minutos - minuto de inicio: 00:00:00
 - Resumen:<br>
-    Martín explicó que actualmente los pedidos de combustible se realizan principalmente por WhatsApp o llamadas, recurriendo al correo solo en situaciones excepcionales o programadas. La empresa no cuenta con un sistema formal para esto; han intentado usar una hoja de Excel compartida, pero no siempre está actualizada, generando inconsistencias.<br>
-    La validación de entregas se realiza de forma manual. El encargado de patio compara el volumen entregado con lo solicitado usando una guía de despacho, aunque señaló que en zonas alejadas muchas veces no coinciden los valores exactos.<br>
-    Uno de los principales problemas mencionados es la frecuencia de entregas tardías o incompletas, especialmente en regiones remotas como la sierra o selva, lo que repercute directamente en la operación diaria.<br>
-    Sobre reportes, el área operativa requiere información semanal y la gerencia mensualmente. Todo esto se realiza en Excel, consolidando reportes enviados por los jefes de zona: un proceso lento y propenso a errores. Para reprogramaciones, las coordinaciones se hacen por teléfono y se pierde el registro de esos cambios.<br>
-    Cuando se le consultó por mejoras, Martín fue claro: desean una plataforma que les permita hacer el pedido, hacerle seguimiento, confirmar la entrega, generar reportes y validar el consumo —todo en un solo lugar. También expresó que le gustaría tener visibilidad en tiempo real del estado del pedido.
+    Jorge menciona que tiene más de 10 años de experiencia en el área de logística. Indica que utiliza plataformas como Excel, WhatsApp y Outlook para desempeñar su rol, y de esta manera realiza el seguimiento de los pedidos a sus clientes, aunque no en tiempo real. Jorge también señala algunos problemas que afectan su puesto, como la falta de comunicación con el cliente y fallos en el stock. Además, considera que una plataforma como la nuestra podría reducir los errores y facilitar todo el proceso, siempre y cuando no sea muy complicada de implementar.
 
 ---
 
-#### Entrevistado N°2
-![entrevista_segmento1](img/entrevista2_segmento1.png) 
-- Nombres: Nombre inventado
-- Apellidos: Apellido inventado
-- Edad: … años
-- Distrito: Lima
-- URL de Entrevista: 
-- Duración:
+#### Entrevistado N°2 - Segmento: Empresas solicitantes
+![entrevista_Adrian](img/entrevista-Adrian.jpg) 
+- Nombre: Javier
+- Apellidos: Hernandez
+- Edad: 23 años
+- Distrito: Lima 
+- Duración: 00:07:49 minutos - minuto de inicio: 00:06:00
 - Resumen:<br>
-    
-
+   Javier comenta que trabaja en el área de logística, función en la que se encarga del inventario, así como de organizar el suministro de combustible para las diferentes maquinarias que requiere la empresa. Menciona que no cuentan con un sistema propio y, al tratarse de grandes cantidades de combustible, necesitan que un representante de la empresa esté presente, lo cual retrasa las operaciones. Además, comenta que esto les ha generado problemas legales debido a la falta de confirmación de identidad y de comunicación, por lo que considera que un software de gestión sería de gran ayuda.
 ---
 
 #### Entrevistado N°3
-![entrevista_segmento1](img/entrevista3_segmento1.png) 
-- Nombres: Nombre inventado
-- Apellidos: Apellido inventado
-- Edad: … años
-- Distrito: Lima  
-- URL de Entrevista: 
-- Duración:
-- Resumen:<br>
-    
-
----
-
-#### Entrevistado N°4
-![entrevista_segmento1](img/entrevista4_segmento2.png) 
-- Nombres: Nombre inventado
-- Apellidos: Apellido inventado
-- Edad: … años
-- Distrito: Lima
-- URL de Entrevista: 
-- Duración:
-- Resumen:<br>
-    _Nombre inventado_ indica que los pedidos de empresas clientes se gestionan mediante llamadas, WhatsApp y correos electrónicos.<br>No utilizan ningún sistema digital centralizado; todo se registra manualmente en hojas Excel. Desde que reciben el pedido, se valida la disponibilidad en almacén, se programa la entrega y se despacha.<br>
-    SEl control de lo entregado se hace comparando guías físicas, y los reportes de volúmenes y entregas se elaboran a fin de mes de forma manual. No cuentan con un sistema automático para validar stock y no ofrecen seguimiento en tiempo real al cliente. Los problemas más comunes son confusiones en las direcciones, pedidos mal registrados o falta de confirmación de pago a tiempo. La conciliación se hace por correo y muchas veces demora. Estaría dispuesto a integrar su proceso a una plataforma SaaS si ésta es simple, rápida y confiable. Usa principalmente celular en el trabajo, se apoya en WhatsApp y Excel, y considera que tiene un nivel medio de habilidad tecnológica.
-
----
-
-#### Entrevistado N°5
 ![entrevista_segmento1](img/entrevista5_segmento2.png) 
 - Nombres: Zahir
 - Apellidos: Sanchez
 - Edad: 19 años
 - Distrito: Lima
-- URL de Entrevista: 
-- Duración: 00:05:35
+- Duración: 00:05:35 - minuto de inicio: 00:13:50
 - Resumen:<br>
     Zahir es encargado del registro de pedidos de Petromax, que se dedica a la venta de combustible. Maneja los pedidos de forma semimanual ya que estos llegan primero a través de correo y luego su información pasa a su sistema interno. Tiene la necesidad de generar reportes tanto mensualmente como diariamente, y principalmente deben mostrar datos de ventas y consumo. Siente que es un gran problema el registro de pedidos, ya que cuando identifican un error de información, el pedido se encuentra en estado avanzado. Siente que seríal ideal centralizar todos estos procesos, principallmente por el registro y la conciliación de pagos.
+    
 
 ---
 
-#### Entrevistado N°6
+#### Entrevistado N°4
 ![entrevista_segmento1](img/entrevista6_segmento2.png) 
 - Nombres: Kevyn
 - Apellidos: Chacon
 - Edad: 31 años
 - Distrito: Lima
-- URL de Entrevista: 
-- Duración: 00:07:06
+- Duración: 00:07:06 - minuto de inicio: 00:19:26
 - Resumen:<br>
     Kevyn es un parte del area de operaciones de Energex que utiliza combustible para sus vehículos. Recibe los pedidos por correo y usa Excel para su registro y gestión. Se siente frustrado por la dificultad para hacer una gestión de las solicitudes de combustible. Es necesaria la comunicación con sus clientes para que estén al tanto del despacho de sus pedidos. Cree que una solución como FuelTrack podría ayudar a mejorar la comunicación con los proveedores y optimizar el proceso de pedidos.
 
+---
+
+#### Entrevistado N°5
+![entrevista_segmento1](img/entrevista-Cesar.jpg) 
+- Nombres: Grover
+- Apellidos: Manosalva
+- Edad: 33 años
+- Distrito: Lima
+- Duración: 00:15:43 - minuto de inicio: 00:26:33
+- Resumen:<br>
+    Grover menciona que trabaja en Petroperú y que requieren un suministro constante de combustible para la maquinaria. Explica que actualmente utilizan una plataforma interna para gestionar los pedidos, la cual permite que estos pasen por diferentes etapas de aprobación y seguimiento. Sin embargo, señala que cuando trabaja en provincias, en ocasiones el suministro no llega hasta su lugar de trabajo, lo que genera inconvenientes en las operaciones. A pesar de contar con un sistema, considera que aún hay oportunidades de mejora en cuanto a la logística y cobertura del servicio.
+
+---
+
+#### Entrevistado N°6
+![entrevista_segmento1](img/entrevista-Franz.jpg) 
+- Nombres: Aleskha
+- Apellidos: Fernandez
+- Edad: 32
+- Distrito: San Borja
+- Duración: 00:05:09 - minuto de inicio: 00:42:15
+- Resumen:<br>
+      Aleskha menciona que utiliza herramientas de Microsoft para realizar su trabajo, apoyándose principalmente en Excel para llevar un control interno. Sin embargo, señala que no cuentan con un sistema propio, por lo que realiza los pedidos a su proveedor mediante WhatsApp. Entre los principales problemas que enfrenta se encuentran la falta de confirmación, los retrasos en los tiempos de entrega y la necesidad de estar constantemente dando seguimiento para obtener los informes. Asimismo, a veces tienen fallos en el contenido del pedido siendo este menos de lo solicitado.
+  
 ---
 
 ### 2.2.3. Análisis de entrevistas.
