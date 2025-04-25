@@ -1,289 +1,116 @@
+# Capítulo I: Introducción
 
-<div align="center">
-  <img src="img/logo.jpg" alt="Logo de la Universidad" />
-  
-  <h2>Universidad: Universidad Peruana de Ciencias Aplicadas</h2>
-  <p><strong>Carrera:</strong> Ingeniería de Software</p>
-  <p><strong>Ciclo:</strong> 2025-10</p>
+## 1.1. Startup Profile
 
-  <p><strong>Código del Curso y Nombre del Curso:</strong> 1ASI0730 - Aplicaciones Web</p>
-  <p><strong>Sección:</strong> 4374</p>
+### 1.1.1. Descripción de la Startup
 
-  <p><strong>Profesor:</strong> Alberto Wilmer Sánchez Seña</p>
+**FuelTrack** es una plataforma digital diseñada para optimizar el proceso de gestión de pedidos de combustibles entre empresas solicitantes y empresas proveedoras. Busca reemplazar los canales informales actuales como llamadas telefónicas, correos electrónicos y mensajes por WhatsApp, a través de una solución integral que garantiza orden, trazabilidad y eficiencia en todas las etapas del pedido, desde la solicitud hasta la entrega final.
 
-  <h3>Informe de Trabajo Final</h3>
+**Misión:** Digitalizar y optimizar la gestión de pedidos de combustible entre empresas, asegurando orden, trazabilidad y eficiencia.
 
-  <p><strong>Startup:</strong> FuelTrack</p>
-  <p><strong>Nombre del Producto:</strong> FuelTrack Pro</p>
-</div>
+**Visión:** Liderar la transformación digital del sector de distribución de combustibles en Latinoamérica.
 
-<h3 align="center">Relación de Integrantes:</h3>
+### 1.1.2. Perfiles de integrantes del equipo
 
-<div align="center">
-  <table>
-    <tr>
-      <th><strong>Código</strong></th>
-      <th><strong>Apellidos y Nombres</strong></th>
-    </tr>
-    <tr>
-      <td>u202213278</td>
-      <td>Bryan Ronald Espejo Gamarra</td>
-    </tr>
-    <tr>
-      <td>u201817507</td>
-      <td>Manuel Angel Sanchez Arenas</td>
-    </tr>
-    <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
-    </tr>
-    <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
-    </tr>
-    <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
-    </tr>
-  </table>
-</div>
 
-<p align="center"><strong>Mes y Año:</strong> Abril 2025</p>
+## 1.2. Solution Profile
 
-## Registro de Versiones del Informe
+**FuelTrack** es una plataforma digital diseñada para mejorar y automatizar el proceso de pedidos de combustible entre empresas solicitantes y proveedoras. Su objetivo principal es reemplazar los canales informales como llamadas, correos y mensajes por WhatsApp, mediante una solución que centraliza y ordena todo el flujo de gestión: desde la solicitud hasta la entrega del combustible.
 
-| **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
-|-------------|-------------|---------------------------------------|-----------------------------------------------|
-| **1.0**     | 2025-04-08  | Espejo Gamarra, Bryan Ronald          | **Se incluyeron los siguientes capítulos:** Capítulo I. Introducción al proyecto y descripción general. |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-| **2.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo II. Análisis de la competencia y entrevistas. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **2.1**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo III. Especificación de los requisitos del producto. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **3.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo IV. Diseño del producto y la interfaz de usuario. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **4.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo V. Implementación, validación y despliegue del producto. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
+La plataforma permite a las empresas solicitantes registrar sus pedidos, validar pagos, hacer seguimiento en tiempo real y confirmar entregas, todo desde un solo lugar. Esta plataforma ha sido pensada para ofrecer trazabilidad, eficiencia y control operativo, integrando funciones como conciliación bancaria automática, asignación inteligente de combustible, validación de inventario y generación de reportes históricos.
 
----
-## Project Report Collaboration Insights
+Su diseño busca facilitar la operación diaria tanto para solicitantes como para proveedores, mejorando la transparencia y reduciendo errores humanos.
 
-**URL del Repositorio:**  
-[Repositorio de GitHub](https://github.com/orgs/1ASI0730-2510-4374-G3-FuelTrack/repositories)
+### 1.2.1. Antecedentes y problemática
 
-Este informe ha sido desarrollado de forma colaborativa mediante GitHub, empleando GitFlow y Conventional Commits. Cada miembro del equipo ha contribuido con commits y ramas individuales durante el desarrollo del proyecto.
+|Las 5w y 2H | Pregunta                           | Descripción |
+|------------|------------------------------------|-------------|
+| **What?**  | ¿Cuál es el problema?              | La gestión de pedidos de combustible entre empresas que se realiza mediante canales informales como llamadas telefónicas, correos electrónicos o mensajes por WhatsApp, generando desorden, errores en la información, demoras y falta de trazabilidad en el proceso. |
+| **When?**  | ¿Cuándo sucede el problema?        | Este problema ocurre en el día a día de la operación logística, especialmente durante la planificación y solicitud de abastecimiento de combustible. Las empresas que operan en sectores que requieren un suministro constante (como minería o construcción) enfrentan estos inconvenientes cada vez que necesitan hacer un nuevo pedido, validar pagos o resolver conflictos logísticos. |
+| **Where?** | ¿Dónde sucede el problema?         | Se presenta en empresas de distintos sectores que requieren combustible constantemente, y en las proveedoras que lo distribuyen. Las áreas más afectadas son logística, finanzas y abastecimiento, donde se concentra el intercambio de información no estructurada. |
+| **Why?**   | ¿Por qué sucede el problema?       | Debido a la ausencia de herramientas digitales específicas para este proceso. Las empresas no cuentan con soluciones integradas que les permitan registrar, controlar y auditar sus operaciones de forma ordenada, segura y transparente. |
+| **Who?**   | ¿Quién está involucrado?           | Participan tanto los solicitantes de combustible como los proveedores. Esto incluye personal de logística, compras, finanzas, operadores de planta y choferes. Todos se ven afectados por la falta de control y coordinación. |
+| **How?**   | ¿Cómo se va a llevar a cabo?       | FuelTrack digitaliza y automatiza todo el flujo de gestión: desde la solicitud, validación de pago, control de inventario, hasta la confirmación de entrega. La plataforma centraliza la información, reduce errores y mejora la eficiencia a través de una interfaz intuitiva y trazable. |
+| **How much?** | ¿Cuánto costará o qué recursos se necesitarán? | Se requerirán recursos técnicos como un equipo de desarrollo, servidores en la nube, y sistemas de seguridad e integración. A nivel humano, personal para soporte, ventas y atención al cliente. También se considerarán inversiones en marketing, relaciones comerciales, y análisis del sector energético para adaptar la solución al mercado. |
 
-**Participación del equipo:**
+### 1.2.2. Lean UX Process
 
-| **Integrante**     | **Usuario GitHub**  | **Aportaciones destacadas**                     |
-|--------------------|---------------------|-------------------------------------------------|
-| Bryan Espejo       | @SaeBryxn            | Inicialización del repositorio y configuración inicial del proyecto. |
-| Manuel Sanchez      | @manuels7anchez      | Por colocar aporte |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
+#### 1.2.2.1. Lean UX Problem Statements
+
+### Solicitantes de Combustible (Empresas Compradoras)
+
+Las empresas de los sectores industriales, mineros y de construcción enfrentan dificultades significativas al coordinar sus pedidos de combustible, debido al uso de canales informales como llamadas telefónicas, correos electrónicos y aplicaciones de mensajería.
+
+Esta falta de formalidad genera desorganización, errores en los pedidos y una notable ausencia de trazabilidad, lo que provoca incertidumbre sobre el estado de los despachos y posibles interrupciones en sus operaciones.
+
+Nuestra solución propone una plataforma digital centralizada que permite a estas empresas registrar y monitorear sus pedidos en tiempo real, asegurando transparencia y eficiencia en todo el proceso.
+
+Sin embargo, la adopción de nuevas tecnologías puede ser un desafío para algunos usuarios si la plataforma no es lo suficientemente intuitiva y alineada con sus procesos actuales.
+
+> **¿Cómo podemos diseñar una experiencia de usuario que facilite una gestión de pedidos rápida, eficiente y accesible para todos los usuarios, independientemente de su familiaridad con la tecnología?**
 
 ---
 
+### Proveedores de Combustible (Empresas Distribuidoras)
 
-## Contenido
+Las empresas distribuidoras de combustible gestionan diariamente múltiples pedidos, conciliaciones bancarias y despachos, lo que representa una carga administrativa considerable y aumenta el riesgo de errores logísticos.
 
-- [Carátula](#carátula)
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1 Startup Profile](#11-startup-profile)
-    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2 Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+La dependencia de procesos manuales y herramientas dispersas dificulta la eficiencia operativa y la satisfacción del cliente.
+
+Nuestra solución ofrece una plataforma integral que automatiza la gestión de pedidos, desde la solicitud hasta la entrega, incluyendo funciones como conciliación bancaria automática, asignación inteligente de combustible y manejo eficiente de reprogramaciones logísticas.
+
+No obstante, la implementación de un nuevo sistema puede encontrar resistencia si los beneficios no son evidentes y medibles en el corto plazo.
+
+> **¿Cómo podemos demostrar de manera efectiva a los proveedores que la adopción de nuestra plataforma resultará en una mejora tangible de su eficiencia operativa y en una reducción significativa de errores?**
 
 ---
 
-## Student Outcome
+### Visión Estratégica y del Producto
 
-> *Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado.*
+El mercado latinoamericano de distribución de combustibles carece actualmente de una solución SaaS especializada que ofrezca una gestión integral y trazabilidad completa de los pedidos entre empresas compradoras y proveedoras.
 
-| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
-|---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Bryan Espejo**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-|                                                              | **Manuel Sanchez**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Bryan Espejo**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-|                                                              | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-| **Desarrollo de habilidades técnicas y de gestión**          | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
+Esta ausencia crea una brecha significativa entre las prácticas operativas actuales, caracterizadas por su informalidad, y la necesidad creciente de procesos más modernos, eficientes y transparentes.
 
----
+FuelTrack aspira a cerrar esta brecha proporcionando una plataforma escalable y adaptable que se convierta en el estándar digital para la gestión de pedidos de combustible en la región.
 
-## Capítulo I: Introducción
+Sin embargo, dada la complejidad del ecosistema y la diversidad de actores involucrados, es esencial una estrategia de introducción al mercado cuidadosamente planificada.
 
-### 1.1 Startup Profile
+> **¿Cómo podemos identificar y abordar un segmento inicial que nos permita validar nuestra propuesta de valor, generar tracción en el mercado y establecer una base sólida para una expansión escalable?**
 
-### 1.1.1 Descripción de la Startup
+#### 1.2.2.2. Lean UX Assumptions
+## Business Outcomes Assumptions
+- Las empresas proveedoras y solicitantes mejorarán su eficiencia operativa al reemplazar los canales informales por una solución digital como FuelTrack.
+- La plataforma permitirá una trazabilidad completa del estado de cada pedido, disminuyendo errores operativos y pérdidas de inventario.
+- Al centralizar el flujo de pedidos y entregas, FuelTrack reducirá la dependencia de operadores humanos, minimizando errores manuales.
 
-**FuelTrack** es una startup innovadora dedicada a la optimización de la gestión de pedidos de combustible entre empresas solicitantes y proveedores. Fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), nuestra propuesta se centra en la digitalización de un sector tradicionalmente dependiente de procesos manuales, brindando una solución tecnológica que garantiza eficiencia, transparencia y un control más riguroso de las operaciones.
+## Suppliers Assumptions
+- Las empresas proveedoras aumentarán su capacidad de respuesta y podrán atender más pedidos en menos tiempo gracias a la automatización.
+- Los proveedores esperan poder acceder al historial de pedidos, reportes descargables y métricas clave para evaluar su desempeño operativo.
+- Si la plataforma les ayuda a ahorrar tiempo, reducir errores o integrar sus sistemas actuales (como contabilidad o GPS), estarán dispuestos a pagar por funciones premium.
 
-**Misión**: Nuestra misión es desarrollar soluciones tecnológicas avanzadas que transformen la gestión de pedidos de combustible, eliminando los métodos informales y reduciendo el margen de error, mediante una plataforma web intuitiva y accesible.
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-**Visión**: Nuestra visión es posicionarnos como líderes en la digitalización del sector energético, ofreciendo a las empresas una herramienta que facilite una gestión más eficiente, segura y sostenible, contribuyendo al progreso tecnológico y a la mejora de la competitividad del sector.
+| Nº | Hipótesis                                | Supuesto                                                                                      |
+|----|-------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1  | Plataforma digital para gestión de pedidos | Creemos que la eficiencia podría mejorar si las empresas cuentan con una plataforma para registrar y dar seguimiento a sus pedidos. |
+| 2  | Seguimiento en tiempo real del pedido     | Consideramos que mejorar la experiencia del cliente es posible si puede seguir su pedido con actualizaciones en tiempo real.         |
+| 3  | Panel de gestión para proveedores         | Estimamos que los proveedores podrían optimizar su logística si tienen acceso a un panel de control de pedidos y entregas.           |
+| 4  | Registro histórico y trazabilidad de pedidos | Proponemos que reducir errores y facilitar auditorías sería posible con un historial digital accesible para ambas partes.           |
+| 5  | Comunicación interna integrada            | Creemos que la coordinación mejorará si existe un canal de mensajería dentro de la plataforma, evitando medios externos.             |
 
----
-#### 1.1.2 Perfiles de integrantes del equipo
+#### 1.2.2.4. Lean UX Canvas
 
-| Foto                                | Nombre completo   | Código       | Carrera            | Habilidades técnicas y rol                  |
-|-------------------------------------|-------------------|--------------|--------------------|---------------------------------------------|
-| ![Bryan Espejo](img/foto_bryan.jpg) | Bryan Espejo  | u202213278   | Ingeniería Software| Desarrollo Backend, Gestión de Base de Datos|
-| ![Inserte foto aquí](img/foto_manuel.jpg) | Manuel Sanchez | u201817507 | Ingeniería de Software          | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero2.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero3.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
+| **Elemento**            | **Descripción**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| Usuarios                | Empresas solicitantes y proveedores de combustible                             |
+| Necesidades del usuario | Rapidez, transparencia, orden y eficacia en la gestión de pedidos              |
+| Solución                | Plataforma web (web/móvil) de facilitación, seguimiento y confirmación         |
+| Supuestos               | Los métodos actuales son informales e ineficientes                             |
+| Beneficios esperados    | Reducción de tiempos de espera y errores                                       |
+| Métricas clave          | Satisfacción de usuarios, reducción de errores y número de errores             |
+| Hipótesis a validar     | Las empresas preferirán nuestra plataforma sobre un medio informal             |
 
----
-
-
-### 1.2.1 Antecedentes y problemática
-
-**Descripción del problema**  
-El sector de distribución de combustibles enfrenta serias ineficiencias debido a la dependencia de métodos informales como llamadas telefónicas, correos electrónicos y aplicaciones de mensajería para gestionar los pedidos de combustible. Estos métodos generan desorganización, errores y falta de visibilidad en tiempo real, lo que afecta la eficiencia operativa y la relación con los clientes.
-
-**Técnica 5W+2H**
-
-- **What? (¿Qué?)**  
-  La problemática principal es la falta de un sistema centralizado y digital para gestionar los pedidos de combustible, lo que genera errores humanos, duplicación de esfuerzos y retrasos en las entregas.
-
-- **When? (¿Cuándo?)**  
-  El problema se presenta constantemente en el proceso de gestión de pedidos, especialmente cuando hay un alto volumen de solicitudes o múltiples pedidos a coordinar.
-
-- **Where? (¿Dónde?)**  
-  El problema ocurre en empresas solicitantes de combustible y proveedores, tanto en áreas urbanas como rurales, donde la infraestructura digital aún no está optimizada.
-
-- **Who? (¿Quién?)**  
-  Los principales afectados son las empresas solicitantes (medianas y grandes), los proveedores de combustible y los encargados de la logística y gestión de pedidos.
-
-- **Why? (¿Por qué?)**  
-  El problema radica en la falta de integración entre los métodos actuales de gestión (como correos y aplicaciones de mensajería), que dificultan un control centralizado y preciso de los pedidos.
-
-- **How? (¿Cómo?)**  
-  Los procesos actuales son desorganizados, utilizando diversas plataformas desconectadas, lo que impide tener un flujo de trabajo eficiente y controlado.
-
-- **How Much? (¿Cuánto?)**  
-  La magnitud del problema es considerable, pues cada día se pierden horas valiosas debido a la ineficiencia y los errores, lo que incrementa los costos operativos y puede generar pérdidas económicas significativas.
-
----
-
-
-#### 1.2.2 Lean UX Process
-
-##### 1.2.2.1 Lean UX Problem Statements
-
-Nuestra plataforma, FuelTracks, ofrece una solución para la gestión de pedidos de combustible entre empresas solicitantes y proveedores. El objetivo de este startup es reemplazar los métodos informales que se usan actualmente, tales como las llamadas, correos electrónicos y aplicaciones de mensajería,  por un sistema digital y centralizada que permita mejorar principalmente la trazabilidad de los pedidos en tiempo real.
-
-Luego de analizar la metodología utilizada actualmente en el mercado de combustibles, identificamos un desafío crítico que puede resolver nuestra propuesta: la dependencia de las empresas del sector en canales desorganizados y no integrados, lo cual suele generar errores en los pedidos, retrasos en las entregas y duplicación de esfuerzo. Esta falta de un sistema centralizado impacta negativamente la eficiencia de las operaciones de los proveedores además de reducir la satisfacción de los clientes.
-
-En el contexto actual donde crece cada vez más la demanda por servicios logísticos ágiles e infalibles, es necesaria una plataforma que facilite y compacte el proceso de gestión de pedidos. Con esta, las empresas evitarán pérdidas operativas y se reducirán en gran medida las malas experiencias de los clientes.
-
-¿Cómo podríamos diseñar una solución digital que centralice y automatice la gestión de pedidos de combustible, integrando a proveedores y solicitantes en una misma plataforma, para reducir errores y aumentar la eficiencia operativa?
-
-##### 1.2.2.2 Lean UX Assumptions
-
-Business Assumptions
-
-- Las empresas proveedoras tienen en la adopción de nuevas tecnologías para automatizar multiples procesos de gestión con el fin de tener un servicio más eficiente y reducir el número de operadores comerciales que necesitan.   
-- Las empresas están buscando formas de reducir errores y retrasos logísticos para optimizar sus costos operativos.  
-- Los proveedores estan dispuestos a invertir para mejorar su nivel de servicio y aumentar su competitividad en el mercado.  
-- Las empresas usuarias apreciarán tener un mayor control de sus órdenes y ser capaces de seguirlas en una plataforma centralizada.  
-- La dificil trazabilidad de los pedidos y la posibilidad de fallas en la comunicación hace que dejar los métodos informales sea una necesidad crítica para el sector en general.
-
----
-
-User Assumptions
-
-**¿Quién es el usuario?**  
-Los usuarios principales serían los encargados logísticos de los proovedores y las empresas compradoras de combustible.
-
-**¿Dónde encaja nuestro producto en su trabajo o vida?**  
-FuelTracks encajaría en el día a día de los usuarios como una plataforma de gestión centralizada, que ayudaría a coordinar, rastrear y organizar pedidos de combustible de forma confiable. Reemplazando así los sistemas dispersos que se utilizan hoy en día.
-
-**¿Qué problemas tiene nuestro producto que resolver?**  
-FuelTracks debe resolver la desorganización causada por métodos informales de venta, reducir errores humanos y mejorar la experiencia del cliente.
-
-**¿Cuándo y cómo es nuestro producto usado?**  
-Será utilizado diariamente por solicitantes y los proveedores por igual. Por el lado de los usuarios solicitantes, usarán la plataforma para registrar y monitorear pedidos de combustible, y por el lado de proveedores para gestionar la recepción, programación y entrega de dichos pedidos.
-
-**¿Qué características son importantes?**  
-El seguimiento de pedidos en tiempo real, actualizaciones de estado mediante notificiaciones, historial de entregas, paneles de control y una interfaz clara y rápida.
-
-**¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
-El producto debe presentar una interfaz limpia y profesional. Adaptada al perfil corporativo de los clientes objetivos. Debe ser eficiente, permitiendo la creación, modificación y seguimiento de pedidos en pocos clics. También debe ser altamente confiable, debido al alto valor y magnitud de las órdenes que se realizarán en la plataforma
-
----
-
-Feature Assumptions
-
-- Creemos que al proporcionar una plataforma centralizada con trazabilidad en tiempo real, ayudaremos a las empresas a reducir errores y mejorar la eficiencia logística.  
-- Creemos que al ofrecer una interfaz clara y rápida con funciones de seguimiento, aumentaremos la adopción entre proveedores y solicitantes.  
-- Creemos que al automatizar la gestión de pedidos, los usuarios reducirán su dependencia de métodos informales y ganarán en control y visibilidad.  
-- Creemos que al integrar notificaciones en tiempo real sobre estados de pedido, mejoraremos la coordinación entre actores y reduciremos los retrasos.  
-- Creemos que al incluir visualización de métricas, facilitaremos la toma de decisiones y la optimización operativa de los proveedores.
-
-##### 1.2.2.3 Lean UX Hypothesis Statements
-
-Hypothesis Statement 01  
-**Creemos que** la centralización de los pedidos en nuestra plataforma reducirá el ratio de errores causados por problemas de coordinación entre las empresas solicitantes y los proveedores.  
-**Sabremos que hemos tenido éxito**  
-**Cuando** luego de los primeros tres meses de uso se reporte que más de un 70% de los pedidos realizados fueron confirmados sin necesidad de correcciones posteriores.
-
----
-
-Hypothesis Statement 02  
-**Creemos que** ofrecer más herramientas para el control y seguimiento de pedidos mejorará la satisfacción de los clientes solicitantes.  
-**Sabremos que hemos tenido éxito**  
-**Cuando** se observe una reducción del 30% en llamadas de seguimiento.
-
----
-
-Hypothesis Statement 03  
-**Creemos que** la plataforma permitirá a los proveedores optimizar el proceso de gestión de los pedidos y reducir el tiempo que toma cumplir con cada uno.  
-**Sabremos que hemos tenido éxito**  
-**Cuando** los proveedores logren reducir en un 20% el tiempo promedio entre confirmación y entrega de pedidos.
-
----
-
-Hypothesis Statement 04  
-**Creemos que** las notificaciones automáticas sobre el estado de los pedidos reducirán la necesidad de una gran cantidad de operadores comerciales de alta disponibilidad.  
-**Sabremos que hemos tenido éxito**  
-**Cuando** las solicitudes de información por parte de clientes disminuyan en un 40% y el tiempo promedio de atención se reduzca en un 60% tras el primer trimestre de uso.
-
-
-##### 1.2.2.4 Lean UX Canvas
-<!-- Imagen o tabla del Lean UX Canvas -->
-
----
-
-### 1.3 Segmentos objetivo
-
+## 1.3. Segmentos objetivo
 #### A. Empresas solicitantes de combustible
 
 Empresas medianas y grandes que requieren de combustible de forma constante para el desarrollo de sus operaciones. Utilizan este recurso para alimentar maquinaria, vehículos o equipos, y buscan procesos más ágiles, ordenados y confiables para su gestión de pedidos. Además, mantienen un contrato de exclusividad con un proveedor de combustible, lo que les permite tener un flujo constante de pedidos y una relación comercial estable.
@@ -302,4 +129,3 @@ Son empresas dedicadas a la distribución de combustibles, atendiendo principalm
 - Mejorar la experiencia del cliente mediante canales digitales.
 - Reducir errores en la entrega por información incompleta o mal gestionada.
 - Optimizar la planificación logística y distribución.
-

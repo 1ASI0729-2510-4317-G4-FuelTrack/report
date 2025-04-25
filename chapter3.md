@@ -1,5 +1,63 @@
 # Capitulo III: Requirements Specifications
 ## 3.1 To-Be Scenario Mapping
+
+### As-Is Scenario Mapping
+
+| FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
+|-------------------|----------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------------------------------------|
+| **DOING**         | Llamadas, correos, WhatsApp sin orden.       | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje.           |
+| **THINKING**      | "¿Habrán recibido mi mensaje?"               | "¿Me habrán entendido bien?"                     | "¿Dónde estará nuestro pedido?"                | "¿Ya habrán llegado?"                        |
+| **FEELING**       | Frustración, desorganización.                | Incertidumbre, falta de confianza.               | Ansiedad, impaciencia.                         | Duda, estrés.                                |
+
+---
+
+### Escenario To-Be (Con FuelTrack)
+
+| FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
+|-------------------|----------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------------------------------------|
+| **DOING**         | Todo se centraliza en la app/web de FuelTrack. | Se llena un formulario estructurado que deja claro como se realiza el pedido             | Seguimiento en tiempo real con notificaciones. | Confirmación digital en la plataforma.       |
+| **THINKING**      | "Todo está en un solo lugar."                | "El pedido quedó registrado correctamente."       | "Puedo ver el progreso del pedido fácilmente." | "Ya tengo la confirmación de que llegó nuestro pedido."          |
+| **FEELING**       | Tranquilidad, control.                       | Confianza, seguridad.                            | Satisfacción, reducción del estrés.            | Alivio, certeza.                             |
+
 ## 3.2 User Stories
+
+| User Story ID | Título                              | Descripción                                                  | Criterios de aceptación                                                                                                |
+|---------------|-------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| US01          | Ver información del sistema           | Como visitante, quiero ver una sección que explique qué es FuelTrack y cómo funciona para entender su utilidad. | **Escenario 1: Registro Visualización de la sección informativa**<br/>Dado que soy un visitante en la landing page de FuelTrack,<br/>Cuando ingreso a la página,<br/>Entonces debo poder visualizar una sección que explica qué es FuelTrack y cómo funciona.<br/><br/>**Escenario 2: Organización del contenido**<br/>Dado que estoy navegando por la página,<br/>Cuando llego a la sección de información,<br/>Entonces el contenido debe estar bien estructurado y ser fácil de entender.<br/><br/> |
+| US02          | Formulario de contacto     | Como visitante, quiero enviar un mensaje de contacto desde la landing para pedir información adicional sobre el sistema. | **Escenario 1: Envío de formulario con datos completos**<br/>Dado que he completado correctamente todos los campos del formulario<br/>Cuando presiono el botón “Enviar”,<br/>Entonces el sistema debe procesar el mensaje sin errores.<br/><br/>**Escenario 2: Envío con campos incompletos**<br/>Dado que no he completado uno o más campos requeridos,<br/>Cuando intento enviar el formulario,<br/>Entonces el sistema debe evitar el envío e indicar que los campos están incompletos.<br/><br/> |
+| US03          | Diseño adaptable (responsive)     | Como usuario, quiero que la landing page se adapte a mi pantalla para poder navegar cómodamente. | **Escenario 1: Visualización con diferentes resoluciones de navegador**<br/>Dado que accedo a la landing page desde un navegador web,<br/>Cuando cambio el tamaño de la ventana del navegador,<br/>Entonces el contenido debe reorganizarse correctamente sin romper el diseño ni perder funcionalidad.<br/><br/>**Escenario 2: Accesibilidad de todos los elementos**<br/>Dado que estoy navegando por la página,<br/>Cuando visualizo cada sección,<br/>Entonces todos los botones, textos e imágenes deben mantenerse visibles y funcionales.<br/><br/> |
+| US04          | Botón de acceso a plataforma                   | Como usuario, quiero tener un botón visible para ir al login y acceder a mi cuenta. | **Escenario 1: Visualización del botón**<br/>Dado que estoy en la landing page,<br/>Cuando llego al encabezado o sección principal,<br/>Entonces debo poder ver claramente un botón para acceder a la plataforma.<br/><br/>**Escenario 2: Redirección al login**<br/>Dado que hago clic en el botón de acceso,<br/>Cuando se carga la nueva vista,<br/>Entonces debo ser redirigido a la página de inicio de sesión.<br/><br/> |
+| US05          | Inicio de sesión                 | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña para acceder a mi panel. | **Escenario 1: Inicio de sesión con credenciales válidas**<br/>Dado que ingreso un correo y contraseña registrados,<br/>Cuando presiono el botón de inicio de sesión,<br/>Entonces debo ingresar a la plataforma en el panel correspondiente a mi rol.<br/><br/>**Escenario 2: Inicio de sesión con credenciales inválidas**<br/>Dado que ingreso un correo o contraseña incorrectos,<br/>Cuando intento iniciar sesión,<br/>Entonces el sistema debe impedir el acceso y mostrar que las credenciales son incorrectas.<br/><br/> |
+| US06          | Registrar nuevo pedido | Como solicitante, quiero registrar un pedido indicando tipo y cantidad de combustible para que el proveedor lo gestione.   | **Escenario 1: Registro correcto de pedido**<br/>Dado que soy un solicitante autenticado,<br/>Cuando completo el formulario de pedido y lo envío,<br/>Entonces el sistema debe guardar el pedido con estado “pendiente”.<br/><br/>**Escenario 2: Registro con datos incompletos**<br/>Dado que dejo campos requeridos sin completar,<br/>Cuando intento enviar el formulario,<br/>Entonces el sistema debe evitar el registro hasta que los datos estén completos.<br/><br/> |
+| US07          | Consultar estado del pedido       | Como solicitante, quiero ver el estado actual de mis pedidos para hacer seguimiento del proceso.                          | **Escenario 1: Visualizar historial de pedidos**<br/>Dado que soy un solicitante autenticado,<br/>Cuando ingreso a la sección “Mis pedidos”,<br/>Entonces debo ver una lista con mis pedidos previos y sus estados.<br/><br/>**Escenario 2: Estado actualizado del pedido**<br/>Dado que un pedido cambia de estado,<br/>Cuando lo visualizo en la lista,<br/>Entonces el estado debe coincidir con el actual en el sistema.<br/><br/> |
+| US08          | Confirmar entrega del pedido | Como solicitante, quiero confirmar la recepción del pedido para que el proveedor lo cierre.                          | **Escenario 1: Confirmación para pedido despachado**<br/>Dado que tengo un pedido en estado “despachado”,<br/>Cuando accedo a su detalle,<br/>Entonces debo ver la opción para confirmar la entrega.<br/><br/>**Escenario 2: Confirmación realizada correctamente**<br/>Dado que presiono el botón de confirmar entrega,<br/>Cuando se procesa la acción,<br/>Entonces el estado del pedido debe cambiar a “entregado”.<br/><br/> |
+| US09          | Ver pedidos pendientes     | Como proveedor, quiero ver una lista de pedidos pendientes para revisarlos y decidir si los acepto.       | **Escenario 1: Visualizar pedidos con estado “pendiente”**<br/>Dado que soy un proveedor autenticado<br/>Cuando accedo a la sección de pedidos pendientes,<br/>Entonces debo ver todos los pedidos en estado “pendiente” con su información básica.<br/><br/>**Escenario 2: Sin pedidos pendientes disponibles**<br/>Dado que no hay pedidos en estado “pendiente”,<br/>Cuando ingreso a la sección correspondiente,<br/>Entonces el sistema debe indicarme que no hay pedidos disponibles.<br/><br/> |
+| US10          | Aprobar o rechazar pedido            | Como proveedor, quiero aceptar o rechazar pedidos según disponibilidad para continuar con el proceso.               | **Escenario 1: Aprobar un pedido**<br/>Dado que tengo un pedido en estado “pendiente”,<br/>Cuando hago clic en “Aprobar”,<br/>Entonces el pedido debe pasar a estado “aprobado”.<br/><br/>**Escenario 2: Rechazar un pedido**<br/>Dado que reviso un pedido pendiente,<br/>Cuando hago clic en “Rechazar”,<br/>Entonces el sistema debe cambiar el estado del pedido a “rechazado” y registrar la acción.<br/><br/> |
+| US11          | Marcar pedido como despachado                | Como proveedor, quiero registrar cuándo el pedido sale para entrega para actualizar su estado.  | **Escenario 1: Pedido aprobado listo para despacho**<br/>Dado que un pedido fue aprobado previamente,<br/>Cuando lo abro desde el panel,<br/>Entonces debo tener la opción de marcarlo como despachado.<br/><br/>**Escenario 2: Estado actualizado tras despacho**<br/>Dado que marco el pedido como despachado,<br/>Cuando se ejecuta la acción,<br/>Entonces el estado del pedido debe cambiar a “despachado” y guardarse la fecha de salida.<br/><br/> |
+| US12          | Cerrar pedido    | Como proveedor, quiero cerrar el pedido una vez que el solicitante lo confirme, para finalizar el proceso. | **Escenario 1: Pedido en estado entregado**<br/>Dado que el solicitante ha confirmado la entrega del pedido,<br/>Cuando ingreso al detalle del pedido,<br/>Entonces debo poder cerrarlo si está en estado “entregado”.<br/><br/>**Escenario 2: Pedido finalizado correctamente**<br/>Dado que presiono el botón para cerrar,<br/>Cuando se completa la acción,<br/>Entonces el estado debe cambiar a “cerrado” y no debe ser modificable.<br/><br/> |
+
 ## 3.3 Impact Mapping
-## 3.4 Product backlog
+Solicitantes:
+
+<img src="img/ImpactMappingSolicitante.png" alt="Impact Map - Solicitante">
+
+Proveedores:
+
+<img src="img/ImpactMappingProveedor.png" alt="Impact Map - Proveedor">
+
+## 3.4 Product Backlog
+
+| #Orden |   ID   | User Story | Story Points |
+|:------|:------|:----------|:--------------|
+|01|US-01|Ver información del sistema|2|
+|02|US-02|Formulario de contacto|3|
+|03|US-03|Diseño adaptable (responsive)|5|
+|04|US-04|Botón de acceso a plataforma|1|
+|05|US-05|Inicio de sesión|5|
+|06|US-06|Registrar nuevo pedido|8|
+|07|US-07|Consultar estado del pedido|5|
+|08|US-08|Confirmar entrega del pedido|3|
+|09|US-09|Ver pedidos pendientes|3|
+|10|US-10|Aprobar o rechazar pedido|5|
+|11|US-11|Marcar pedido como despachado|3|
+|12|US-12|Cerrar pedido|2|
