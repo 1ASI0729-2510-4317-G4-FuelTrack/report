@@ -218,6 +218,17 @@ Este bounded context sirve para alojar el feature de ordenes que se realicen, es
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+#### Order request
+
+![Request](img/order-request.png)
+
+Este diagrama de clases organiza el sistema de monitoreo de pedidos de combustible. Clientes representa a quienes solicitan el combustible, Orders gestiona cada pedido realizado, Suppliers identifica a los proveedores que atienden esos pedidos, e Inventory controla el stock disponible. Las relaciones permiten ver claramente cómo un cliente genera un pedido, que es atendido por un proveedor en función del inventario actual.
+#### Order motoring
+
+![Monitorig](img/order-monitoring.png)
+
+Este diagrama de clases define la estructura del sistema de monitoreo de pedidos. Monitoring centraliza el seguimiento del estado de los pedidos, Clients representa a los solicitantes, Orders almacena la información de cada solicitud, y Suppliers registra los proveedores asignados. Las relaciones muestran cómo se controla y actualiza cada pedido en tiempo real, conectando clientes, órdenes y proveedores mediante el módulo de monitoreo.
+
 ### 4.7.2. Class Dictionary
 ### Clase: deliveries
 
