@@ -55,7 +55,7 @@
 | **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
 |-------------|-------------|---------------------------------------|-----------------------------------------------|
 | **1.0**     | 2025-04-08  | Sanchez Arenas, Manuel Angel | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas |
-|             |             | Adrián Emanuel Valerio Garcia | Inserte nombre aquí                           |
+|             |             | Adrián Emanuel Valerio Garcia | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Segmentos objetivos<br>-Solution profile                        |
 |             |             | Luciana Carolina Choquehuanca Nuñez | Inserte nombre aquí                           |
 |             |             | Franz Jair La Torre Valle | Inserte nombre aquí                           |
 |             |             | César Augusto Navarro Correa | Inserte nombre aquí                           |
