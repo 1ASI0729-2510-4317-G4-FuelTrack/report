@@ -49,6 +49,13 @@ Visión: Liderar la transformación digital del sector de distribución de combu
     <td> <img src="img/foto-adrian.png" style="width: 300px"> </td>
     <td> Mi nombre es Adrián, tengo 20 años y estudio la carrera de Ingeniería de Software. Me considero una persona honesta, responsable, siempre buscando soluciones creativas y fomentando el trabajo en equipo para alcanzar objetivos comunes. Estoy comprometido con mi desarrollo profesional y siempre busco nuevas oportunidades para crecer y aportar a proyectos innovadores. </td>
   </tr>
+  <tr>
+    <th colspan="2"> Frezzia Eldaa Isabel Espinoza Paredes </th>
+  </tr>
+  <tr>
+    <td> <img src="img/foto-frezzia.jpg" style="width: 300px"> </td>
+    <td> Mi nombre es Frezzia, estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas como segunda carrera. </td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
