@@ -131,48 +131,47 @@ En esta última sección se agrupan los enlaces de navegación adicionales, los 
 
 ### 4.3.2. Landing Page Mock-up
 
-### **PANTALLA 1: Encabezado Principal**
+## PANTALLA 1
 
-La primera pantalla de la landing page de **FuelTrack** presenta un encabezado claro con el **logo** de la empresa, el **menú de navegación** y un **botón de acceso** visible para facilitar la interacción del usuario. Justo debajo, en la **sección hero**, se utiliza una imagen representativa del servicio, mostrando camiones de combustible y el mensaje directo que resalta la propuesta de valor de FuelTrack. El primer **botón de llamada a la acción (CTA)** está enfocado en los **suppliers** que quieren manejar sus órdenes de combustible, con un contraste adecuado para destacar sin distracciones. El diseño utiliza principios de alineación y jerarquía visual para guiar al usuario de manera clara hacia la acción deseada, de forma fluida y eficiente.
+La primera pantalla presenta un encabezado claro con logo, menú de navegación y un botón de "Contact us" destacado, mostrando una jerarquía visual efectiva y buena arquitectura de información. La sección hero combina una imagen de trabajadores del sector industrial y un mensaje directo sobre la eficiencia en la gestión de pedidos de combustible. El primer call to action (“Start now”) es visible y contrasta bien, guiando al usuario de forma intuitiva. Se aplican principios de alineamiento y énfasis para centrar la atención en la propuesta de valor.
 
-![MLPAGE_V1](img/MLPAGE_V1.png)
+![Pantalla 1](img/MLPAGE_V1.png)
 
-### **PANTALLA 2: ¿Qué Ofrecemos?**
+## PANTALLA 2
 
-En esta sección, se explican de manera concisa los servicios clave que **FuelTrack** ofrece a sus usuarios. Con **tres tarjetas visuales** que incluyen íconos representativos de cada servicio (por ejemplo, gestión de órdenes, seguimiento de combustibles y seguridad en las entregas), la página utiliza **proximidad** para agrupar la información de manera coherente. La jerarquía visual también resalta el **segundo CTA**, dirigido a los **requesters** de combustible, para facilitar su acceso a la plataforma. La disposición sencilla y clara permite a los usuarios captar rápidamente los beneficios sin sobrecargar la vista, asegurando que la información sea accesible para todos los usuarios, incluidos aquellos con dificultades de lectura.
+Aquí se presenta la sección "About us" con un texto breve y claro que explica los objetivos de la empresa. Se complementa con una imagen de profesionales en reunión, que refuerza el mensaje de confianza y colaboración. Se utiliza la proximidad para agrupar visualmente la información importante y los íconos de bullet points facilitan la lectura rápida, manteniendo una estructura limpia y accesible.
 
-![MLPAGE_V2](img/MLPAGE_V2.png)
+![Pantalla 2](img/MLPAGE_V2.png)
 
-### **PANTALLA 3: Planes y Precios**
+## PANTALLA 3
 
-Esta pantalla presenta una **comparativa de planes** para ambos tipos de usuarios (suppliers y requesters), con **tarjetas individuales** para cada plan. Cada tarjeta contiene detalles como el **precio**, las **características principales** y un icono visual que resalta la opción más popular. La estructura facilita la comparación entre los diferentes planes, utilizando **jerarquía visual** para hacer que los precios y beneficios sean fácilmente accesibles. Las imágenes y textos son inclusivos, mostrando una variedad de perfiles de usuarios, lo que permite que la plataforma se conecte emocionalmente con una audiencia diversa.
+La sección "How it works?" muestra de manera sencilla los pasos del proceso mediante pestañas destacadas y un apoyo visual de un camión cisterna, reforzando la temática de la industria de combustibles. La arquitectura de la información facilita la comprensión del proceso paso a paso. El segundo call to action (“See more”) mantiene coherencia visual y apoya la navegación sin generar fricción.
 
-![MLPAGE_V3](img/MLPAGE_V3.png)
+![Pantalla 3](img/MLPAGE_V3.png)
 
-### **PANTALLA 4: Nuestros Proveedores y Partners**
+## PANTALLA 4
 
-En esta sección, se presentan los **logos de los proveedores** y **partners clave de FuelTrack**, dispuestos de manera ordenada y con suficiente espacio negativo para garantizar la claridad visual. El diseño es minimalista, lo que permite que cada logo destaque sin sobrecargar la vista. Esta organización genera **confianza** a través de la **prueba social**, mostrando que FuelTrack trabaja con marcas confiables y reputadas. El diseño limpio y accesible permite que los usuarios identifiquen fácilmente las empresas asociadas con FuelTrack.
+Se presentan los logotipos de los principales proveedores (REPSOL, Shell, BR, Exxon) en una sección limpia y espaciosa. El uso de espacio negativo permite que cada logo se distinga de manera clara, transmitiendo confianza mediante prueba social. El formato minimalista facilita una lectura rápida y genera credibilidad.
 
-![MLPAGE_V4](img/MLPAGE_V4.png)
+![Pantalla 4](img/MLPAGE_V4.png)
 
-### **PANTALLA 5: Testimonios de Usuarios**
+## PANTALLA 5
 
-Esta sección presenta **testimonios** de usuarios reales, acompañados de sus **fotos de perfil** y citas breves que validan la experiencia positiva con FuelTrack. La disposición en bloques y el uso de **proximidad** facilita la lectura, haciendo que cada testimonio sea fácil de escanear. Las imágenes representan una variedad de usuarios, asegurando que el diseño sea inclusivo y que todos los perfiles puedan sentirse identificados con la experiencia. Esta sección añade **autenticidad** y **credibilidad** al sitio, ayudando a los nuevos usuarios a confiar en la plataforma.
+La sección "Our clients" muestra testimonios de clientes en tarjetas individuales, incluyendo imagen de la persona, nombre, y un breve comentario sobre su experiencia. El diseño aplica proximidad y alineación para facilitar la lectura, y las fotos aportan autenticidad y diversidad. Esto fortalece la credibilidad del servicio y conecta emocionalmente con el visitante.
 
-![MLPAGE_V5](img/MLPAGE_V5.png)
+![Pantalla 5](img/MLPAGE_V5.png)
 
-### **PANTALLA 6: Invitación a Proveedores**
+## PANTALLA 6
 
-En esta sección se hace un llamado a los **proveedores** de combustible para unirse a **FuelTrack** y comenzar a gestionar sus órdenes. Se utiliza una **imagen profesional** de un proveedor con un **mensaje claro** y un **botón de registro destacado**, todo en un diseño de jerarquía visual que facilita la acción. La imagen y el mensaje destacan el profesionalismo de FuelTrack, mientras que el **primer CTA** resalta para atraer a los proveedores interesados en administrar sus entregas de combustible.
+En esta pantalla se invita a los solicitantes de combustible a unirse, usando una imagen de dos trabajadores estrechando la mano en señal de acuerdo. El mensaje es claro y profesional, reforzado por el diseño visual que destaca nuevamente un llamado a la acción para "Start now". La jerarquía visual dirige la atención de inmediato hacia la invitación a registrarse.
 
-![MLPAGE_V6](img/MLPAGE_V6.png)
+![Pantalla 6](img/MLPAGE_V6.png)
 
-### **PANTALLA 7: Preguntas Frecuentes**
+## PANTALLA 7
 
-Esta sección está diseñada para resolver las inquietudes de los usuarios mediante **preguntas frecuentes (FAQs)**. Utiliza un formato de **bloques plegables** que permite a los usuarios expandir solo lo que necesitan saber, evitando sobrecargar la vista. El lenguaje es sencillo y accesible para todos los tipos de usuarios. La organización de la información es clara y estructurada, lo que hace que la experiencia de navegación sea más eficiente, mejorando la experiencia del usuario al acceder a la información relevante.
+Aquí se presenta un formulario de contacto sencillo bajo el título "Contact us", solicitando datos básicos como nombre, correo y mensaje. El formulario es de fácil acceso, y su diseño es limpio y funcional, pensado para una experiencia sin barreras. Esta sección se integra con el pie de página, que ofrece enlaces de navegación, redes sociales y el resumen corporativo de la empresa, cerrando la experiencia de navegación de manera coherente y accesible.
 
-![MLPAGE_V7](img/MLPAGE_V7.png)
-
+![Pantalla 7](img/MLPAGE_V7.png)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
