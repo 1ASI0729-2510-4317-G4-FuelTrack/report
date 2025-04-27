@@ -217,7 +217,86 @@ Este bounded context sirve para alojar el feature de ordenes que se realicen, es
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
 ### 4.7.2. Class Dictionary
+Clase: deliveries
+Descripción: Registra la información de las entregas de pedidos.
+- id (int, PK)
+- delivery_at (datetime2)
+- received_by (varchar)
+- location (varchar)
+- orders_id (int, FK)
+
+Clase: orders
+Descripción: Gestiona los pedidos realizados por los clientes.
+- id (int, PK)
+- quantity (decimal)
+- status (varchar)
+- request_at (datetime2)
+- clients_id (int, FK)
+- suppliers_id (int, FK)
+
+Clase: monitoring
+Descripción: Lleva el control de actualizaciones del estado de los pedidos.
+- id (int, PK)
+- status_update (varchar)
+- time (datetime2)
+- orders_id (int, FK)
+
+Clase: clients
+Descripción: Almacena la información de los clientes.
+- id (int, PK)
+- name (varchar)
+- address (varchar)
+- contact (varchar)
+
+Clase: suppliers
+Descripción: Contiene los datos de los proveedores.
+- id (int, PK)
+- name (varchar)
+- ruc (varchar)
+- address (varchar)
+- contact (varchar)
+
+Clase: inventory
+Descripción: Administra el inventario de combustibles.
+- id (int, PK)
+- fuel_type (varchar)
+- available_qt (decimal)
+- last_update (datetime2)
+- suppliers_id (int, FK)
+
+Clase: transactions
+Descripción: Registra las transacciones de pagos de pedidos.
+- id (int, PK)
+- amount (decimal)
+- method (varchar)
+- status (varchar)
+- processed_at (datetime2)
+- orders_id (int, FK)
+
+Clase: users
+Descripción: Guarda la información de los usuarios que acceden al sistema.
+- id (int, PK)
+- name (varchar)
+- email (varchar)
+- password_hash (varchar)
+- created_at (datetime2)
+- profiles_id (int, FK)
+
+Clase: notifications
+Descripción: Administra las notificaciones enviadas a los usuarios.
+- id (int, PK)
+- message (text)
+- already_read (bit)
+- created_at (datetime2)
+- users_id (int, FK)
+
+Clase: profiles
+Descripción: Define los perfiles de usuario y sus permisos.
+- id (int, PK)
+- permissions (text)
+- rol (varchar)
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
