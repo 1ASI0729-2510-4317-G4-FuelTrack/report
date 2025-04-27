@@ -275,4 +275,6 @@ En el sprint 1 se diseñó el primer modelo de la landing page. Esta cuenta con 
 Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de FuelTrack, por lo cual no se implementaron ni documentaron endpoints relacionados a Web Services. Los trabajos de desarrollo backend, integración de API y documentación con OpenAPI están planificados para Sprints posteriores.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Durante este Sprint, nos enfocamos en asegurar un proceso de Deployment eficiente y efectivo, tanto para nuestra aplicación principal como para la Landing Page asociada y los Web Services que soportan la infraestructura de la aplicación. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo.
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
