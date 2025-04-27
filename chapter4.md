@@ -175,21 +175,44 @@ Aquí se presenta un formulario de contacto sencillo bajo el título "Contact us
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-![Web Application - Wireframe 1](img/web-app_client_mockup1.png)
-- Objetivo: Vista general de las ordenes de la empresa solicitante, donde se puede ver el estado de cada pedido y la opción de crear un nuevo pedido.
+
+**Wireframes - Segmento Cliente**
+- Descripción: Vista diseñada exclusivamente para mostrar las ordenes de la empresa solicitante. Para ello optamos por una grilla que muestra fácilmente los atributos de cada orden.
+![Web Application - Wireframe 1](img/client-wireframe-1.png)
 ---
-![Web Application - Wireframe 2](img/web-app_client_mockup2.png)
-- Objetivo: Desplegamos cada pedido para observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
+- Descripción: Para mostrar losdetalles de cada pedido, optamos por una vista desplegable en cada fila de la grilla. De esta forma, el usuario podrá observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
+![Web Application - Wireframe 2](img/client-wireframe-2.png)
 ---
-![Web Application - Wireframe 3](img/web-app_client_mockup3.png)
-- Objetivo: Mostramos el modal para registrar un nuevo pedido, donde el usuario puede especificar los detalles del nuevo pedido como el producto, cantidad, etc.
+- Descripción: Para la creación del pedido, decidimos usar un modal que se muestra al hacer clic en el botón "Crear nuevo pedido". En este modal, el usuario podrá crear sus pedidos paso a paso con un  stepper implementado. El primer paso es llenar los detalles del nuevo pedido como el producto, cantidad, etc.
+![Web Application - Wireframe 3](img/client-wireframe-3.png)
 ---
-![Web Application - Wireframe 4](img/web-app_client_mockup4.png)
-- Objetivo: En el segundo paso del registro de un nuevo pedido, el usuario puede asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación.
+- Descripción: Para el segundo paso, usamos una lista desplegable de detalles, donde en cada uno de ellos el usuario podrá asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación, todo mediante un pequeño formulario.
+![Web Application - Wireframe 4](img/client-wireframe-4.png)
 ---
-![Web Application - Wireframe 5](img/web-app_client_mockup5.png)
-- Objetivo: Finalmente mostraremos la vista previa de todo el pedido, donde el usuario puede revisar todos los detalles antes de confirmar el pedido.
+- Descripción: Para el paso final, mostramos toda la información del pedido, incluyendo sus detalles y la información de los pagos. El usuario podrá revisar todo antes de confirmar el pedido.
+![Web Application - Wireframe 5](img/client-wireframe-5.png)
 ---
+
+**Wireframes - Segmento Proveedor**
+- Descripción: Esta vistafue diseñada para darle protagonismo a los pedidos y sus detalles meidante una grilla. Además, facilitamos la clasificación de los pedidos por estado a través de etiquetas ubicadas en la parte superior de la grilla que expone los pedidos.
+![Web Application - Wireframe 1](img/supplier-wireframe-1.png)
+---
+- Descripción: En el segundo modulo de nuestro sistema, ubicamos una vistade conciliaciones que muestra una tabla con registros seleccionables. Aquí, la información principal es la de los pagos realizados a los pedidos. Para ello, el proveedor cuenta con un botón en la parte superior para subir una lista de movimientos de cuentas bancarias.
+![Web Application - Wireframe 2](img/supplier-wireframe-2.png)
+---
+- Descripción: Diseñamos un modal muy sencillo que permite subir multiples archivos con movimientos de cuentas bancarias. Una vez subidos, el proveedor solo debe hacer click en el botón comparar y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+![Web Application - Wireframe 3](img/supplier-wireframe-3.png)
+---
+- Descripción: Para el utlimo modulo principal, presentamos la vista de Despacho. Aqui podremos configurar la información de despacho a través de un botón de configuración en cada fila de la grilla, que representa un pedido. Una vez con información válida de despacho, el pedido será marcado con un check, dando a entender al usuario que el pedido está listo para ser liberado. Para ayudar al usuario, también facilitamos chekcboxes para seleccionar los pedidos que se desean liberar, si es que son varios.
+![Web Application - Wireframe 4](img/supplier-wireframe-4.png)
+---
+- Descripción: Al hacer click en el botón de configuración, se abrirá un modal donde el proveedor podrá llenar la información de despacho del pedido. El proveedor podrá seleccionar el vehiculo, el chofer y la cisterna que se utilizará para el despacho del pedido.
+![Web Application - Wireframe 5](img/supplier-wireframe-5.png)
+---
+- Descripción: La tabla para asignar compartimientos a los detalles del pedido se desbloquea unavez que la información del transporte es validada. En esta tabla, el proveedor podrá asignar los compartimientos de la cisterna a cada detalle del pedido.
+![Web Application - Wireframe 5](img/supplier-wireframe-6.png)
+---
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 **Wire Flow Diagram - Segmento Cliente**
