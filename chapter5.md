@@ -317,7 +317,7 @@ UXAX. (2023, junio 18). *The Lean UX process: Streamlining user-centered design*
 
 ## Anexos 
 
-- **Despliegue de la Landing Page:**  
+- **Despliegue de la Landing Page:** [https://fueltrack-f9064.web.app/ ](https://fueltrack-f9064.web.app/)
 
 - **Figma - User Flow Diagrams, Wireframes y Mockups:**  
 [https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0](https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0)
