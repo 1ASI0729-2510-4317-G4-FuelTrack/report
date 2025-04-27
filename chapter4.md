@@ -129,6 +129,13 @@ En esta última sección se agrupan los enlaces de navegación adicionales, los 
 
 ![WLPAGE_V7](img/WLPAGE_V7.png)
 
+## Nota
+
+También se incluye la versión mobile correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.
+
+Para una mejor visualización de los wireframe (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
+[https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1](https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1)
+
 ### 4.3.2. Landing Page Mock-up
 
 ## PANTALLA 1
@@ -172,6 +179,14 @@ En esta pantalla se invita a los solicitantes de combustible a unirse, usando un
 Aquí se presenta un formulario de contacto sencillo bajo el título "Contact us", solicitando datos básicos como nombre, correo y mensaje. El formulario es de fácil acceso, y su diseño es limpio y funcional, pensado para una experiencia sin barreras. Esta sección se integra con el pie de página, que ofrece enlaces de navegación, redes sociales y el resumen corporativo de la empresa, cerrando la experiencia de navegación de manera coherente y accesible.
 
 ![Pantalla 7](img/MLPAGE_V7.png)
+
+## Nota
+
+También se incluye la versión mobile correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.
+
+Para una mejor visualización de los mock up (versión desktop y mobile), se adjunta el siguiente enlace de Figma:  
+[https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1](https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1)
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
