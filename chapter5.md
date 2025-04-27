@@ -154,13 +154,13 @@ En este primer sprint se desarrolló el landing page.
 </table>
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
-| Aspect | Leader | Collaborators |
-|--------|--------|---------------|
-| Frontend Development | César Navarro | Todos los miembros |
-| UI/UX Design | Adrián Valerio | Todos los miembros |
-| Code Repository & Gitflow | Franz La Torre | Todos los miembros |
-| Deployment & Hosting | Manuel Sanchez | Todos los miembros |
-| Documentation | Luciana Choquehuanca | Todos los miembros |
+| Team Member | GitHub Username | Landing Page | Documentation |
+|-------------|-----------------|--------------|---------------|
+| Sanchez Arenas, Manuel Angel | manuels7a | C | C |
+| Valerio Garcia, Adrián Emanuel | adrianvalerio | C | C |
+| Choquehuanca Nuñez, Luciana Carolina | Lucianxaaa | C | L |
+| Navarro Correa, César Augusto | csr555-ui | L | C |
+| La Torre Valle, Franz Jair | FranzJairLTV | C | C |
 
 ### 5.2.1.2. Sprint Backlog 1
 ### 5.2.1.3. Development Evidence for Sprint Review
