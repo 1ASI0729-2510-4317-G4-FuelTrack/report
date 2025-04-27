@@ -315,3 +315,11 @@ Smashing Magazine. (2020, julio 21). *Information and information architecture: 
 
 UXAX. (2023, junio 18). *The Lean UX process: Streamlining user-centered design*. Recuperado de [https://www.uxax.org/post/the-lean-ux-process-streamlining-user-centered-design](https://www.uxax.org/post/the-lean-ux-process-streamlining-user-centered-design)
 
+## Anexos 
+
+- **Despliegue de la Landing Page:**  
+
+- **Figma - User Flow Diagrams, Wireframes y Mockups:**  
+[https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0](https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0)
+
+- **Exposición del Proyecto (TB1):**  
