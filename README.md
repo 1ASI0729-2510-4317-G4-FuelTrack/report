@@ -54,7 +54,7 @@
 
 | **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
 |-------------|-------------|---------------------------------------|-----------------------------------------------|
-| **1.0**     | 2025-04-27  | Sanchez Arenas, Manuel Angel | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas<br>-Wireflows y Userflows<br>- |
+| **1.0**     | 2025-04-27  | Sanchez Arenas, Manuel Angel | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas<br>-Wireflows y Userflows |
 | **1.0**     | 2025-04-27  | Adrián Emanuel Valerio Garcia | **Se incluye:**<br>-Chapter I<br>-Diseño de Scenarios As-Is y To-Be<br>Aporte en los style-guid-lines y diagramas de arquitectura y database<br>Edición del video de entrevistas |
 | **1.0**     | 2025-04-27  | Luciana Carolina Choquehuanca Nuñez | **Se incluye**<br>-Wireframe y Mockup de Landing Page<br>-Coordinación de equipo<br>-Chapter I<br>-Conclusiones |
 | **1.0**     | 2025-04-27  | Franz Jair La Torre Valle | **Se incluye**<br>-User Stories<br>-Product Backlog<br>-Chapter V |
@@ -73,11 +73,12 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | **Integrante**        | **Usuario GitHub**  | **Aportaciones destacadas** |
 |-----------------------|---------------------|-----------------------------|
-| Manuel Sanchez        | @manuels7anchez     |  |
-| Adrián Valerio        | @adrianvalerio      |  |
-| Luciana Choquehuanca  | @Lucianxaaa         |  |
-| Franz La Torre        | @FranzJairLTV       |  |
-| César Navarro         | @csr555-ui          |  |
+| Manuel Sanchez        | @manuels7anchez     | Creación de la rama feature//cover. Revisión de commits y pull requests. |
+| Adrián Valerio        | @adrianvalerio      | Creación de rama Chapter IV. Supervisión de aportes a la rama. |
+| Luciana Choquehuanca  | @Lucianxaaa         | Creación de la organización y repositorio contenedor del informe. |
+| Franz La Torre        | @FranzJairLTV       | Creación de la rama Chapter V. |
+| César Navarro         | @csr555-ui          | Creación de la rama Chapter II. Revisión general de los commits hechos.  |
+| Frezzia Espinoza      | @fflushh            | Creación de nuevo repositorio para el despliegue de la Landing Page. |
 
 ---
 
