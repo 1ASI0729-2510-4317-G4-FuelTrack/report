@@ -258,7 +258,7 @@ En el sprint 1 se diseñó el primer modelo de la landing page. Esta cuenta con 
 - **How it works?:** Describe de forma sencilla y visual el funcionamiento de FuelTrack paso a paso.
 
 ![How it works?](img/HowItWorks.jpeg)
-- **Our CLients:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
+- **Our Clients:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
 
 ![Our Clients](img/OurClients.jpeg)
 - **Join:** Invita a nuevos usuarios o empresas a registrarse o solicitar información para unirse a FuelTrack.
@@ -277,7 +277,10 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de F
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Durante este Sprint, nos enfocamos en asegurar un proceso de Deployment eficiente y efectivo, tanto para nuestra aplicación principal como para la Landing Page asociada y los Web Services que soportan la infraestructura de la aplicación. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo.
 
+**Link:** [https://fueltrack-f9064.web.app/](https://fueltrack-f9064.web.app/)
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+Dividimos las tareas según las secciones acordadas durante las reuniones de planificación, ello nos permitió trabajar de manera eficiente y centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
 
 ## Conclusiones 
 
