@@ -175,9 +175,77 @@ Aquí se presenta un formulario de contacto sencillo bajo el título "Contact us
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+![Web Application - Wireframe 1](img/web-app_client_mockup1.png)
+- Objetivo: Vista general de las ordenes de la empresa solicitante, donde se puede ver el estado de cada pedido y la opción de crear un nuevo pedido.
+---
+![Web Application - Wireframe 2](img/web-app_client_mockup2.png)
+- Objetivo: Desplegamos cada pedido para observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
+---
+![Web Application - Wireframe 3](img/web-app_client_mockup3.png)
+- Objetivo: Mostramos el modal para registrar un nuevo pedido, donde el usuario puede especificar los detalles del nuevo pedido como el producto, cantidad, etc.
+---
+![Web Application - Wireframe 4](img/web-app_client_mockup4.png)
+- Objetivo: En el segundo paso del registro de un nuevo pedido, el usuario puede asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación.
+---
+![Web Application - Wireframe 5](img/web-app_client_mockup5.png)
+- Objetivo: Finalmente mostraremos la vista previa de todo el pedido, donde el usuario puede revisar todos los detalles antes de confirmar el pedido.
+---
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
-### 4.4.3. Web Applications User Flow Diagrams
+
+**Wire Flow Diagram - Segmento Cliente**
+- User Goal: Estructuramos el diseño de esta vista para el cliente del tal forma que visualice de forma clara y sencilla el estado de sus pedidos, así como la opción de crear un nuevo pedido. El cliente podrá ver el detalle de cada pedido, así como los detalles de pago asociados a cada uno. Finalmente, el cliente podrá registrar un nuevo pedido, asignando los detalles del pedido y la información de pago asociada a cada detalle.
+![Web Application Supplier - Mockup 6](img/client-wireflow-diagram.png)
+
+**Wire Flow Diagram - Segmento Provedor**
+- User Goal: Las vista del proveedor están diseñadas para que el usuario pueda gestionar los pedidos de combustible. Para ello, el proveedor podrá ver el estado de cada pedido y observar los detalles de cada uno. Es posible filtrar por estado de pedido, cliente o fecha. En el resto de módulo, el proveedor podrá conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
+![Web Application Client - User Flow Diagram](img/supplier-wireflow-diagram.png)
+
+
+### 4.4.3. Web Applications Mock-ups
+---
+![Web Application Client - Mockup 1](img/web-app_client_mockup1.png)
+- Objetivo: Vista general de las ordenes de la empresa solicitante, donde se puede ver el estado de cada pedido y la opción de crear un nuevo pedido.
+---
+![Web Application Client - Mockup 2](img/web-app_client_mockup2.png)
+- Objetivo: Desplegamos cada pedido para observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
+---
+![Web Application Client - Mockup 3](img/web-app_client_mockup3.png)
+- Objetivo: Mostramos el modal para registrar un nuevo pedido, donde el usuario puede especificar los detalles del nuevo pedido como el producto, cantidad, etc.
+---
+![Web Application Client - Mockup 4](img/web-app_client_mockup4.png)
+- Objetivo: En el segundo paso del registro de un nuevo pedido, el usuario puede asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación.
+---
+![Web Application Client - Mockup 5](img/web-app_client_mockup5.png)
+- Objetivo: Finalmente mostraremos la vista previa de todo el pedido, donde el usuario puede revisar todos los detalles antes de confirmar el pedido.
+---
+
+![Web Application Supplier - Mockup 1](img/web-app_supplier_mockup1.png)
+- Objetivo: Vista general de las ordenes de los clientes del proveedor, donde se puede ver el estado de cada pedido y observar los detalles de cada uno. Es posible filtrar por estado de pedido, cliente o fecha.
+---
+![Web Application Supplier - Mockup 2](img/web-app_supplier_mockup2.png)
+- Objetivo: Mostramos una vista para conciliaciones. Es decir, podremos subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+---
+![Web Application Supplier - Mockup 3](img/web-app_supplier_mockup3.png)
+- Objetivo: Mostramos el modal para subir los archivos de los movimientos. Una vez hechas las conciliaciones, el sistema pasará el pedido a la siguiente fase: Aprobación.
+---
+![Web Application Supplier - Mockup 4](img/web-app_supplier_mockup4.png)
+- Objetivo: Vista de despacho. En esta vista los pedidos deberán ser liberados. Para ello, el proveedor deberá seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna, y chofer
+---
+![Web Application Supplier - Mockup 5](img/web-app_supplier_mockup5.png)
+- Objetivo: Mostramos el modal para llenar la información de despacho del pedido. El proveedor podrá seleccionar el vehiculo, el chofer y la cisterna que se utilizará para el despacho del pedido. Para su confirmación, el sistema deberpa validar esta información evaluando su disponibilidad. Hasta no llenarse, no podremos asignar compartimientos a los detalles del pedido.
+---
+![Web Application Supplier - Mockup 6](img/web-app_supplier_mockup6.png)
+- Objetivo: Con la información del transporte validada, podremos asignar los compartimientos de la cisterna a cada detalle del pedido.
+---
+### 4.4.4. Web Applications User Flow Diagrams
+
+**User Flow Diagram - Segmento Cliente**
+- User Goal: El usuario desea registrar un nuevo pedido de combustible. Para ello, el usuario deberá llenar la información del pedido y los detalles de pago
+![Web Application Supplier - Mockup 6](img/client-userflow-diagram.jpg)
+
+**User Flow Diagram - Segmento Provedor**
+- User Goal: El proveedor debe gestionar los pedidos de combustible. Para ello, debe conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
+![Web Application Client - User Flow Diagram](img/supplier-userflow-diagram.jpg)
 
 ## 4.5. Web Applications Prototyping
 
