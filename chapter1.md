@@ -14,38 +14,39 @@ Visión: Liderar la transformación digital del sector de distribución de combu
 
 <table>
   <tr>
-    <th colspan="2"></th>
+    <th colspan="2"> Manuel Angel Sanchez Arenas  </th>
   </tr>
   <tr>
-    <td> <img src="" width=300px > </td>
-    <td>  </td>
+    <td> <img src="img/foto-manuel.jpg" width=300px > </td>
+    <td> Mi nombre es Manuel Sanchez, tengo 24 años y estudio la carrera de Ingeniería de software. Siempre busco nuevos retos en proyectos enfocados en el backend y asegurarme que mi aporte a estos sean significativos.
+    Estoy enfocado en mi desarrollo como profesional de forma técnica, siguiendo las buenas prácticas y principios del desarrollo de software, y actualizándome con las nuevas tecnologías de este ámbito.</td>
   </tr>
   <tr>
-    <th colspan="2"></th>
+    <th colspan="2"> Luciana Carolina Choquehuanca Nuñez </th>
   </tr>
   <tr>
-    <td> <img src="" style="width=300px" > </td>
-    <td></td>
-  </tr>
-<tr>
-    <th colspan="2"> Amir Gabriel Castro Sanchez </th>
+    <td> <img src="img/foto-luciana.jpg" style="width=300px" > </td>
+    <td>Mi nombre es Luciana, tengo 19 años y actualmente estudio el quinto ciclo de la carrera de Ingeniería de Software. Me apasionan los proyectos innovadores que buscan mejorar la experiencia del usuario en distintos contextos y me gusta involucrarme en propuestas que representen un reto, especialmente si implican creatividad, diseño centrado en el usuario e impacto real.</td>
   </tr>
   <tr>
-    <td> <img src="" style="width: 300px"> </td>
-    <td> </td>
+    <th colspan="2"> Franz Jair La Torre Valle </th>
   </tr>
-<tr>
-    <th colspan="2">  </th>
+    <tr>
+    <td> <img src="img/fotofranz.jpg" style="width: 300px"> </td>
+    <td> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi compromiso con el equipo se basa en mantener una participación activa en todas las actividades, estar siempre disponible para resolver dudas y contribuir de manera significativa al desarrollo del proyecto. Busco aportar con soluciones innovadoras, apoyo constante y un aprendizaje continuo para alcanzar los objetivos propuestos. </td>
   </tr>
   <tr>
-    <td> <img src="img/" style="width: 300px"> </td>
-    <td>   </td>
+    <th colspan="2"> César Augusto Navarro Correa </th>
   </tr>
-<tr>
+  <tr>
+    <td> <img src="img/foto-cesar.png" style="width: 300px"> </td>
+    <td>  Mi nombre es Cesar Navarro, tengo 19 años y soy de la carrera de Ingeniería de Software de la UPC. Me considero una persona creativa en la realización de los trabajos y resiliente en mis actividades. Tengo conocimientos de lenguajes de programación en C++ y Python, pues siempre tuve interés en la computación. </td>
+  </tr>
+  <tr>
     <th colspan="2"> Adrian Emanuel Valerio Garcia</th>
   </tr>
   <tr>
-    <td> <img src="img/adrian-pfp.jpg" style="width: 300px"> </td>
+    <td> <img src="img/foto-adrian.png" style="width: 300px"> </td>
     <td> Mi nombre es Adrián, tengo 20 años y estudio la carrera de Ingeniería de Software. Me considero una persona honesta, responsable, siempre buscando soluciones creativas y fomentando el trabajo en equipo para alcanzar objetivos comunes. Estoy comprometido con mi desarrollo profesional y siempre busco nuevas oportunidades para crecer y aportar a proyectos innovadores. </td>
   </tr>
 </table>
