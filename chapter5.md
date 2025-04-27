@@ -245,7 +245,11 @@ En este primer sprint se desarrolló el landing page.
 </table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review
+Durante el Sprint 1, el equipo de desarrollo de FuelTrack avanzó en la construcción de la Landing Page, cumpliendo con las User Stories priorizadas. Se trabajó en la maquetación de las secciones principales, implementación de estilos CSS, diseño responsive para diferentes dispositivos y subida de los cambios al repositorio grupal. Los commits fueron realizados en ramas feature/ y luego integrados a la rama develop mediante Pull Requests.
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de FuelTrack, por lo cual no se implementaron ni documentaron endpoints relacionados a Web Services. Los trabajos de desarrollo backend, integración de API y documentación con OpenAPI están planificados para Sprints posteriores.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ### 5.2.1.8. Team Collaboration Insights during Sprint
