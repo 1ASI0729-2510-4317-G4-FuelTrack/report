@@ -220,7 +220,7 @@ En este primer sprint se desarrolló el landing page.
         <td>Como visitante, quiero acceder a una sección de preguntas frecuentes para resolver dudas rápidamente</td>
         <td>4 horas</td>
         <td>Luciana</td>
-        <td>Done</td>
+        <td>In Process</td>
     </tr>
     <tr align="center">
         <td>US-04</td>
@@ -248,6 +248,29 @@ En este primer sprint se desarrolló el landing page.
 Durante el Sprint 1, el equipo de desarrollo de FuelTrack avanzó en la construcción de la Landing Page, cumpliendo con las User Stories priorizadas. Se trabajó en la maquetación de las secciones principales, implementación de estilos CSS, diseño responsive para diferentes dispositivos y subida de los cambios al repositorio grupal. Los commits fueron realizados en ramas feature/ y luego integrados a la rama develop mediante Pull Requests.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+En el sprint 1 se diseñó el primer modelo de la landing page. Esta cuenta con diferentes secciones para acceso de los usuarios. Algunas evidencias son:
+- **Home:** Presenta de manera rápida el propósito y valor de FuelTrack para captar la atención del visitante.
+
+![Home](img/Home.jpeg)
+- **About Us:** Explica quiénes somos y nuestra misión para generar confianza.
+
+![About Us](img/AboutUs.jpeg)
+- **How it works?:** Describe de forma sencilla y visual el funcionamiento de FuelTrack paso a paso.
+
+![How it works?](img/HowItWorks.jpeg)
+- **Our CLients:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
+
+![Our Clients](img/OurClients.jpeg)
+- **Join:** Invita a nuevos usuarios o empresas a registrarse o solicitar información para unirse a FuelTrack.
+
+![Join](img/Join.jpeg)
+- **Contact Us:** Ofrece un formulario y datos de contacto directo para resolver dudas o solicitar soporte.
+
+![Contact Us](img/ContactUs.jpeg)
+- **Footer:** Contiene información adicional como redes sociales y enlaces de interés.
+
+![Footer](img/Footer.jpeg)
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de FuelTrack, por lo cual no se implementaron ni documentaron endpoints relacionados a Web Services. Los trabajos de desarrollo backend, integración de API y documentación con OpenAPI están planificados para Sprints posteriores.
 
