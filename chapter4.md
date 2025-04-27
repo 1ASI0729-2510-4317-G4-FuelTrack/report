@@ -133,7 +133,7 @@ En esta última sección se agrupan los enlaces de navegación adicionales, los 
 
 ## PANTALLA 1
 
-La primera pantalla presenta un encabezado claro con logo, menú de navegación y un botón de "Contact us" destacado, mostrando una jerarquía visual efectiva y buena arquitectura de información. La sección hero combina una imagen de trabajadores del sector industrial y un mensaje directo sobre la eficiencia en la gestión de pedidos de combustible. El primer call to action (“Start now”) es visible y contrasta bien, guiando al usuario de forma intuitiva. Se aplican principios de alineamiento y énfasis para centrar la atención en la propuesta de valor.
+La primera pantalla presenta un encabezado claro con logo, menú de navegación y un botón de "Contact us" destacado, mostrando una jerarquía visual efectiva y buena arquitectura de información. La sección hero combina una imagen de trabajadores del sector industrial y un mensaje directo sobre la eficiencia en la gestión de pedidos de combustible. El primer call to action es visible y contrasta bien, guiando al usuario de forma intuitiva. Se aplican principios de alineamiento y énfasis para centrar la atención en la propuesta de valor.
 
 ![Pantalla 1](img/MLPAGE_V1.png)
 
@@ -145,7 +145,7 @@ Aquí se presenta la sección "About us" con un texto breve y claro que explica 
 
 ## PANTALLA 3
 
-La sección "How it works?" muestra de manera sencilla los pasos del proceso mediante pestañas destacadas y un apoyo visual de un camión cisterna, reforzando la temática de la industria de combustibles. La arquitectura de la información facilita la comprensión del proceso paso a paso. El segundo call to action (“See more”) mantiene coherencia visual y apoya la navegación sin generar fricción.
+La sección "How it works?" muestra de manera sencilla los pasos del proceso mediante pestañas destacadas y un apoyo visual de un camión cisterna, reforzando la temática de la industria de combustibles. La arquitectura de la información facilita la comprensión del proceso paso a paso. Adicionalemnte se invita al usuario a ver un video explicativo para mayor comprensión.
 
 ![Pantalla 3](img/MLPAGE_V3.png)
 
@@ -163,7 +163,7 @@ La sección "Our clients" muestra testimonios de clientes en tarjetas individual
 
 ## PANTALLA 6
 
-En esta pantalla se invita a los solicitantes de combustible a unirse, usando una imagen de dos trabajadores estrechando la mano en señal de acuerdo. El mensaje es claro y profesional, reforzado por el diseño visual que destaca nuevamente un llamado a la acción para "Start now". La jerarquía visual dirige la atención de inmediato hacia la invitación a registrarse.
+En esta pantalla se invita a los solicitantes de combustible a unirse, usando una imagen de dos trabajadores estrechando la mano en señal de acuerdo. El mensaje es claro y profesional, reforzado por el diseño visual que destaca nuevamente un llamado a la acción. La jerarquía visual dirige la atención de inmediato hacia la invitación a registrarse.
 
 ![Pantalla 6](img/MLPAGE_V6.png)
 
