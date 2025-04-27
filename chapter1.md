@@ -12,6 +12,43 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table>
+  <tr>
+    <th colspan="2"></th>
+  </tr>
+  <tr>
+    <td> <img src="" width=300px > </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <th colspan="2"></th>
+  </tr>
+  <tr>
+    <td> <img src="" style="width=300px" > </td>
+    <td></td>
+  </tr>
+<tr>
+    <th colspan="2"> Amir Gabriel Castro Sanchez </th>
+  </tr>
+  <tr>
+    <td> <img src="" style="width: 300px"> </td>
+    <td> </td>
+  </tr>
+<tr>
+    <th colspan="2">  </th>
+  </tr>
+  <tr>
+    <td> <img src="img/" style="width: 300px"> </td>
+    <td>   </td>
+  </tr>
+<tr>
+    <th colspan="2"> Adrian Emanuel Valerio Garcia</th>
+  </tr>
+  <tr>
+    <td> <img src="img/adrian-pfp.jpg" style="width: 300px"> </td>
+    <td> Mi nombre es Adrián, tengo 20 años y estudio la carrera de Ingeniería de Software. Me considero una persona honesta, responsable, siempre buscando soluciones creativas y fomentando el trabajo en equipo para alcanzar objetivos comunes. Estoy comprometido con mi desarrollo profesional y siempre busco nuevas oportunidades para crecer y aportar a proyectos innovadores. </td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 
