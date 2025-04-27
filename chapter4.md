@@ -80,6 +80,39 @@ En esta sección se detalla la estructura y el diseño de la landing page. Se an
 Además, se revisa cómo cada elemento contribuye a que la navegación sea clara, rápida y eficiente, con el fin de facilitar que el usuario complete una acción específica. Se hace especial énfasis en la organización visual y la disposición estratégica de los contenidos para mejorar la experiencia general de uso.
 
 ### 4.3.1. Landing Page Wireframe
+
+El wireframe de la landing page de **FuelTrack** es una representación simplificada de la estructura de la página, que permite visualizar cómo se dispondrán los elementos clave para optimizar la experiencia del usuario. A continuación, se detallan las secciones del diseño:
+
+### Primera Pantalla: Encabezado Principal
+En esta sección se ubican los elementos de navegación y la propuesta principal de la página. Se incluye el **logo de FuelTrack**, el **menú de navegación** y una **llamada a la acción (CTA)** clara para captar la atención del usuario.  
+![WLPAGE_V1](WLPAGE_V1.png)
+
+### Segunda Pantalla: Sobre Nosotros
+Esta sección proporciona información general sobre **FuelTrack**, destacando lo que ofrece la empresa y sus características clave. El diseño busca crear una conexión con el usuario mediante un mensaje claro y conciso.  
+![WLPAGE_V2](WLPAGE_V2.png)
+
+### Tercera Pantalla: ¿Qué Ofrecemos?
+Aquí se detallan los principales servicios ofrecidos por FuelTrack. Se utilizan iconos o elementos visuales sencillos para resaltar las ventajas y características de cada servicio, con un botón de llamada a la acción para incentivar la interacción.  
+![WLPAGE_V3](WLPAGE_V3.png)
+
+### Cuarta Pantalla: Principales Proveedores
+Se presenta una serie de **logos de los proveedores principales** de FuelTrack, distribuidos de forma ordenada para transmitir solidez y confiabilidad.  
+![WLPAGE_V4](WLPAGE_V4.png)
+
+### Quinta Pantalla: Nuestros Clientes
+Sección dedicada a mostrar **testimonios de clientes**. Cada testimonio está acompañado por una imagen de perfil del cliente y una cita breve que refuerza la credibilidad de FuelTrack.  
+![WLPAGE_V5](WLPAGE_V5.png)
+
+### Sexta Pantalla: Invitación a Solicitantes de Combustible
+En esta sección se invita a los usuarios a unirse a FuelTrack, proporcionando un espacio con una **llamada a la acción** clara para captar nuevos clientes interesados en solicitar combustible.  
+![WLPAGE_V6](WLPAGE_V6.png)
+
+### Séptima Pantalla: Formulario de Contacto
+Se incluye un formulario básico que permite a los usuarios realizar consultas o solicitudes. El formulario está compuesto por campos sencillos como **nombre**, **correo electrónico** y **mensaje**.  
+### Pie de Página
+En esta última sección se agrupan los enlaces de navegación adicionales, los **datos de contacto** y los **enlaces a redes sociales**, presentados de forma accesible y organizada para facilitar la interacción del usuario.  
+![WLPAGE_V7](WLPAGE_V7.png)
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
