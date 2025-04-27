@@ -60,46 +60,94 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
-Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevistas diferenciadas según el segmento objetivo: 
-- Proveedores de combustible
-- Empresas con contratos de suministro (clientes corporativos)
+Para comprender mejor a nuestros segmentos objetivo y construir arquetipos precisos, se han definido dos entrevistas diferenciadas según el segmento objetivo:
+1. Proveedores de combustible
+2. Empresas solicitantes con contratos de suministro (clientes corporativos)
 
----
-#### A. Proveedores de Combustible
+##### A. Proveedores de Combustible
+- Preguntas principales:
+1. ¿Cómo gestionan actualmente los pedidos de las empresas clientes? ¿Utilizan un sistema específico para gestionarlos? ¿Cómo es el flujo desde la solicitud hasta la entrega?
+2. ¿Utilizan algún sistema digital para registrar pedidos o todo se maneja de manera manual? ¿Qué herramientas usan actualmente (si aplican)?
+3. ¿Cuáles son los pasos que siguen desde que un cliente hace un pedido hasta que se entrega? ¿Cuánto tiempo toma todo el proceso?
+4. ¿Cómo controlan que lo despachado coincida con lo solicitado por el cliente? ¿Tienen algún tipo de verificación o control de calidad?
+5. ¿Qué tipo de reportes necesitan generar para el seguimiento de pedidos? Ejemplo: volúmenes, facturación, entregas, incidencias, etc.
+6. ¿Tienen un sistema para validar el stock antes de preparar el despacho de un pedido? ¿Cómo gestionan las existencias?
+7. ¿Cómo hacen el seguimiento de los pedidos? ¿Informan al cliente en tiempo real sobre el estado de su pedido? ¿Qué sistema o metodología usan para actualizar al cliente?
+8. ¿Qué problemas suelen ocurrir durante el proceso de atención de pedidos empresariales? Ejemplo: retrasos, errores en la entrega, problemas con la facturación.
+9. ¿Cómo se realiza la conciliación de pagos con los clientes? ¿Tienen un proceso automatizado o lo hacen manualmente?
+10. ¿Estarían dispuestos a integrar su sistema actual con una plataforma SaaS que unifique y centralice estos procesos? ¿Por qué? ¿Qué beneficios ven en esta integración?
 
-**Preguntas:**
 
-1. ¿Cómo gestionan actualmente los pedidos de empresas clientes?
-2. ¿Usan algún sistema digital para registrar pedidos o es manual?
-3. ¿Qué pasos se siguen desde que un cliente hace un pedido hasta que se entregue?
-4. ¿Cómo controlan que lo despachado coincida con lo solicitado?
-5. ¿Qué tipo de reportes requieren generar (volúmenes, facturación, entregas, etc.)?
-6. ¿Tienen un sistema para validar el stock antes de preparar el despacho de un pedido?
-7. ¿Cómo hacen el seguimiento de los pedidos? ¿Informan al cliente en tiempo real?
-8. ¿Qué problemas suelen ocurrir en el proceso de atención de pedidos empresariales?
-9. ¿Cómo se realiza la conciliación de pagos con los clientes?
-10. ¿Estarían dispuestos a integrar su sistema actual con una plataforma SaaS que unifique y centralice estos procesos?
+- Preguntas complementarias:
+1. ¿Qué canales de comunicación prefieren utilizar (correo, llamadas telefónicas, WhatsApp, etc.)?
+2. ¿Qué dispositivos utilizan para gestionar los pedidos (PC, móvil, tablet)?
+3. ¿Quién dentro de su equipo gestiona y valida los pedidos y entregas?
+4. ¿Qué tan frecuente es el contacto con los clientes para resolver problemas o inquietudes con las entregas?
+5. ¿Qué tan abierta están a utilizar una plataforma digital que centralice la gestión de pedidos y la comunicación con los clientes?
 
----
 
-#### B. Empresas Solicitantes
+##### Datos demográficos y psicográficos a recolectar:
+- Demográficos:
 
-**Preguntas:**
+  - Edad, género.
+  - Distrito o ciudad de operación.
+  - Tamaño y cobertura de la empresa.
+  - Cargo del entrevistado dentro de la empresa.
 
-1. ¿Cómo solicitan actualmente combustible a su proveedor?
-2. ¿Utilizan un sistema propio o envían pedidos por correo, WhatsApp, etc.?
-3. ¿Cómo verifican que lo entregado coincida con lo solicitado?
-4. ¿Tienen problemas con entregas incompletas o fuera de tiempo?
-5. ¿Con qué frecuencia necesitan reportes de consumo, entregas o pagos?
-6. ¿Qué tan importante es para ustedes tener trazabilidad de cada entrega?
-7. ¿Quiénes son los responsables de validar pedidos y autorizar pagos?
-8. ¿Cómo gestionan las reprogramaciones o cancelaciones de pedidos?
-9. ¿Qué herramientas utilizan para monitorear el consumo mensual?
-10. ¿Qué mejoras desearían ver en el proceso actual?
+- Psicográficos:
+
+  - Nivel de familiaridad con herramientas digitales.
+  - Canales de comunicación más usados y preferidos.
+  - Frustraciones actuales con el proceso de pedidos.
+  - Objetivos operativos y prioridades en el servicio a clientes.
+  - Nivel de satisfacción con el sistema actual de gestión de pedidos.
+  - Disposición a adoptar nuevas tecnologías.
+
+
+##### B. Empresas Solicitantes de Combustible
+- Preguntas principales:
+1. ¿Cómo solicitan actualmente combustible a su proveedor? ¿Qué sistema o canal usan (llamadas, correo, WhatsApp, etc.)?
+2. ¿Utilizan algún sistema propio para realizar los pedidos o prefieren canales informales como correo, WhatsApp, etc.? ¿Qué tan eficiente consideran este proceso?
+3. ¿Cómo verifican que lo entregado coincida con lo solicitado? ¿Tienen un sistema de control o verificación?
+4. ¿Tienen problemas frecuentes con entregas incompletas o fuera de tiempo? ¿Qué impacto tiene esto en su operación?
+5. ¿Con qué frecuencia necesitan reportes de consumo, entregas o pagos? ¿Qué tipo de reportes y con qué frecuencia los requieren?
+6. ¿Qué tan importante es para ustedes tener trazabilidad de cada entrega (por ejemplo, saber el tiempo de despacho, cantidad exacta entregada)? ¿Qué valor le dan a la trazabilidad en el proceso?
+7. ¿Quiénes dentro de su empresa son responsables de validar los pedidos y autorizar los pagos? ¿Es un proceso centralizado o distribuido?
+8. ¿Cómo gestionan las reprogramaciones o cancelaciones de pedidos? ¿Cuál es el procedimiento en caso de cambios de último minuto?
+9. ¿Qué herramientas utilizan para monitorear el consumo mensual de combustible? ¿Existen sistemas o aplicaciones para monitorear consumo?
+10. ¿Qué mejoras desearían ver en el proceso actual de pedidos y seguimiento de entregas? ¿Qué aspectos mejorarían en la trazabilidad, tiempos o comunicación?
+
+
+- Preguntas complementarias:
+1. ¿Qué dispositivos prefieren usar para gestionar los pedidos y pagos (PC, tablet, móvil)?
+2. ¿Cuál es su experiencia con plataformas digitales para pedidos o gestión de servicios?
+3. ¿Qué canales prefieren para recibir confirmaciones o actualizaciones sobre los pedidos (notificaciones push, correos electrónicos, llamadas, etc.)?
+4. ¿Cómo se gestionan internamente los reportes y la facturación del consumo de combustible?
+5. ¿Qué tan abiertas están a integrar una nueva solución tecnológica para mejorar la trazabilidad y eficiencia de los pedidos?
+
+
+##### Datos demográficos y psicográficos a recolectar:
+- Demográficos:
+
+  - Edad, género.
+  - Distrito o ciudad de operación.
+  - Tamaño y cobertura de la empresa.
+  - Cargo del entrevistado dentro de la empresa.
+
+- Psicográficos:
+
+  - Nivel de experiencia con herramientas digitales.
+  - Canales preferidos para la gestión de pedidos y comunicaciones.
+  - Frustraciones actuales con el proceso de solicitud y entrega de combustible.
+  - Objetivos operativos a corto y largo plazo (optimización de tiempos, reducción de costos, etc.).
+  - Influencia de factores externos en el proceso de compra (presupuesto, normativas, expectativas de los clientes).
+  - Disposición a adoptar nuevas tecnologías.
 
 ---
 
 ### 2.2.2. Registro de entrevistas.
+
+En esta sección se incluyen las fichas de User Persona elaboradas con base en el análisis detallado de las entrevistas realizadas a los segmentos identificados y el estudio de la competencia directa e indirecta. A partir de la información recolectada, se han identificado las principales características objetivas como edad, ocupación, nivel educativo, ubicación geográfica, estado civil, uso de dispositivos tecnológicos, canales de interacción digital y navegadores preferidos; así como características subjetivas como personalidad, habilidades, frustraciones, objetivos, marcas de preferencia e influencias. Estos perfiles representan de forma precisa a los usuarios reales del sistema, permitiendo que las decisiones de diseño, funcionalidades y experiencia de usuario estén enfocadas en resolver sus verdaderas necesidades, comportamientos y motivaciones.
 
 #### Entrevista N°1 – Segmento: Proveedores
 ![entrevista_Luciana](img/entrevista-Luciana.jpg) 
