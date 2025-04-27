@@ -123,7 +123,7 @@ En este primer sprint se desarrolló el landing page.
     <tr align="center">
         <td>Attendess (to planning meeting)</td>
         <td>Manuel Angel Sanchez Arenas - U201817507<br>
-        Adrián Emanuel Valerio Garcia - U202213278<br>
+        Adrián Emanuel Valerio Garcia - U202210334<br>
         Luciana Carolina Choquehuanca Nuñez - U202319431<br>
         César Augusto Navarro Correa - U202310129<br>
         Franz Jair La Torre Valle - U202012378</td>
