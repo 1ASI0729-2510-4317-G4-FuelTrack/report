@@ -163,6 +163,87 @@ En este primer sprint se desarrolló el landing page.
 | La Torre Valle, Franz Jair | FranzJairLTV | C | C |
 
 ### 5.2.1.2. Sprint Backlog 1
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 1</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-01</td>
+        <td>Ver sección Home</td>
+        <td>W-01</td>
+        <td>Sección Home</td>
+        <td>Como visitante, quiero ver una sección de inicio que resuma el valor de FuelTrack para comprender rápidamente el objetivo del sistema</td>
+        <td>5 horas</td>
+        <td>Frezzia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-02</td>
+        <td>Ver sección About Us</td>
+        <td>W-02</td>
+        <td>Sección About Us</td>
+        <td>Como visitante, quiero conocer quiénes están detrás de FuelTrack para confiar en el sistema</td>
+        <td>3 horas</td>
+        <td>Franz</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-03</td>
+        <td>Ver sección How it Works?</td>
+        <td>W-03</td>
+        <td>Sección How it works?</td>
+        <td>Como visitante, quiero entender cómo funciona FuelTrack paso a paso para evaluar si se ajusta a mis necesidades</td>
+        <td>5 horas</td>
+        <td>César</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-30</td>
+        <td>Ver sección de preguntas frecuentes</td>
+        <td>W-04</td>
+        <td>Preguntas frecuentes</td>
+        <td>Como visitante, quiero acceder a una sección de preguntas frecuentes para resolver dudas rápidamente</td>
+        <td>4 horas</td>
+        <td>Luciana</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-04</td>
+        <td>Enviar mensaje de contacto</td>
+        <td>W-05</td>
+        <td>Contacto</td>
+        <td>Como visitante, quiero enviar un mensaje desde Contact Us para solicitar más información</td>
+        <td>5 horas</td>
+        <td>Adrián</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-31</td>
+        <td>Acceder a información de contacto rápido</td>
+        <td>W-06</td>
+        <td>Información de contacto</td>
+        <td>Como usuario, quiero ver datos de contacto directo (teléfono o correo) para hacer consultas urgentes</td>
+        <td>2 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ### 5.2.1.3. Development Evidence for Sprint Review
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
