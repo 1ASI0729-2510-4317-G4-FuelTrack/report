@@ -95,7 +95,7 @@ Nuestra solución propone una plataforma digital centralizada que permite a esta
 
 Sin embargo, la adopción de nuevas tecnologías puede ser un desafío para algunos usuarios si la plataforma no es lo suficientemente intuitiva y alineada con sus procesos actuales.
 
-> **¿Cómo podemos diseñar una experiencia de usuario que facilite una gestión de pedidos rápida, eficiente y accesible para todos los usuarios, independientemente de su familiaridad con la tecnología?**
+> **¿Cómo podemos diseñar una experiencia de usuario que permita a los usuarios registrar y monitorear pedidos de combustible en menos de 3 minutos, con una tasa de error inferior al 5% y una adopción del 80% en el primer mes, independientemente de su familiaridad con la tecnología?**
 
 ---
 
@@ -109,7 +109,7 @@ Nuestra solución ofrece una plataforma integral que automatiza la gestión de p
 
 No obstante, la implementación de un nuevo sistema puede encontrar resistencia si los beneficios no son evidentes y medibles en el corto plazo.
 
-> **¿Cómo podemos demostrar de manera efectiva a los proveedores que la adopción de nuestra plataforma resultará en una mejora tangible de su eficiencia operativa y en una reducción significativa de errores?**
+> **¿Cómo podemos demostrar a los proveedores que nuestra plataforma puede reducir el tiempo de gestión de pedidos en un 40%, disminuir los errores logísticos en un 60%, y mejorar la satisfacción del cliente en al menos 1 punto en encuestas de servicio durante los primeros 3 meses de uso?**
 
 ---
 
@@ -123,7 +123,7 @@ FuelTrack aspira a cerrar esta brecha proporcionando una plataforma escalable y 
 
 Sin embargo, dada la complejidad del ecosistema y la diversidad de actores involucrados, es esencial una estrategia de introducción al mercado cuidadosamente planificada.
 
-> **¿Cómo podemos identificar y abordar un segmento inicial que nos permita validar nuestra propuesta de valor, generar tracción en el mercado y establecer una base sólida para una expansión escalable?**
+> **¿Cómo podemos identificar y abordar un segmento inicial capaz de generar al menos 50 registros activos en el primer mes, con una tasa de retención del 70% y retroalimentación positiva (mínimo 4 de 5 en encuestas de satisfacción), para validar nuestra propuesta de valor y sentar las bases para escalar?**
 
 #### 1.2.2.2. Lean UX Assumptions
 ### Business Outcomes Assumptions
