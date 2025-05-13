@@ -300,10 +300,10 @@ En el caso del **solicitante**, el recorrido empieza con la generación de un pe
 
 En el caso del **proveedor**, el flujo parte desde la recepción del pedido, luego incluye la verificación del estado de cuenta, la aprobación manual, la asignación de planta y vehículo, y en muchos casos, la reprogramación por problemas de disponibilidad.
 
-a. User Persona 1: Empresas solicitantes de combustible
+a. User Persona 1: User Persona 1 - Solicitante de Combustible
 ![userjourneymap_userpersona1](img/userjourneymap_userpersona1.png)
 
-b. User Persona 2: Proveedores de combustible
+b. User Persona 2: User Persona 2 - Proveedor de Combustible
 ![userjourneymap_userpersona2](img/userjourneymap_userpersona2.png)
 
 ## 2.3.4. Empathy Mapping.
@@ -311,24 +311,16 @@ b. User Persona 2: Proveedores de combustible
 ![empathymap_segmento1](img/empathymap_segmento1.png)
 ![empathymap_segmento1](img/empathymap_segmento2.png)
 
-## 2.3.5. As-is Scenario Mapping. 
-### Escenario As-is (Segmento: proveedores de combustible)
+## 2.3.5. As-is Scenario Mapping.
 
-| FASES | Comunicación | Solicitar pedido | Seguimiento | Entrega |
-|-------|--------------|------------------|-------------|---------|
-| **DOING** | Llamadas, correos, WhatsApp sin orden. | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje. |
-| **THINKING** | "¿Habrán recibido mi mensaje?" | "¿Me habrán entendido bien?" | "¿Dónde estará nuestro pedido?" | "¿Ya habrán llegado?" |
-| **FEELING** | Frustración, desorganización. | Incertidumbre, falta de confianza. | Ansiedad, impaciencia. | Duda, estrés. |
+### Escenario As-is (Segmento: proveedores de combustible)
+![as-is_map_userpersona1](img/asis_scenario_map_userpersona1.png)
 
 ### Escenario As-is (Segmento: Solicitantes de combustible)
+![as-is_map_userpersona2](img/asis_scenario_map_userpersona2.png)
 
-| FASES | Comunicación | Solicitar pedido | Seguimiento | Entrega |
-|-------|--------------|------------------|-------------|---------|
-| **DOING** | Llamadas, correos, WhatsApp sin orden. | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje. |
-| **THINKING** | "¿Habrán recibido mi mensaje?" | "¿Me habrán entendido bien?" | "¿Dónde estará nuestro pedido?" | "¿Ya habrán llegado?" |
-| **FEELING** | Frustración, desorganización. | Incertidumbre, falta de confianza. | Ansiedad, impaciencia. | Duda, estrés. |
 
-## 2.4. Ubiquitous Language. 
+## 2.4. Ubiquitous Language.
 
 | Término | Definición | Segmentos relacionados |
 |---------|------------|------------------------|
