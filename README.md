@@ -45,6 +45,10 @@
       <td>u202310129</td>
       <td>César Augusto Navarro Correa</td>
     </tr>
+        <tr>
+      <td></td>
+      <td>Frezzia Espinoza Paredes</td>
+    </tr>
   </table>
 </div>
 
