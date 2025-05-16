@@ -388,6 +388,58 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
 | La Torre Valle, Franz Jair                  | FranzJairLTV       | C            | C              | L        | C            |
 | Frezzia Eldaa Isabel Espinoza Paredes       | fflushh            | C            | C              | C        | C            |
 
+### 5.2.2.3. Sprint Backlog 2
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la navegacion tanto de cliente como de proveedor. Algunas evidencias son:
+
+- **Home:** Presenta de manera rápida el propósito y valor de FuelTrack para captar la atención del visitante.
+
+![Home](img/homefront.jpeg)
+- **Inicio de sesión:** Se muestra la pagina para los usuarios que ya tienen una cuenta, ya sean esto clientes o proveedores
+
+![logiin](img/login1.jpeg)
+- **Registro:** Una interfaz donde le da la opcion al usuario de registrarse en nuestra pagina como cliente o proveedores
+
+![How it works?](img/register.jpeg)
+- **Pagina de Analisis:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
+
+![analyticsfront](img/analyticsfront.jpeg)
+- **Pagina de gestión de ordenes:** Se muestran las ordenes con sus diferentes estados y la informacion necesaria de cada orden
+
+![orderfront](img/ordersfront.jpeg)
+- **Creación de orden:** Ofrece un formulario para llenar con los datos necesarios para que el proveedor genere la orden de envio.
+
+![CreateOrder](img/CreateOrder.jpeg)
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 2, el equipo se enfocó en el desarrollo del frontend inicial de la plataforma FuelTrack, particularmente en la construcción de la Landing Page. En esta etapa se priorizó el diseño visual, la experiencia de usuario y la implementación de la estructura base de la interfaz.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y deployment eficiente para el frontend de nuestra plataforma, construido con Angular. Implementamos una estructura modular que facilita la escalabilidad y el mantenimiento del código, apoyándonos en Angular Material para garantizar una interfaz moderna, responsiva y alineada con principios de diseño consistentes.
+
+**Link:** 
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## Conclusiones 
+
+- El proyecto FuelTrack planteó una solución clara y concreta para optimizar la gestión de pedidos de combustible, basada en una comprensión real del mercado y de las necesidades de los usuarios.
+
+- Se validó la propuesta de valor a través de métodos ágiles como Lean UX, entrevistas y análisis de competencia, logrando definir un producto que resuelve problemas reales de eficiencia y comunicación.
+
+- Se diseñó una experiencia de usuario consistente y accesible, destacando especialmente la *Landing Page*, que comunica de forma clara la oferta del servicio, apoya la conversión mediante call to actions estratégicos y genera confianza a través de testimonios y prueba social.
+
+- El diseño de la plataforma web combinó buenas prácticas de arquitectura de información, navegación intuitiva y guías de estilo que garantizan una imagen profesional y coherente en toda la experiencia digital.
+
+- A nivel técnico, se construyó una base sólida de arquitectura de software y base de datos, asegurando escalabilidad, mantenibilidad y alineación con los objetivos de negocio.
+
+- El desarrollo del producto se organizó mediante una planificación iterativa, permitiendo construir, validar y mejorar de manera progresiva, asegurando que el resultado final responda tanto a las expectativas de los usuarios como a las metas de FuelTrack.
+
 ## Conclusiones 
 
 - El proyecto FuelTrack planteó una solución clara y concreta para optimizar la gestión de pedidos de combustible, basada en una comprensión real del mercado y de las necesidades de los usuarios.
