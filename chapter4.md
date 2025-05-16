@@ -142,7 +142,7 @@ Para una mejor visualización de los wireframe (versión desktop y mobile), se a
 
 La primera pantalla presenta un encabezado claro con logo, menú de navegación y un botón de "Contact us" destacado, mostrando una jerarquía visual efectiva y buena arquitectura de información. La sección hero combina una imagen de trabajadores del sector industrial y un mensaje directo sobre la eficiencia en la gestión de pedidos de combustible. El primer call to action es visible y contrasta bien, guiando al usuario de forma intuitiva. Se aplican principios de alineamiento y énfasis para centrar la atención en la propuesta de valor.
 
-![Pantalla 1](img/MLPAGE_V1.png)
+![Pantalla 1](img/FINAL_MOCKUP.png)
 
 ## PANTALLA 2
 
@@ -179,7 +179,6 @@ En esta pantalla se invita a los solicitantes de combustible a unirse, usando un
 Aquí se presenta un formulario de contacto sencillo bajo el título "Contact us", solicitando datos básicos como nombre, correo y mensaje. El formulario es de fácil acceso, y su diseño es limpio y funcional, pensado para una experiencia sin barreras. Esta sección se integra con el pie de página, que ofrece enlaces de navegación, redes sociales y el resumen corporativo de la empresa, cerrando la experiencia de navegación de manera coherente y accesible.
 
 ![Pantalla 7](img/MLPAGE_V7.png)
-
 ## Nota
 
 También se incluye la versión mobile correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.
@@ -191,53 +190,78 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-**Wireframes - Segmento Cliente**
+### **Wireframes - Segmento Cliente**
 - Descripción: Vista diseñada exclusivamente para mostrar las ordenes de la empresa solicitante. Para ello optamos por una grilla que muestra fácilmente los atributos de cada orden.
 ![Web Application - Wireframe 1](img/client-wireframe-1.png)
----
+<br><br>
+
 - Descripción: Para mostrar losdetalles de cada pedido, optamos por una vista desplegable en cada fila de la grilla. De esta forma, el usuario podrá observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
 ![Web Application - Wireframe 2](img/client-wireframe-2.png)
----
+<br><br>
+
 - Descripción: Para la creación del pedido, decidimos usar un modal que se muestra al hacer clic en el botón "Crear nuevo pedido". En este modal, el usuario podrá crear sus pedidos paso a paso con un  stepper implementado. El primer paso es llenar los detalles del nuevo pedido como el producto, cantidad, etc.
 ![Web Application - Wireframe 3](img/client-wireframe-3.png)
----
+<br><br>
+
 - Descripción: Para el segundo paso, usamos una lista desplegable de detalles, donde en cada uno de ellos el usuario podrá asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación, todo mediante un pequeño formulario.
 ![Web Application - Wireframe 4](img/client-wireframe-4.png)
----
+<br><br>
+
 - Descripción: Para el paso final, mostramos toda la información del pedido, incluyendo sus detalles y la información de los pagos. El usuario podrá revisar todo antes de confirmar el pedido.
 ![Web Application - Wireframe 5](img/client-wireframe-5.png)
----
 
-**Wireframes - Segmento Proveedor**
+### **Wireframes - Segmento Proveedor**
 - Descripción: Esta vistafue diseñada para darle protagonismo a los pedidos y sus detalles meidante una grilla. Además, facilitamos la clasificación de los pedidos por estado a través de etiquetas ubicadas en la parte superior de la grilla que expone los pedidos.
 ![Web Application - Wireframe 1](img/supplier-wireframe-1.png)
----
+<br><br>
+
 - Descripción: En el segundo modulo de nuestro sistema, ubicamos una vistade conciliaciones que muestra una tabla con registros seleccionables. Aquí, la información principal es la de los pagos realizados a los pedidos. Para ello, el proveedor cuenta con un botón en la parte superior para subir una lista de movimientos de cuentas bancarias.
 ![Web Application - Wireframe 2](img/supplier-wireframe-2.png)
----
+<br><br>
+
 - Descripción: Diseñamos un modal muy sencillo que permite subir multiples archivos con movimientos de cuentas bancarias. Una vez subidos, el proveedor solo debe hacer click en el botón comparar y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
 ![Web Application - Wireframe 3](img/supplier-wireframe-3.png)
----
+<br><br>
+
 - Descripción: Para el utlimo modulo principal, presentamos la vista de Despacho. Aqui podremos configurar la información de despacho a través de un botón de configuración en cada fila de la grilla, que representa un pedido. Una vez con información válida de despacho, el pedido será marcado con un check, dando a entender al usuario que el pedido está listo para ser liberado. Para ayudar al usuario, también facilitamos chekcboxes para seleccionar los pedidos que se desean liberar, si es que son varios.
 ![Web Application - Wireframe 4](img/supplier-wireframe-4.png)
----
+<br><br>
+
 - Descripción: Al hacer click en el botón de configuración, se abrirá un modal donde el proveedor podrá llenar la información de despacho del pedido. El proveedor podrá seleccionar el vehiculo, el chofer y la cisterna que se utilizará para el despacho del pedido.
 ![Web Application - Wireframe 5](img/supplier-wireframe-5.png)
----
+<br><br>
+
 - Descripción: La tabla para asignar compartimientos a los detalles del pedido se desbloquea unavez que la información del transporte es validada. En esta tabla, el proveedor podrá asignar los compartimientos de la cisterna a cada detalle del pedido.
 ![Web Application - Wireframe 5](img/supplier-wireframe-6.png)
----
+<br><br>
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-**Wire Flow Diagram - Segmento Cliente**
-- User Goal: Estructuramos el diseño de esta vista para el cliente del tal forma que visualice de forma clara y sencilla el estado de sus pedidos, así como la opción de crear un nuevo pedido. El cliente podrá ver el detalle de cada pedido, así como los detalles de pago asociados a cada uno. Finalmente, el cliente podrá registrar un nuevo pedido, asignando los detalles del pedido y la información de pago asociada a cada detalle.
-![Web Application Supplier - Mockup 6](img/client-wireflow-diagram.png)
+### **Wireflow 1**
+- User Persona: Solicitante de combustible
+- User Goal: Como solicitante de combustible, deseo registrar un nuevo pedido de combustible. Para ello, debo llenar la información del pedido y los detalles de pago.
+![wireflow 1](img/wireflow_1.png)
 
-**Wire Flow Diagram - Segmento Provedor**
-- User Goal: Las vista del proveedor están diseñadas para que el usuario pueda gestionar los pedidos de combustible. Para ello, el proveedor podrá ver el estado de cada pedido y observar los detalles de cada uno. Es posible filtrar por estado de pedido, cliente o fecha. En el resto de módulo, el proveedor podrá conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
-![Web Application Client - User Flow Diagram](img/supplier-wireflow-diagram.png)
+### **Wireflow 2**
+- User Persona: Solicitante de combustible
+- User Goal: Como solicitante de combustible, quiero poder visualizar la información de mis pedidos organizada en dashboards.
+![wireflow 2](img/wireflow_2.png)
 
+### **Wireflow 3**
+- User Persona: Proveedor de combustible
+- User Goal: Como proveedor de combustible, deseo gestionar los pedidos, iniciando por la conciliación de los pagos. Para ello, debo subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+![wireflow 3](img/wireflow_3.png)
+
+### **Wireflow 4**
+- User Persona: Proveedor de combustible
+- User Goal: Como proveedor de combustible, debo liberar los pedidos para su despacho. Para ello, debo seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna y chofer.
+![wireflow 4](img/wireflow_4.png)
+
+### **Wireflow 5**
+- User Persona: Proveedor de combustible | Solicitante de combustible
+- User Goal: Como proveedor y solicitante de combustible, debo ser capaz de aplicar filtros a mis pedidos por diferentes criterios y ordenarlos por diferentes atributos.
+![wireflow 5](img/wireflow_5.png)
 
 ### 4.4.3. Web Applications Mock-ups
 ---
@@ -277,13 +301,34 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
 ---
 ### 4.4.4. Web Applications User Flow Diagrams
 
-**User Flow Diagram - Segmento Cliente**
-- User Goal: El usuario desea registrar un nuevo pedido de combustible. Para ello, el usuario deberá llenar la información del pedido y los detalles de pago
-![Web Application Supplier - Mockup 6](img/client-userflow-diagram.jpg)
+### **Userflow 1**
+- User Persona: Solicitante de combustible
+- User Goal: Como solicitante de combustible, deseo registrar un nuevo pedido de combustible. Para ello, debo llenar la información del pedido y los detalles de pago.
+- Happy Paths:
+    - El sistema muestra un mensaje indicando que el pedido fue creado exitosamente.
+    - El sistema guarda automáticamente la información del registro en un borrador que también puede realizar el usuario manualmente.
+- Unhappy Paths:
+    - El sistema muestra un mensaje indicando que el pedido no fue registrado.
+![userflow 1](img/userflow_1.png)
 
-**User Flow Diagram - Segmento Provedor**
-- User Goal: El proveedor debe gestionar los pedidos de combustible. Para ello, debe conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
-![Web Application Client - User Flow Diagram](img/supplier-userflow-diagram.jpg)
+### **Userflow 2**
+- User Persona: Proveedor de combustible
+- User Goal: Como proveedor de combustible, deseo gestionar los pedidos, iniciando por la conciliación de los pagos. Para ello, debo subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+- Happy Paths:
+    - El sistema habilita la selección automáticamente los pedidos cuyos depósitos coinciden con el estado de cuenta del proveedor.
+- Unhappy Paths:
+    - El sistema muestra un listado de pedidos si no se encuentra pagos para ciertos pedidos con una antigüedad específica.
+![userflow 2](img/userflow_2.png)
+
+### **Userflow 3**
+- User Persona: Proveedor de combustible
+- User Goal: Como proveedor de combustible, debo liberar los pedidos para su despacho. Para ello, debo seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna y chofer.
+- Happy Paths:
+    - El sistema muestra un mensaje indicando que el transporte es válido para el pedido.
+    - El sistema desbloquea la tabla de asignación de compartimientos.
+- Unhappy Paths:
+    - El sistema muestra un mensaje indicando la indisponibilidad de transporte, cisterna o chofer.
+![userflow 3](img/userflow_3.png)
 
 ## 4.5. Web Applications Prototyping
 
@@ -304,47 +349,54 @@ Esta sección expone la arquitectura de software orientada al dominio, una metod
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.
 
-![SACD](img/Software-Architecture-Context-Diagram.png)
+![SACD](img/users_c4.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 Los diagramas de contenedores representan los distintos elementos que conforman el sistema, como aplicaciones web, bases de datos o microservicios, y muestran cómo se relacionan entre ellos. Ofrecen una perspectiva general de la arquitectura, resaltando las funciones de cada contenedor y la forma en que interactúan.
 
-![SACD](img/Software-Architecture-Container-Diagrams.png)
+![SACD2](img/container_c4.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
 
 #### Bounded Context: Analytics
 
-![Analytics](img/BoundedContext_Analytics.png)
+![Analytics](img/analytics-c4.png)
 
 Este bounded context contiene todo lo relacionado al control y seguimiento de los pedidos, asimismo como el estados de los pedidos
 
 #### Bounded Context: Control
 
-![Analytics](img/BoundedContext_Control.png)
+![supplier](img/supplier_c4.png)
 
 Este bounded context separa todo lo relacionado con el control de producto que en este caso es combustible de los diferentes proveedores, por lo que el feature de inventario de los proveedores está considerado dentro de este bounded context.
 
 #### Bounded Context: Planning
 
-![Analytics](img/BoundedContext_Planning.png)
+![order](img/ordering-4.png)
 
 Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
+
+#### Bounded Context: Sales
+
+![sus](img/subscription_c4.png)
+
+Dentro de este bounded context se alojará nuestro sistema de suscripción el cual seria la principal fuente de ingresos, donde tanto los solicitantes como los proveedores tendran que estar suscritos a nuestra pagina web
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-#### Order request
+#### Inventory
 
-![Request](img/order-request.png)
+![Request](img/DiagramaInventario.png)
 
-Este diagrama de clases organiza el sistema de monitoreo de pedidos de combustible. Clientes representa a quienes solicitan el combustible, Orders gestiona cada pedido realizado, Suppliers identifica a los proveedores que atienden esos pedidos, e Inventory controla el stock disponible. Las relaciones permiten ver claramente cómo un cliente genera un pedido, que es atendido por un proveedor en función del inventario actual.
-#### Order motoring
+Este diagrama de clases modela la estructura del sistema de inventario de FuelTrack. La clase InventoryItem representa cada unidad o tipo de combustible almacenado, incluyendo atributos como cantidad, tipo y ubicación. La clase InventoryRepository actúa como capa de acceso a datos, permitiendo operaciones de consulta, almacenamiento y actualización de los items en la base de datos. Por su parte, InventoryService encapsula la lógica de negocio del sistema, gestionando operaciones como validación de stock, actualización de cantidades y coordinación con otros módulos del sistema. Las relaciones entre estas clases reflejan una arquitectura basada en responsabilidades separadas, facilitando el mantenimiento, la escalabilidad y las pruebas del sistema.
 
-![Monitorig](img/order-monitoring.png)
+#### Order
 
-Este diagrama de clases define la estructura del sistema de monitoreo de pedidos. Monitoring centraliza el seguimiento del estado de los pedidos, Clients representa a los solicitantes, Orders almacena la información de cada solicitud, y Suppliers registra los proveedores asignados. Las relaciones muestran cómo se controla y actualiza cada pedido en tiempo real, conectando clientes, órdenes y proveedores mediante el módulo de monitoreo.
+![Monitorig](img/DiagramOrdern.png)
+
+Este diagrama de clases representa la estructura del módulo de gestión de pedidos en FuelTrack. La clase OrderDetails almacena la información principal de cada pedido, incluyendo datos como el cliente solicitante, el tipo y la cantidad de combustible, así como la fecha y estado del pedido. La clase OrderPayment gestiona los aspectos relacionados al pago del pedido, como el monto, el método de pago y la validación del mismo. Finalmente, OrderService actúa como la capa de lógica de negocio, orquestando la creación de pedidos, el procesamiento de pagos y la validación de reglas del sistema. Las relaciones entre estas clases reflejan una arquitectura bien definida, que permite una gestión eficiente y controlada del ciclo completo de una orden, desde su creación hasta su confirmación y pago.
 
 ### 4.7.2. Class Dictionary
 ### Clase: deliveries
@@ -355,16 +407,18 @@ Descripción: Registra la información de las entregas de pedidos.
 - received_by (varchar)
 - location (varchar)
 - orders_id (int, FK)
+- transports_id (int, FK)
 
 ### Clase: orders
 
 Descripción: Gestiona los pedidos realizados por los clientes.
 - id (int, PK)
+- unit (varchar)
+- price (decimal)
 - quantity (decimal)
 - status (varchar)
 - request_at (datetime2)
-- clients_id (int, FK)
-- suppliers_id (int, FK)
+- users_id (int, FK)
 
 ### Clase: monitoring
 
@@ -391,6 +445,18 @@ Descripción: Contiene los datos de los proveedores.
 - address (varchar)
 - contact (varchar)
 
+### Class: clients_users
+Descripcion: Relación de datos entre las clases clientes y usuarios
+- id (int, PK)
+- clients_id (int, FK)
+- users_id (int, FK)
+
+### Class: suppliers_users
+Descripcion: Relación de datos entre las clases proveedores y usuarios
+- id (int, PK)
+- suppliers_id (int, FK)
+- users_id (int, FK)
+
 ### Clase: inventory
 
 Descripción: Administra el inventario de combustibles.
@@ -406,6 +472,7 @@ Descripción: Registra las transacciones de pagos de pedidos.
 - id (int, PK)
 - amount (decimal)
 - method (varchar)
+- operation_n (int)
 - status (varchar)
 - processed_at (datetime2)
 - orders_id (int, FK)
@@ -428,6 +495,7 @@ Descripción: Administra las notificaciones enviadas a los usuarios.
 - already_read (bit)
 - created_at (datetime2)
 - users_id (int, FK)
+- orders_id (int, FK)
 
 ### Clase: profiles
 
@@ -435,6 +503,14 @@ Descripción: Define los perfiles de usuario y sus permisos.
 - id (int, PK)
 - permissions (text)
 - rol (varchar)
+
+### Clase: transports
+
+Descripción: Contiene los datos de los transportes encargados del pedido
+- id (int, PK)
+- plate (varchar)
+- driver (varchar)
+- tank (varchar)
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
