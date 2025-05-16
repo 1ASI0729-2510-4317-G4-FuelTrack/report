@@ -386,16 +386,17 @@ Dentro de este bounded context se alojará nuestro sistema de suscripción el cu
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-#### Order request
+#### Inventory
 
-![Request](img/order-request.png)
+![Request](img/DiagramaInventario.png)
 
-Este diagrama de clases organiza el sistema de monitoreo de pedidos de combustible. Clientes representa a quienes solicitan el combustible, Orders gestiona cada pedido realizado, Suppliers identifica a los proveedores que atienden esos pedidos, e Inventory controla el stock disponible. Las relaciones permiten ver claramente cómo un cliente genera un pedido, que es atendido por un proveedor en función del inventario actual.
-#### Order motoring
+Este diagrama de clases modela la estructura del sistema de inventario de FuelTrack. La clase InventoryItem representa cada unidad o tipo de combustible almacenado, incluyendo atributos como cantidad, tipo y ubicación. La clase InventoryRepository actúa como capa de acceso a datos, permitiendo operaciones de consulta, almacenamiento y actualización de los items en la base de datos. Por su parte, InventoryService encapsula la lógica de negocio del sistema, gestionando operaciones como validación de stock, actualización de cantidades y coordinación con otros módulos del sistema. Las relaciones entre estas clases reflejan una arquitectura basada en responsabilidades separadas, facilitando el mantenimiento, la escalabilidad y las pruebas del sistema.
 
-![Monitorig](img/order-monitoring.png)
+#### Order
 
-Este diagrama de clases define la estructura del sistema de monitoreo de pedidos. Monitoring centraliza el seguimiento del estado de los pedidos, Clients representa a los solicitantes, Orders almacena la información de cada solicitud, y Suppliers registra los proveedores asignados. Las relaciones muestran cómo se controla y actualiza cada pedido en tiempo real, conectando clientes, órdenes y proveedores mediante el módulo de monitoreo.
+![Monitorig](img/DiagramOrdern.png)
+
+Este diagrama de clases representa la estructura del módulo de gestión de pedidos en FuelTrack. La clase OrderDetails almacena la información principal de cada pedido, incluyendo datos como el cliente solicitante, el tipo y la cantidad de combustible, así como la fecha y estado del pedido. La clase OrderPayment gestiona los aspectos relacionados al pago del pedido, como el monto, el método de pago y la validación del mismo. Finalmente, OrderService actúa como la capa de lógica de negocio, orquestando la creación de pedidos, el procesamiento de pagos y la validación de reglas del sistema. Las relaciones entre estas clases reflejan una arquitectura bien definida, que permite una gestión eficiente y controlada del ciclo completo de una orden, desde su creación hasta su confirmación y pago.
 
 ### 4.7.2. Class Dictionary
 ### Clase: deliveries
