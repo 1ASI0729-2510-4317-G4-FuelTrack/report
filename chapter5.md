@@ -348,6 +348,17 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
     </tr>
 </table>
 
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member                                  | GitHub Username   | Landing Page | Documentation | Frontend | Correcciones TB1 |
+|---------------------------------------------|--------------------|--------------|----------------|----------|--------------|
+| Sanchez Arenas, Manuel Angel                | manuels7a          | C            | C              | C        | L            |
+| Valerio Garcia, Adrián Emanuel              | adrianvalerio      | C            | C              | L        | C            |
+| Choquehuanca Nuñez, Luciana Carolina        | Lucianxaaa         | C            | L              | C        | L            |
+| Navarro Correa, César Augusto               | csr555-ui          | L            | C              | C        | C            |
+| La Torre Valle, Franz Jair                  | FranzJairLTV       | C            | C              | L        | C            |
+| Frezzia Eldaa Isabel Espinoza Paredes       | fflushh            | C            | C              | C        | C            |
+
 ## Conclusiones 
 
 - El proyecto FuelTrack planteó una solución clara y concreta para optimizar la gestión de pedidos de combustible, basada en una comprensión real del mercado y de las necesidades de los usuarios.
