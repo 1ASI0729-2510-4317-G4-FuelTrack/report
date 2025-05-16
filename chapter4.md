@@ -328,33 +328,39 @@ Esta sección expone la arquitectura de software orientada al dominio, una metod
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.
 
-![SACD](img/Software-Architecture-Context-Diagram.png)
+![SACD](img/users.c4.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 Los diagramas de contenedores representan los distintos elementos que conforman el sistema, como aplicaciones web, bases de datos o microservicios, y muestran cómo se relacionan entre ellos. Ofrecen una perspectiva general de la arquitectura, resaltando las funciones de cada contenedor y la forma en que interactúan.
 
-![SACD](img/Software-Architecture-Container-Diagrams.png)
+![SACD](img/container_c4.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
 
 #### Bounded Context: Analytics
 
-![Analytics](img/BoundedContext_Analytics.png)
+![Analytics](img/analytics_c4.png)
 
 Este bounded context contiene todo lo relacionado al control y seguimiento de los pedidos, asimismo como el estados de los pedidos
 
 #### Bounded Context: Control
 
-![Analytics](img/BoundedContext_Control.png)
+![Analytics](img/supplier_c4.png)
 
 Este bounded context separa todo lo relacionado con el control de producto que en este caso es combustible de los diferentes proveedores, por lo que el feature de inventario de los proveedores está considerado dentro de este bounded context.
 
 #### Bounded Context: Planning
 
-![Analytics](img/BoundedContext_Planning.png)
+![Analytics](img/ordering_4.png)
 
 Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
+
+#### Bounded Context: Sales
+
+![Analytics](img/subscription_c4.png)
+
+Dentro de este bounded context se alojará nuestro sistema de suscripción el cual seria la principal fuente de ingresos, donde tanto los solicitantes como los proveedores tendran que estar suscritos a nuestra pagina web
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
