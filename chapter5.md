@@ -282,6 +282,72 @@ Durante este Sprint, nos enfocamos en asegurar un proceso de Deployment eficient
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 Dividimos las tareas según las secciones acordadas durante las reuniones de planificación, ello nos permitió trabajar de manera eficiente y centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
 
+## 5.2.2. Sprint 2
+En este segundo sprint se desarrollo el frontend para nuestra pagina web
+
+### 5.2.2.1. Sprint Planning 2
+En esta siguiente etapa de proyecto, nuestra principal objetivo sera desarrollar el frontend de nuestra pagina web mediante WebStorm como nuestro entorno de desarrollo
+
+Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-front-end
+
+<table>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 2</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>8/05/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>8:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Discord</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Adrian Emanuel Valerio Garcia</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>Manuel Angel Sanchez Arenas - U201817507<br>
+        Adrián Emanuel Valerio Garcia - U202210334<br>
+        Luciana Carolina Choquehuanca Nuñez - U202319431<br>
+        César Augusto Navarro Correa - U202310129<br>
+        Franz Jair La Torre Valle - U202012378</td>
+        Frezzia Eldaa Isabel Espinoza Paredes</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Review Summary</td>
+        <td>En este primer sprint se desarrolló el landing page y el informe</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Retrospective Summary</td>
+        <td>En este primer sprint se desarrolló el landing page y el informe</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Goal</td>
+        <td>Desarrollar el FrontEnd para agregarlo al repositorio</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Velocity</td>
+        <td>16</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>16</td>
+    </tr>
+</table>
+
 ## Conclusiones 
 
 - El proyecto FuelTrack planteó una solución clara y concreta para optimizar la gestión de pedidos de combustible, basada en una comprensión real del mercado y de las necesidades de los usuarios.
