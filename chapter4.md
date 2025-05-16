@@ -142,7 +142,7 @@ Para una mejor visualización de los wireframe (versión desktop y mobile), se a
 
 La primera pantalla presenta un encabezado claro con logo, menú de navegación y un botón de "Contact us" destacado, mostrando una jerarquía visual efectiva y buena arquitectura de información. La sección hero combina una imagen de trabajadores del sector industrial y un mensaje directo sobre la eficiencia en la gestión de pedidos de combustible. El primer call to action es visible y contrasta bien, guiando al usuario de forma intuitiva. Se aplican principios de alineamiento y énfasis para centrar la atención en la propuesta de valor.
 
-![Pantalla 1](img/MLPAGE_V1.png)
+![Pantalla 1](img/FINAL_MOCKUP.png)
 
 ## PANTALLA 2
 
