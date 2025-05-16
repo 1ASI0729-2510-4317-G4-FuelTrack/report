@@ -60,7 +60,7 @@
 ## 3.3 Impact Mapping
 Solicitantes:
 
-<img src="img/impact_S2.png" alt="Impact Map - Solicitante">
+<img src="img/impact_S2.png" alt="Impact Map - solicitante">
 
 Proveedores:
 
