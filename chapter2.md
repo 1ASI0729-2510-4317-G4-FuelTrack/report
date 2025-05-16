@@ -313,11 +313,11 @@ b. User Persona 2: User Persona 2 - Proveedor de Combustible
 
 ## 2.3.5. As-is Scenario Mapping.
 
-### Escenario As-is (Segmento: proveedores de combustible)
-![as-is_map_userpersona1](img/asis_scenario_map_userpersona1.png)
+### Escenario As-is (Segmento: proveedor de combustible)
+![as-is_map_userpersona1](img/AS_IS_S1.png)
 
-### Escenario As-is (Segmento: Solicitantes de combustible)
-![as-is_map_userpersona2](img/asis_scenario_map_userpersona2.png)
+### Escenario As-is (Segmento: empresa solicitante)
+![as-is_map_userpersona2](img/AS_IS_S2.png)
 
 
 ## 2.4. Ubiquitous Language.
