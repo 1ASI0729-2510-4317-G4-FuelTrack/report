@@ -597,7 +597,11 @@ Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y depl
 
 **Link:**[https://fueltrack-f9064.web.app/](https://fueltrack-f9064.web.app/)
 
-### 5.2.1.8. Team Collaboration Insights during Sprint
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distribución de tareas. Las reuniones frecuentes ayudaron a coordinar avances, resolver bloqueos técnicos y asegurar que cada miembro comprendiera sus responsabilidades dentro del desarrollo frontend, y los canales de comunicación fueron efectivos para mantener una alineación constante entre los integrantes.
+
+Además, se evidenció una actitud proactiva por parte del equipo al brindar apoyo mutuo entre los miembros, especialmente en la integración de Angular Material y el manejo de rutas dentro de la aplicación.
 
 ## Conclusiones 
 
