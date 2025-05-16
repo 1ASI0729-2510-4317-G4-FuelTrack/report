@@ -599,6 +599,8 @@ Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y depl
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
+![commitsgroup](img/incommits.png)
+
 ## Conclusiones 
 
 - El proyecto FuelTrack planteó una solución clara y concreta para optimizar la gestión de pedidos de combustible, basada en una comprensión real del mercado y de las necesidades de los usuarios.
