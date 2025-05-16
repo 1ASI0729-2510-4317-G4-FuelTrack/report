@@ -168,7 +168,7 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
     - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    -     - [5.2.1 Sprint 1](#521-sprint-1)
+  - [5.2.2 Sprint 2](#521-sprint-1)
     - [5.2.2.1 Sprint Planning](#5211-sprint-planning)
     - [5.2.2.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
     - [5.2.2.3 Sprint Backlog 1](#5213-sprint-backlog-1)
