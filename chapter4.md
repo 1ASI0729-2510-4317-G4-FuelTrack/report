@@ -340,7 +340,7 @@ En esta sección, se presentan los diagramas de componentes de la arquitectura d
 
 #### Bounded Context: Analytics
 
-![Analytics](img/analytics_c4.png)
+![Analytics](img/analytics-c4.png)
 
 Este bounded context contiene todo lo relacionado al control y seguimiento de los pedidos, asimismo como el estados de los pedidos
 
@@ -352,7 +352,7 @@ Este bounded context separa todo lo relacionado con el control de producto que e
 
 #### Bounded Context: Planning
 
-![order](img/ordering_4.png)
+![order](img/ordering-4.png)
 
 Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
 
