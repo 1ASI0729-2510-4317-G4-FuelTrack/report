@@ -141,15 +141,22 @@ En este primer sprint se desarrolló el landing page.
     </tr>
     <tr align="center">
         <td>Sprint 1 Goal</td>
-        <td>Desarrollar el landing page para agregar a repositorio grupal</td>
+        <td>Desarrollar una landing page funcional y visualmente clara que comunique efectivamente la propuesta de valor de FuelTrack a nuestros dos segmentos clave de usuarios: proveedores de combustible y solicitantes de combustible. La página debe incluir secciones estratégicas como:<br>
+•	Home, con un call to action para captar proveedores interesados.<br>
+•	Are you a fuel requester?, con un call to action dirigido a potenciales solicitantes.<br>
+•	Secciones informativas como About Us y How it works?, para explicar el funcionamiento del sistema.<br>
+•	Secciones de validación social como Main Suppliers y Our Clients, para generar confianza mostrando empresas reales que ya usan el servicio.<br>
+•	Una sección de contacto directo (Contact Us) para atención inmediata.<br>
+•	Soporte de idioma bilingüe (español e inglés) para mayor accesibilidad.
+</td>
     </tr>
     <tr align="center">
         <td>Sprint 1 Velocity</td>
-        <td>16</td>
+        <td>30</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td>16</td>
+        <td>30</td>
     </tr>
 </table>
 
@@ -187,7 +194,7 @@ En este primer sprint se desarrolló el landing page.
         <td>Ver sección Home</td>
         <td>W-01</td>
         <td>Sección Home</td>
-        <td>Como visitante, quiero ver una sección de inicio que resuma el valor de FuelTrack para comprender rápidamente el objetivo del sistema</td>
+        <td>Como visitante (proveedor), quiero ver una sección de inicio que resuma el valor de FuelTrack para comprender rápidamente el objetivo del sistema</td>
         <td>5 horas</td>
         <td>Frezzia</td>
         <td>Done</td>
@@ -197,8 +204,8 @@ En este primer sprint se desarrolló el landing page.
         <td>Ver sección About Us</td>
         <td>W-02</td>
         <td>Sección About Us</td>
-        <td>Como visitante, quiero conocer quiénes están detrás de FuelTrack para confiar en el sistema</td>
-        <td>3 horas</td>
+        <td>Como visitante de ambos segmentos, quiero conocer quiénes están detrás de FuelTrack para confiar en el sistema</td>
+        <td>4 horas</td>
         <td>Franz</td>
         <td>Done</td>
     </tr>
@@ -207,40 +214,60 @@ En este primer sprint se desarrolló el landing page.
         <td>Ver sección How it Works?</td>
         <td>W-03</td>
         <td>Sección How it works?</td>
-        <td>Como visitante, quiero entender cómo funciona FuelTrack paso a paso para evaluar si se ajusta a mis necesidades</td>
+        <td>Como visitante de ambos segmentos, quiero entender cómo funciona FuelTrack paso a paso para evaluar si se ajusta a mis necesidades</td>
         <td>5 horas</td>
         <td>César</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-30</td>
-        <td>Ver sección de preguntas frecuentes</td>
+        <td>US-41</td>
+        <td>Ver sección Main Suppliers</td>
         <td>W-04</td>
-        <td>Preguntas frecuentes</td>
-        <td>Como visitante, quiero acceder a una sección de preguntas frecuentes para resolver dudas rápidamente</td>
+        <td>Sección Main Suppliers</td>
+        <td>Como visitante de ambos segmentos, quiero conocer los principales proveedores de combustible que trabajan con FuelTrack para confiar en la plataforma</td>
         <td>4 horas</td>
         <td>Luciana</td>
-        <td>In Process</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-42</td>
+        <td>Ver sección Our Clients</td>
+        <td>W-05</td>
+        <td>Sección Our Clients</td>
+        <td>Como visitante de ambos segmentos, quiero conocer a las empresas que utilizan FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando</td>
+        <td>6 horas</td>
+        <td>Frezzia</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-04</td>
         <td>Enviar mensaje de contacto</td>
-        <td>W-05</td>
+        <td>W-06</td>
         <td>Contacto</td>
-        <td>Como visitante, quiero enviar un mensaje desde Contact Us para solicitar más información</td>
+        <td>Como visitante de ambos segmentos, quiero enviar un mensaje desde Contact Us para solicitar más información</td>
         <td>5 horas</td>
         <td>Adrián</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-31</td>
-        <td>Acceder a información de contacto rápido</td>
-        <td>W-06</td>
-        <td>Información de contacto</td>
-        <td>Como usuario, quiero ver datos de contacto directo (teléfono o correo) para hacer consultas urgentes</td>
-        <td>2 horas</td>
+        <td>US-43</td>
+        <td>Ver sección Are You A Fuel Requester?</td>
+        <td>W-07</td>
+        <td>Are You A Fuel Requester?</td>
+        <td>Como visitante (solicitante), quiero saber si cumplo con los requisitos de solicitante de combustible para poder iniciar un proceso de registro o solicitud</td>
+        <td>6 horas</td>
         <td>Manuel</td>
         <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-44</td>
+        <td>Cambiar idioma</td>
+        <td>W-08</td>
+        <td>Idioma</td>
+        <td>Como visitante de ambos segmentos, quiero poder cambiar entre inglés y español para entender la plataforma en mi idioma preferido</td>
+        <td>4 horas</td>
+        <td>César</td>
+        <td>In Process</td>
     </tr>
 </table>
 
