@@ -306,7 +306,7 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de F
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Durante este Sprint, nos enfocamos en asegurar un proceso de Deployment eficiente y efectivo, tanto para nuestra aplicación principal como para la Landing Page asociada y los Web Services que soportan la infraestructura de la aplicación. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo.
 
-**Link:** [https://fueltrack-f9064.web.app/](https://fueltrack-f9064.web.app/)
+**Link:** 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 Dividimos las tareas según las secciones acordadas durante las reuniones de planificación, ello nos permitió trabajar de manera eficiente y centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
@@ -416,13 +416,13 @@ En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la nav
 ![CreateOrder](img/CreateOrder.png)
 
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint 2, el equipo se enfocó en el desarrollo del frontend inicial de la plataforma FuelTrack, particularmente en la construcción de la Landing Page. En esta etapa se priorizó el diseño visual, la experiencia de usuario y la implementación de la estructura base de la interfaz.
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y deployment eficiente para el frontend de nuestra plataforma, construido con Angular. Implementamos una estructura modular que facilita la escalabilidad y el mantenimiento del código, apoyándonos en Angular Material para garantizar una interfaz moderna, responsiva y alineada con principios de diseño consistentes.
 
-**Link:** 
+**Link:**[https://fueltrack-f9064.web.app/](https://fueltrack-f9064.web.app/)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
