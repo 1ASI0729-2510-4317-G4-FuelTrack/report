@@ -398,22 +398,22 @@ En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la nav
 
 - **Home:** Presenta de manera rápida el propósito y valor de FuelTrack para captar la atención del visitante.
 
-![Home](img/homefront.jpeg)
+![Home](img/homefront.png)
 - **Inicio de sesión:** Se muestra la pagina para los usuarios que ya tienen una cuenta, ya sean esto clientes o proveedores
 
-![logiin](img/login1.jpeg)
+![logiin](img/login1.png)
 - **Registro:** Una interfaz donde le da la opcion al usuario de registrarse en nuestra pagina como cliente o proveedores
 
-![How it works?](img/register.jpeg)
+![How it works?](img/register.png)
 - **Pagina de Analisis:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
 
-![analyticsfront](img/analyticsfront.jpeg)
+![analyticsfront](img/analyticsfront.png)
 - **Pagina de gestión de ordenes:** Se muestran las ordenes con sus diferentes estados y la informacion necesaria de cada orden
 
-![orderfront](img/ordersfront.jpeg)
+![orderfront](img/ordersfront.png)
 - **Creación de orden:** Ofrece un formulario para llenar con los datos necesarios para que el proveedor genere la orden de envio.
 
-![CreateOrder](img/CreateOrder.jpeg)
+![CreateOrder](img/CreateOrder.png)
 
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
