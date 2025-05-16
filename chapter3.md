@@ -1,10 +1,10 @@
 # Capitulo III: Requirements Specifications
 ## 3.1 To-Be Scenario Mapping
 ### Escenario To-Be (Segmento: Proveedor de combustible)
-<img src="img/tobe_scenario_map_userpersona1.png" alt="ToBe Scenario Map - Proveedor">
+<img src="img/TO_BE_S1.png" alt="ToBe Scenario Map - Proveedor">
 
 ### Escenario To-Be (Segmento: Empresa Solicitante)
-<img src="img/tobe_scenario_map_userpersona2.png" alt="ToBe Scenario Map - Solicitante">
+<img src="img/TO_BE_S2.png" alt="ToBe Scenario Map - Solicitante">
 
 
 ## 3.2 User Stories
