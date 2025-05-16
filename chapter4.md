@@ -380,16 +380,18 @@ Descripción: Registra la información de las entregas de pedidos.
 - received_by (varchar)
 - location (varchar)
 - orders_id (int, FK)
+- transports_id (int, FK)
 
 ### Clase: orders
 
 Descripción: Gestiona los pedidos realizados por los clientes.
 - id (int, PK)
+- unit (varchar)
+- price (decimal)
 - quantity (decimal)
 - status (varchar)
 - request_at (datetime2)
-- clients_id (int, FK)
-- suppliers_id (int, FK)
+- users_id (int, FK)
 
 ### Clase: monitoring
 
@@ -416,6 +418,18 @@ Descripción: Contiene los datos de los proveedores.
 - address (varchar)
 - contact (varchar)
 
+### Class: clients_users
+Descripcion: Relación de datos entre las clases clientes y usuarios
+- id (int, PK)
+- clients_id (int, FK)
+- users_id (int, FK)
+
+### Class: suppliers_users
+Descripcion: Relación de datos entre las clases proveedores y usuarios
+- id (int, PK)
+- suppliers_id (int, FK)
+- users_id (int, FK)
+
 ### Clase: inventory
 
 Descripción: Administra el inventario de combustibles.
@@ -431,6 +445,7 @@ Descripción: Registra las transacciones de pagos de pedidos.
 - id (int, PK)
 - amount (decimal)
 - method (varchar)
+- operation_n (int)
 - status (varchar)
 - processed_at (datetime2)
 - orders_id (int, FK)
@@ -453,6 +468,7 @@ Descripción: Administra las notificaciones enviadas a los usuarios.
 - already_read (bit)
 - created_at (datetime2)
 - users_id (int, FK)
+- orders_id (int, FK)
 
 ### Clase: profiles
 
@@ -460,6 +476,14 @@ Descripción: Define los perfiles de usuario y sus permisos.
 - id (int, PK)
 - permissions (text)
 - rol (varchar)
+
+### Clase: transports
+
+Descripción: Contiene los datos de los transportes encargados del pedido
+- id (int, PK)
+- plate (varchar)
+- driver (varchar)
+- tank (varchar)
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
