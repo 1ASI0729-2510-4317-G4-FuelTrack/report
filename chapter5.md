@@ -390,6 +390,177 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
 
 ### 5.2.2.3. Sprint Backlog 2
 
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 2</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-04</td>
+        <td>Enviar mensaje de contacto</td>
+        <td>W-09</td>
+        <td>Implementar formulario de contacto</td>
+        <td>Como visitante de ambos segmentos, quiero enviar un mensaje desde Contact Us para solicitar más información.</td>
+        <td>5 horas</td>
+        <td>Frezzia</td>
+        <td>In Process</td>
+    </tr>
+   <tr align="center">
+        <td>US-05</td>
+        <td>Registrar nuevo pedido</td>
+        <td>W-10</td>
+        <td>Crear formulario de registro de pedido</td>
+        <td>Como solicitante, quiero registrar un pedido con tipo y cantidad de combustible para que el proveedor lo procese.</td>
+        <td>6 horas</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-06</td>
+        <td>Consultar estado del pedido</td>
+        <td>W-11</td>
+        <td>Mostrar estado de pedidos del usuario</td>
+        <td>Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados.</td>
+        <td>4 horas</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-07</td>
+        <td>Confirmar recepción de pedido</td>
+        <td>W-12</td>
+        <td>Confirmar recepción desde interfaz</td>
+        <td>Como solicitante, quiero confirmar que recibí el pedido para que el proveedor lo cierre.</td>
+        <td>5 horas</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-08</td>
+        <td>Registrar información de pago</td>
+        <td>W-13</td>
+        <td>Formulario de ingreso de pagos</td>
+        <td>Como solicitante, quiero ingresar la información de los pagos correspondientes para validar el pedido ante el proveedor.</td>
+        <td>4 horas</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-09</td>
+        <td>Ver historial de pedidos</td>
+        <td>W-14</td>
+        <td>Mostrar el listado de pedidos y su información</td>
+        <td>Como solicitante, quiero ver mis pedidos anteriores para tener control sobre mi consumo.</td>
+        <td>4 horas</td>
+        <td>Adrian</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-10</td>
+        <td>Ver pedidos pendientes</td>
+        <td>W-15</td>
+        <td>Mostrar pedidos pendientes al proveedor</td>
+        <td>Como proveedor, quiero ver todos los pedidos pendientes para analizarlos y tomar acción.</td>
+        <td>4 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-11</td>
+        <td>Aprobar pedido</td>
+        <td>W-16</td>
+        <td>Aprobar pedidos desde panel proveedor</td>
+        <td>Como proveedor, quiero aprobar pedidos según los depósitos hechos a mis cuentas bancarias.</td>
+        <td>4 horas</td>
+        <td>Freezia</td>
+        <td>In Process</td>
+    </tr>
+    <tr align="center">
+        <td>US-15</td>
+        <td>Iniciar sesión</td>
+        <td>W-17</td>
+        <td>Implementar el ingreso de usuarios</td>
+        <td>Como usuario registrado, quiero iniciar sesión con correo y contraseña para acceder a mi cuenta.</td>
+        <td>5 horas</td>
+        <td>César</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-16</td>
+        <td>Recuperar contraseña</td>
+        <td>W-18</td>
+        <td>Formulario de recuperación de clave por correo</td>
+        <td>Como usuario registrado, quiero recuperar mi contraseña para volver a acceder si la olvidé.</td>
+        <td>5 horas</td>
+        <td>Luciana</td>
+        <td>In Process</td>
+    </tr>
+    <tr align="center">
+        <td>US-17</td>
+        <td>Cerrar sesión</td>
+        <td>W-19</td>
+        <td>Funcionalidad de cierre de sesión</td>
+        <td>Como usuario registrado, quiero poder cerrar sesión para mantener segura mi cuenta.</td>
+        <td>5 horas</td>
+        <td>Franz</td>
+        <td>In Process</td>
+    </tr>
+    <tr align="center">
+        <td>US-18</td>
+        <td>Ver resumen de pedidos (Solicitante)</td>
+        <td>W-20</td>
+        <td>Mostrar resumen de pedidos enviados del solicitante</td>
+        <td>Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados.</td>
+        <td>5 horas</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-19</td>
+        <td>Ver resumen de pedidos (Proveedor)</td>
+        <td>W-21</td>
+        <td>Mostrar resumen de pedidos gestionados del proveedor</td>
+        <td>Como proveedor, quiero ver un resumen de pedidos gestionados y pendientes para organizar a los clientes.</td>
+        <td>5 horas</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-38</td>
+        <td>Ver gráfico de consumo (Solicitante)</td>
+        <td>W-22</td>
+        <td>Generar gráfico de consumo mensual</td>
+        <td>Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible.</td>
+        <td>5 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-39</td>
+        <td>Ver gráfico de ventas (Proveedor)</td>
+        <td>W-23</td>
+        <td>Generar gráfico de ventas mensuales</td>
+        <td>Como proveedor, quiero ver un gráfico de ventas por mes para monitorear el rendimiento del negocio.</td>
+        <td>5 horas</td>
+        <td>Luciana</td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ### 5.2.2.4. Development Evidence for Sprint Review
 Durante el Sprint 2, el equipo de desarrollo frontend de FuelTrack avanzó en la implementación de interfaces clave de la plataforma, cumpliendo con las User Stories priorizadas. Se trabajó en el diseño y maquetación de la página de login, así como en las vistas correspondientes a la creación de órdenes, desarrolladas inicialmente como pantallas estáticas para definir la estructura y la navegación del sistema.
 
