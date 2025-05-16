@@ -5,10 +5,12 @@
 - WhatsApp: Es una aplicación de mensajería instantánea propiedad de Meta, en la cual coordinamos las tareas del equipo y facilitamos el intercambio de ideas y el apoyo continuo durante el desarrollo del proyecto.
 - Google Meet: Es una herramienta de videoconferencias de Google, en la cual mantenemos una comunicación más verbal y directa, permitiendo planificar las tareas de manera colaborativa.
 - Google Drive: Es un servicio de almacenamiento en la nube de Google, que utilizamos para compartir archivos de mayor tamaño e información relevante entre los integrantes del equipo.
+- Trello: Es una herramienta visual basada en la metodología Kanban que facilita la organización de tareas, sprints y entregables a través de tableros interactivos y tarjetas movibles. Es especialmente útil para mantener el ritmo del equipo y asegurar la visibilidad en cada etapa del proyecto.
 
 **Requirements Management:**
 - UXPressia: Utilizada para la elaboración de User Personas, User Journey Maps e Impact Maps, lo que nos permite entender mejor a nuestros usuarios y planificar funcionalidades centradas en ellos.
 - Zoom: Herramienta empleada para la realización de entrevistas a posibles usuarios, facilitando la obtención de información directa y valiosa para la definición de requisitos.
+- Pivotal Tracker: Plataforma de gestión ágil que permite registrar, priorizar y desarrollar historias de usuario dentro de un backlog dinámico. Su enfoque en la velocidad de desarrollo, facilita la planificación y predicción precisa de futuras entregas del proyecto.
 
 **Product UX/UI Design:**
 - Figma: Plataforma utilizada para el diseño de wireframes, wireflows, mockups y prototipos interactivos, asegurando una visión clara y colaborativa de la interfaz del producto.
