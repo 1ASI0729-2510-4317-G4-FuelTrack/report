@@ -51,7 +51,6 @@
 | US38 | Ver gráfico de consumo (Solicitante) | Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible. | **Escenario 1: Gráfico con datos disponibles** <br/> Dado que el solicitante ha realizado pedidos,<br/>Cuando accede al módulo de reportes,<br/>Entonces se visualiza un gráfico con galones consumidos por mes.<br/><br/> **Escenario 2: Sin datos de consumo** <br/> Dado que el solicitante no ha hecho pedidos aún,<br/>Cuando accede al gráfico,<br/>Entonces se muestra un mensaje de que no hay datos suficientes.<br/><br/> | EP14 |
 | US39 | Ver gráfico de ventas (Proveedor) | Como proveedor, quiero ver un gráfico de ventas por mes para monitorear el rendimiento del negocio. | **Escenario 1: Datos disponibles para graficar** <br/> Dado que el proveedor ha despachado pedidos,<br/>Cuando accede al módulo de reportes,<br/>Entonces se visualiza un gráfico con las ventas mensuales totales.<br/><br/> **Escenario 2: Sin pedidos registrados** <br/> Dado que el proveedor no ha realizado ventas aún,<br/>Cuando accede al gráfico,<br/>Entonces se muestra un mensaje de que no hay datos suficientes.<br/><br/> | EP14 |
 | US40 | Descargar reporte PDF | Como usuario de ambos segmentos, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo. | **Escenario 1: Generación de PDF con datos** <br/> Dado que el usuario hace clic en "Descargar",<br/>Cuando hay datos en el periodo seleccionado,<br/>Entonces se genera un archivo PDF descargable.<br/><br/>**Escenario 2: No hay datos en el periodo seleccionado** <br/> Dado que el usuario no tiene registros en el periodo seleccionado,<br/>Cuando se solicita la descarga,<br/>Entonces el sistema notifica que no hay contenido para exportar.<br/><br/> **Escenario 3: Falla en la generación del PDF** <br/> Dado que el usuario intenta descargar el archivo y ocurre un error en el backend al generar el PDF,<br/>Cuando hace clic en el botón de descargar,<br/>Entonces se muestra un mensaje de error sin afectar la sesión.<br/><br/> | EP14 |
-
 | US41 | Ver sección Main Suppliers | Como visitante de ambos segmentos, quiero conocer los principales proveedores de combustible que trabajan con FuelTrack para confiar en la plataforma. | **Escenario 1: Visualizar proveedores principales** <br/> Dado que el visitante de ambos segmentos accede a la sección "Main Suppliers",<br/>Cuando visualiza los logos de los proveedores,<br/>Entonces puede identificar a los proveedores principales que están asociados con FuelTrack.<br/><br/>**Escenario 2: Ver proveedores actualizados** <br/> Dado que el visitantes de ambos segmentos accede a la sección,<br/>Cuando observa la lista de proveedores actualizada,<br/>Entonces ve los proveedores más recientes con sus respectivas actualizaciones.<br/><br/> | EP01 |
 | US42 | Ver sección Our Clients | Como visitante de ambos segmentos, quiero conocer a las empresas que utilizan FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando. | **Escenario 1: Ver testimonios de clientes** <br/> Dado que el visitante de ambos segmentos está interesado en los comentarios de los clientes,<br/>Cuando accede a la sección,<br/>Entonces puede leer un breve testimonio sobre experiencias usando FuelTrack.<br/><br/>**Escenario 2: Visualizar testimonios recientes** <br/> Dado que el visitante de ambos segmentos accede a la sección y esta se actualiza regularmente,<br/>Cuando se carga la información,<br/>Entonces visualiza las últimos testimonios que se han unido a FuelTrack.<br/><br/> | EP01 |
 | US43 | Ver sección Are You A Fuel Requester? | Como visitante (solicitante), quiero saber si cumplo con los requisitos de solicitante de combustible para poder iniciar un proceso de registro o solicitud. | **Escenario 1: Ver información sobre ser solicitante de combustible** <br/> Dado que el visitante (solicitante) entra a la sección "Are you a fuel requester?",<br/>Cuando visualiza el mensaje y call to action,<br/>Entonces entiende que debe registrarse como solicitante para comenzar el proceso.<br/><br/>**Escenario 2: Realizar acción para ser solicitante** <br/> Dado que el visitante (solicitante) está interesado en convertirse en solicitante,<br/>Cuando hace clic en el call to action para solicitantes,<br/>Entonces es redirigido a la página de registro de solicitantes.<br/><br/> | EP01 |
@@ -70,43 +69,47 @@ Proveedores:
 
 | #Orden |   ID   | Título | Descripción | Story Points |
 |--------|--------|--------|-------------|--------------|
-| 01 | US-01 | Ver sección Home | Como visitante, quiero ver una sección de inicio que resuma el valor de FuelTrack para comprender rápidamente el objetivo del sistema | 3 |
-| 02 | US-02 | Ver sección About Us | Como visitante, quiero conocer quiénes están detrás de FuelTrack para confiar en el sistema | 2 |
-| 03 | US-03 | Ver sección How it works? | Como visitante, quiero entender cómo funciona FuelTrack paso a paso para evaluar si se ajusta a mis necesidades | 3 |
-| 04 | US-30 | Ver sección de preguntas frecuentes | Como visitante, quiero acceder a una sección de preguntas frecuentes para resolver dudas rápidamente | 3 |
-| 05 | US-04 | Enviar mensaje de contacto | Como visitante, quiero enviar un mensaje desde Contact Us para solicitar más información | 5 |
-| 06 | US-31 | Acceder a información de contacto rápido | Como usuario, quiero ver datos de contacto directo (teléfono o correo) para hacer consultas urgentes | 2 |
-| 07 | US-05 | Registrar nuevo pedido | Como solicitante, quiero registrar un pedido con tipo y cantidad de combustible para que el proveedor lo procese | 5 |
-| 08 | US-06 | Consultar estado del pedido | Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados | 3 |
-| 09 | US-09 | Ver historial de pedidos | Como solicitante, quiero ver mis pedidos anteriores para tener control sobre mi consumo | 3 |
-| 10 | US-18 | Ver resumen de pedidos (Solicitante) | Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados | 5 |
-| 11 | US-34 | Recibir notificación de aprobación | Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para  estar informado | 2 |
-| 12 | US-35 | Notificación de pedido despachado | Como solicitante, quiero recibir una notificación cuando un pedido haya sido despachado para estar informado | 2 |
-| 13 | US-08 | Subir comprobante de pago | Como solicitante, quiero subir el comprobante para validar el pedido ante el proveedor | 3 |
-| 14 | US-07 | Confirmar recepción de pedido | Como solicitante, quiero confirmar que recibí el pedido para que el proveedor lo cierre | 2 |
-| 15 | US-10 | Ver pedidos pendientes | Como proveedor, quiero ver todos los pedidos pendientes para analizarlos y tomar acción | 2 |
-| 16 | US-11 | Aprobar o rechazar pedido | Como proveedor, quiero aceptar o rechazar pedidos según el stock disponible para evitar conflictos de distribución | 5 |
-| 17 | US-12 | Marcar pedido como despachado | Como proveedor, quiero marcar cuándo un pedido sale a entrega para notificar al cliente | 2 |
-| 18 | US-13 | Cerrar pedido | Como proveedor, quiero cerrar el pedido cuando el cliente confirme la entrega para finalizar el proceso | 3 |
-| 19 | US-25 | Asignar vehículo a pedido | Como proveedor, quiero asignar un vehículo a un pedido aprobado para organizar la logística | 5 |
-| 20 | US-26 | Asignar conductor a pedido | Como proveedor, quiero asignar un conductor para completar la información de despacho | 5 |
-| 21 | US-27 | Validar disponibilidad de transporte | Como proveedor, quiero saber qué vehículos están disponibles antes de asignarlos para vincularlos correctamente | 8 |
-| 22 | US-19 | Ver resumen de pedidos (Proveedor) | Como proveedor, quiero ver un resumen de pedidos gestionados y pendientes para organizar a los clientes | 5 |
-| 23 | US-14 | Generar reporte de ventas | Como proveedor, quiero generar reportes de ventas para tener registro de operaciones realizadas | 3 |
-| 24 | US-36 | Ver listado de empresas | Como proveedor, quiero ver una lista de empresas solicitantes para identificar a mis clientes frecuentes | 3 |
-| 25 | US-37 | Ver detalles de empresa | Como proveedor, quiero ver información detallada de una empresa solicitante para analizar su historial de pedidos | 3 |
-| 26 | US-38 | Ver gráfico de consumo (Solicitante) | Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible | 5 |
-| 27 | US-39 | Ver gráfico de ventas (Proveedor) | Como proveedor, quiero ver un gráfico de ventas por mes para monitorear el rendimiento del negocio | 5 |
-| 28 | US-40 | Descargar reporte PDF | Como usuario, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo | 3 |
-| 29 | US-32 | Buscar pedido por código | Como usuario, quiero buscar un pedido específico por su código para encontrarlo rápidamente | 2 |
-| 30 | US-33 | Filtrar pedidos por estado | Como usuario, quiero filtrar mis pedidos por estado (pendiente, aprobado, entregado) para facilitar la revisión | 2 |
-| 31 | US-28 | Ver perfil de usuario | Como usuario, quiero ver mis datos de perfil para revisar mi información registrada | 2 |
-| 32 | US-29 | Editar datos de perfil | Como usuario, quiero editar mis datos para mantener mi información actualizada | 3 |
-| 33 | US-15 | Iniciar sesión | Como usuario registrado, quiero iniciar sesión con correo y contraseña para acceder a mi cuenta | 3 |
-| 34 | US-16 | Recuperar contraseña | Como usuario registrado, quiero recuperar mi contraseña para volver a acceder si la olvidé | 3 |
-| 35 | US-17 | Cerrar sesión | Como usuario, quiero poder cerrar sesión para mantener segura mi cuenta | 1 |
-| 36 | US-20 | Endpoint: Login | Como developer, quiero un endpoint POST /api/login para autenticar usuarios | 3 |
-| 37 | US-21 | Endpoint: Recuperar contraseña | Como developer, quiero un endpoint POST /api/password-reset para que permita enviar correo de recuperación | 3 |
-| 38 | US-22 | Endpoint: Logout | Como developer, quiero un endpoint POST /api/logout para cerrar sesión | 2 |
-| 39 | US-23 | Endpoint: Crear pedido | Como developer, quiero un endpoint POST /api/pedidos para registrar un nuevo pedido de combustible | 3 |
-| 40 | US-24 | Endpoint: Consultar pedidos por usuario | Como developer, quiero un endpoint GET /api/pedidos?usuario_id=123 para obtener todos los pedidos de un usuario | 3 |
+| 01 | US-01 | Ver sección Home | Como visitante (proveedor), quiero ver una sección de inicio que resuma el valor de FuelTrack para comprender rápidamente el objetivo del sistema | 3 |
+| 02 | US-02 | Ver sección About Us | Como visitante de ambos segmentos, quiero conocer quiénes están detrás de FuelTrack para confiar en el sistema | 2 |
+| 03 | US-03 | Ver sección How it works? | Como visitante de ambos segmentos, quiero entender cómo funciona FuelTrack paso a paso para evaluar si se ajusta a mis necesidades | 3 |
+| 04 | US-41 | Ver sección Main Suppliers | Como visitante de ambos segmentos, quiero conocer los principales proveedores de combustible que trabajan con FuelTrack para confiar en la plataforma | 1 |
+| 05 | US-42 | Ver sección Our Clients | Como visitante de ambos segmentos, quiero conocer a las empresas que utilizan FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando | 3 |
+| 06 | US-43 | Ver sección Are You A Fuel Requester? | Como visitante (solicitante), quiero saber si cumplo con los requisitos de solicitante de combustible para poder iniciar un proceso de registro o solicitud | 5 |
+| 07 | US-44 | Cambiar idioma | Como visitante de ambos segmentos, quiero poder cambiar entre inglés y español para entender la plataforma en mi idioma preferido | 8 |
+| 08 | US-04 | Enviar mensaje de contacto | Como visitante de ambos segmentos, quiero enviar un mensaje desde Contact Us para solicitar más información | 5 |
+| 09 | US-30 | Ver sección de preguntas frecuentes | Como visitante de ambos segmentos, quiero acceder a una sección de preguntas frecuentes para resolver dudas rápidamente | 3 |
+| 10 | US-31 | Acceder a información de contacto rápido | Como usuario de ambos segmentos, quiero ver datos de contacto directo (teléfono o correo) para hacer consultas urgentes | 2 |
+| 11 | US-05 | Registrar nuevo pedido | Como solicitante, quiero registrar un pedido con tipo y cantidad de combustible para que el proveedor lo procese | 5 |
+| 12 | US-06 | Consultar estado del pedido | Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados | 3 |
+| 13 | US-09 | Ver historial de pedidos | Como solicitante, quiero ver mis pedidos anteriores para tener control sobre mi consumo | 3 |
+| 14 | US-18 | Ver resumen de pedidos (Solicitante) | Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados | 5 |
+| 15 | US-34 | Recibir notificación de aprobación | Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para  estar informado | 2 |
+| 16 | US-35 | Notificación de pedido despachado | Como solicitante, quiero recibir una notificación cuando un pedido haya sido despachado para estar informado | 2 |
+| 17 | US-08 | Subir comprobante de pago | Como solicitante, quiero subir el comprobante para validar el pedido ante el proveedor | 3 |
+| 18 | US-07 | Confirmar recepción de pedido | Como solicitante, quiero confirmar que recibí el pedido para que el proveedor lo cierre | 2 |
+| 19 | US-10 | Ver pedidos pendientes | Como proveedor, quiero ver todos los pedidos pendientes para analizarlos y tomar acción | 2 |
+| 20 | US-11 | Aprobar o rechazar pedido | Como proveedor, quiero aceptar o rechazar pedidos según el stock disponible para evitar conflictos de distribución | 5 |
+| 21 | US-12 | Marcar pedido como despachado | Como proveedor, quiero marcar cuándo un pedido sale a entrega para notificar al cliente | 2 |
+| 22 | US-13 | Cerrar pedido | Como proveedor, quiero cerrar el pedido cuando el cliente confirme la entrega para finalizar el proceso | 3 |
+| 23 | US-25 | Asignar vehículo a pedido | Como proveedor, quiero asignar un vehículo a un pedido aprobado para organizar la logística | 5 |
+| 24 | US-26 | Asignar conductor a pedido | Como proveedor, quiero asignar un conductor para completar la información de despacho | 5 |
+| 25 | US-27 | Validar disponibilidad de transporte | Como proveedor, quiero saber qué vehículos están disponibles antes de asignarlos para vincularlos correctamente | 8 |
+| 26 | US-19 | Ver resumen de pedidos (Proveedor) | Como proveedor, quiero ver un resumen de pedidos gestionados y pendientes para organizar a los clientes | 5 |
+| 27 | US-14 | Generar reporte de ventas | Como proveedor, quiero generar reportes de ventas para tener registro de operaciones realizadas | 3 |
+| 28 | US-36 | Ver listado de empresas | Como proveedor, quiero ver una lista de empresas solicitantes para identificar a mis clientes frecuentes | 3 |
+| 29 | US-37 | Ver detalles de empresa | Como proveedor, quiero ver información detallada de una empresa solicitante para analizar su historial de pedidos | 3 |
+| 30 | US-38 | Ver gráfico de consumo (Solicitante) | Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible | 5 |
+| 31 | US-39 | Ver gráfico de ventas (Proveedor) | Como proveedor, quiero ver un gráfico de ventas por mes para monitorear el rendimiento del negocio | 5 |
+| 32 | US-40 | Descargar reporte PDF | Como usuario de ambos segmentos, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo | 3 |
+| 33 | US-32 | Buscar pedido por código | Como usuario de ambos segmentos, quiero buscar un pedido específico por su código para encontrarlo rápidamente | 2 |
+| 34 | US-33 | Filtrar pedidos por estado | Como usuario de ambos segmentos, quiero filtrar mis pedidos por estado (pendiente, aprobado, entregado) para facilitar la revisión | 2 |
+| 35 | US-28 | Ver perfil de usuario | Como usuario registrado, quiero ver mis datos de perfil para revisar mi información registrada | 2 |
+| 36 | US-29 | Editar datos de perfil | Como usuario registrado, quiero editar mis datos para mantener mi información actualizada | 3 |
+| 37 | US-15 | Iniciar sesión | Como usuario registrado, quiero iniciar sesión con correo y contraseña para acceder a mi cuenta | 3 |
+| 38 | US-16 | Recuperar contraseña | Como usuario registrado, quiero recuperar mi contraseña para volver a acceder si la olvidé | 3 |
+| 39 | US-17 | Cerrar sesión | Como usuario registrado, quiero poder cerrar sesión para mantener segura mi cuenta | 1 |
+| 40 | US-20 | Endpoint: Login | Como developer, quiero un endpoint para autenticar usuarios | 3 |
+| 41 | US-21 | Endpoint: Recuperar contraseña | Como developer, quiero un endpoint para que permita enviar correo de recuperación | 3 |
+| 42 | US-22 | Endpoint: Logout | Como developer, quiero un endpoint para cerrar sesión | 2 |
+| 43 | US-23 | Endpoint: Crear pedido | Como developer, quiero un endpoint para registrar un nuevo pedido de combustible | 3 |
+| 44 | US-24 | Endpoint: Consultar pedidos por usuario | Como developer, quiero un endpoint para obtener todos los pedidos de un usuario | 3 |
