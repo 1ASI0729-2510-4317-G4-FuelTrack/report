@@ -320,7 +320,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         Adrián Emanuel Valerio Garcia - U202210334<br>
         Luciana Carolina Choquehuanca Nuñez - U202319431<br>
         César Augusto Navarro Correa - U202310129<br>
-        Franz Jair La Torre Valle - U202012378</td>
+        Franz Jair La Torre Valle - U202012378<br>
         Frezzia Eldaa Isabel Espinoza Paredes</td>
     </tr>
     <tr align="center">
