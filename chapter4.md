@@ -301,13 +301,34 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
 ---
 ### 4.4.4. Web Applications User Flow Diagrams
 
-**User Flow Diagram - Segmento Cliente**
-- User Goal: El usuario desea registrar un nuevo pedido de combustible. Para ello, el usuario deberá llenar la información del pedido y los detalles de pago
-![Web Application Supplier - Mockup 6](img/client-userflow-diagram.jpg)
+### **Userflow 1**
+- User Persona: Solicitante de combustible
+- User Goal: Como solicitante de combustible, deseo registrar un nuevo pedido de combustible. Para ello, debo llenar la información del pedido y los detalles de pago.
+- Happy Paths:
+    - El sistema muestra un mensaje indicando que el pedido fue creado exitosamente.
+    - El sistema guarda automáticamente la información del registro en un borrador que también puede realizar el usuario manualmente.
+- Unhappy Paths:
+    - El sistema muestra un mensaje indicando que el pedido no fue registrado.
+![userflow 1](img/userflow_1.png)
 
-**User Flow Diagram - Segmento Provedor**
-- User Goal: El proveedor debe gestionar los pedidos de combustible. Para ello, debe conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
-![Web Application Client - User Flow Diagram](img/supplier-userflow-diagram.jpg)
+### **Userflow 2**
+- User Persona: Proveedor de combustible
+- User Goal: Como proveedor de combustible, deseo gestionar los pedidos, iniciando por la conciliación de los pagos. Para ello, debo subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+- Happy Paths:
+    - El sistema habilita la selección automáticamente los pedidos cuyos depósitos coinciden con el estado de cuenta del proveedor.
+- Unhappy Paths:
+    - El sistema muestra un listado de pedidos si no se encuentra pagos para ciertos pedidos con una antigüedad específica.
+![userflow 2](img/userflow_2.png)
+
+### **Userflow 3**
+- User Persona: Proveedor de combustible
+- User Goal: Como proveedor de combustible, debo liberar los pedidos para su despacho. Para ello, debo seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna y chofer.
+- Happy Paths:
+    - El sistema muestra un mensaje indicando que el transporte es válido para el pedido.
+    - El sistema desbloquea la tabla de asignación de compartimientos.
+- Unhappy Paths:
+    - El sistema muestra un mensaje indicando la indisponibilidad de transporte, cisterna o chofer.
+![userflow 3](img/userflow_3.png)
 
 ## 4.5. Web Applications Prototyping
 
