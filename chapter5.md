@@ -391,7 +391,9 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
 ### 5.2.2.3. Sprint Backlog 2
 
 ### 5.2.2.4. Development Evidence for Sprint Review
+Durante el Sprint 2, el equipo de desarrollo frontend de FuelTrack avanzó en la implementación de interfaces clave de la plataforma, cumpliendo con las User Stories priorizadas. Se trabajó en el diseño y maquetación de la página de login, así como en las vistas correspondientes a la creación de órdenes, desarrolladas inicialmente como pantallas estáticas para definir la estructura y la navegación del sistema.
 
+Se aplicaron estilos CSS personalizados y componentes de Angular Material para asegurar una apariencia moderna, coherente y responsive en distintos dispositivos. Además, se estableció una estructura de carpetas modular dentro del proyecto Angular para mantener una organización clara del código.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la navegacion tanto de cliente como de proveedor. Algunas evidencias son:
