@@ -179,7 +179,6 @@ En esta pantalla se invita a los solicitantes de combustible a unirse, usando un
 Aquí se presenta un formulario de contacto sencillo bajo el título "Contact us", solicitando datos básicos como nombre, correo y mensaje. El formulario es de fácil acceso, y su diseño es limpio y funcional, pensado para una experiencia sin barreras. Esta sección se integra con el pie de página, que ofrece enlaces de navegación, redes sociales y el resumen corporativo de la empresa, cerrando la experiencia de navegación de manera coherente y accesible.
 
 ![Pantalla 7](img/MLPAGE_V7.png)
-
 ## Nota
 
 También se incluye la versión mobile correspondiente para cada sección mostrada, siguiendo el mismo orden y adaptándose a las dimensiones y experiencia de uso en dispositivos móviles.
