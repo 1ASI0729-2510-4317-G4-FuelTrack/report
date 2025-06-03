@@ -154,11 +154,11 @@ En este primer sprint se desarrolló el landing page.
     </tr>
     <tr align="center">
         <td>Sprint 1 Velocity</td>
-        <td>30</td>
+        <td>12</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td>30</td>
+        <td>22</td>
     </tr>
 </table>
 
@@ -249,7 +249,7 @@ En este primer sprint se desarrolló el landing page.
         <td>Como visitante de ambos segmentos, quiero enviar un mensaje desde Contact Us para solicitar más información</td>
         <td>5 horas</td>
         <td>Adrián</td>
-        <td>Done</td>
+        <td>In Process</td>
     </tr>
     <tr align="center">
         <td>US-43</td>
@@ -267,7 +267,7 @@ En este primer sprint se desarrolló el landing page.
         <td>W-08</td>
         <td>Idioma</td>
         <td>Como visitante de ambos segmentos, quiero poder cambiar entre inglés y español para entender la plataforma en mi idioma preferido</td>
-        <td>4 horas</td>
+        <td>8 horas</td>
         <td>César</td>
         <td>In Process</td>
     </tr>
@@ -368,12 +368,12 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Desarrollar el FrontEnd para agregarlo al repositorio</td>
     </tr>
     <tr align="center">
-        <td>Sprint 1 Velocity</td>
+        <td>Sprint 2 Velocity</td>
         <td>16</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td>16</td>
+        <td>76</td>
     </tr>
 </table>
 
@@ -417,7 +417,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Como visitante de ambos segmentos, quiero enviar un mensaje desde Contact Us para solicitar más información.</td>
         <td>5 horas</td>
         <td>Frezzia</td>
-        <td>In Process</td>
+        <td>Done</td>
     </tr>
    <tr align="center">
         <td>US-05</td>
@@ -566,7 +566,7 @@ Durante el Sprint 2, el equipo de desarrollo frontend de FuelTrack avanzó en la
 
 Se aplicaron estilos CSS personalizados y componentes de Angular Material para asegurar una apariencia moderna, coherente y responsive en distintos dispositivos. Además, se estableció una estructura de carpetas modular dentro del proyecto Angular para mantener una organización clara del código.
 
-### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.2.5. Execution Evidence for Sprint Review
 En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la navegacion tanto de cliente como de proveedor. Algunas evidencias son:
 
 - **Home:** Presenta de manera rápida el propósito y valor de FuelTrack para captar la atención del visitante.
@@ -602,20 +602,6 @@ Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y depl
 Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distribución de tareas. Las reuniones frecuentes ayudaron a coordinar avances, resolver bloqueos técnicos y asegurar que cada miembro comprendiera sus responsabilidades dentro del desarrollo frontend, y los canales de comunicación fueron efectivos para mantener una alineación constante entre los integrantes.
 
 Además, se evidenció una actitud proactiva por parte del equipo al brindar apoyo mutuo entre los miembros, especialmente en la integración de Angular Material y el manejo de rutas dentro de la aplicación.
-
-## Conclusiones 
-
-- El proyecto FuelTrack planteó una solución clara y concreta para optimizar la gestión de pedidos de combustible, basada en una comprensión real del mercado y de las necesidades de los usuarios.
-
-- Se validó la propuesta de valor a través de métodos ágiles como Lean UX, entrevistas y análisis de competencia, logrando definir un producto que resuelve problemas reales de eficiencia y comunicación.
-
-- Se diseñó una experiencia de usuario consistente y accesible, destacando especialmente la *Landing Page*, que comunica de forma clara la oferta del servicio, apoya la conversión mediante call to actions estratégicos y genera confianza a través de testimonios y prueba social.
-
-- El diseño de la plataforma web combinó buenas prácticas de arquitectura de información, navegación intuitiva y guías de estilo que garantizan una imagen profesional y coherente en toda la experiencia digital.
-
-- A nivel técnico, se construyó una base sólida de arquitectura de software y base de datos, asegurando escalabilidad, mantenibilidad y alineación con los objetivos de negocio.
-
-- El desarrollo del producto se organizó mediante una planificación iterativa, permitiendo construir, validar y mejorar de manera progresiva, asegurando que el resultado final responda tanto a las expectativas de los usuarios como a las metas de FuelTrack.
 
 ## Conclusiones 
 
