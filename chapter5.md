@@ -24,15 +24,42 @@ Software Development:
 - Structurizr: Utilizado para el diseño de diagramas C4, lo cual nos permite representar visualmente la arquitectura del software a distintos niveles de abstracción.
 
 ## 5.1.2. Source Code Management
-En el proyecto, tenemos un repositorio de GitHub para la administrar y estructurar los avances del proyecto por medio de la creación de ramas. Para ello, implementamos el flujo de trabajo de Gitflow expuesta por Vincent Driessen, de tal forma que se puedan realizar las modificaciones entre todos los integrantes de manera segura entre versiones.
 
-**Main branch:** Esta es la rama principal del proyecto, donde se mantiene el código en producción. Solo se actualiza cuando se ha completado y probado una nueva versión estable del sistema.
+## Gestión de Versiones con Git y GitFlow
 
-**Develop branch:** Es la rama de integración donde se fusionan las funcionalidades desarrolladas en las ramas feature antes de ser consideradas para producción. Todo el trabajo colaborativo se integra aquí para ser probado y revisado antes de pasar a la rama "main".
+En el proyecto, utilizamos GitHub como repositorio central para gestionar y estructurar los avances del desarrollo. Para mantener un flujo de trabajo organizado, colaborativo y seguro, aplicamos el modelo de trabajo **GitFlow**, propuesto por Vincent Driessen. Este modelo nos permite gestionar versiones, trabajar en paralelo y mantener el control sobre cada fase del desarrollo.
 
-**Feature branches:** Estas ramas se crean a partir de la rama "develop" para trabajar en mejoras específicas, por ello estan divididas en diferentes secciones. Cada una de ellas se desarrolla en su propia rama con el fin de mantener el trabajo organizado y separado del resto del código. Una vez finalizada y probada, la rama se fusiona de nuevo en la rama "develop".
+### Estructura de ramas utilizada
 
-**Conventional commits:** Estos mensajes de confirmación se utilizan para mantener un historial de versiones claro, coherente y comprensible. Este formato establece una convención estructurada que facilita la lectura y el análisis de los cambios realizados en el repositorio. Cada mensaje se describe que tipo de cambios estamos realizando en su respectiva rama, y realizar un "pull request" para fusionar las ramas y establecer los cambios respectivos. Esta práctica no solo mejora la trazabilidad del desarrollo, sino que también permite automatizar procesos como la generación de registros de cambios y la comprensión del historial de versiones.
+- **`main`**: Contiene la versión estable del sistema en producción. Solo se actualiza tras haber pasado por pruebas en otras ramas.
+- **`develop`**: Rama principal de integración donde se concentran las funcionalidades antes de pasar a producción.
+- **`feature/*`**: Ramas creadas desde `develop` para trabajar en funcionalidades específicas.  
+  Ejemplos: `feature/login`, `feature/perfil-usuario`, `feature/ajuste-filtro`.
+- **`release/*`**: Ramas creadas antes de una entrega importante para realizar pruebas finales, ajustes y validaciones.  
+  Ejemplo: `release/v1.0.0`.
+- **`hotfix/*`**: Ramas creadas desde `main` para solucionar errores críticos en producción de forma inmediata.  
+  Ejemplo: `hotfix/arreglo-footer`.
+
+### Flujo de trabajo aplicado
+
+1. Cada nueva funcionalidad se desarrolla en una rama `feature/nombre-funcionalidad` a partir de `develop`.
+2. Al finalizar, se realiza un Pull Request para fusionarla nuevamente en `develop`, previa revisión.
+3. Antes de cada entrega oficial, se crea una rama `release/` desde `develop` para realizar pruebas finales.
+4. Una vez validada, la `release/` se fusiona a `main` (producción) y a `develop` (para mantener consistencia).
+5. En caso de errores críticos detectados en producción, se crea una rama `hotfix/` desde `main`, se corrige, y se hace merge a `main` y `develop`.
+
+### Uso de Conventional Commits
+
+Empleamos el estándar de **Conventional Commits** para mantener un historial claro y comprensible. Este formato permite identificar rápidamente el tipo de cambio realizado (funcionalidad, corrección, refactorización, etc.), facilitando la trazabilidad y automatización del proyecto.
+
+Ejemplo:
+- `feat: agregar formulario de registro`
+- `fix: corregir error de navegación en el login`
+
+### Evidencia del uso de GitFlow
+
+Durante el desarrollo se ha aplicado GitFlow de forma progresiva en todos los repositorios. El historial de ramas, commits y Pull Requests puede verificarse directamente en la pestaña de ramas y solicitudes de extracción del repositorio. Esta implementación ha permitido un trabajo más ordenado, seguro y colaborativo entre todos los integrantes del equipo.
+
 
 ## 5.1.3. Source Code Style Guide & Conventions
 Nuestro equipo adoptó las siguientes convenciones y guías de estilo para garantizar un código fuente coherente, legible y mantenible en los diferentes lenguajes y tecnologías utilizados en nuestra solución. Estas prácticas permiten una colaboración eficiente entre desarrolladores, reducen la deuda técnica y facilitan la escalabilidad de la plataforma.
