@@ -617,6 +617,8 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
 ### 5.2.2.4. Development Evidence for Sprint Review
 Durante el Sprint 2, el equipo de desarrollo frontend de FuelTrack avanzó en la implementación de interfaces clave de la plataforma, cumpliendo con las User Stories priorizadas. Se trabajó en el diseño y maquetación de la página de login, así como en las vistas correspondientes a la creación de órdenes, desarrolladas inicialmente como pantallas estáticas para definir la estructura y la navegación del sistema.
 
+Se aplicaron estilos CSS personalizados y componentes de Angular Material para asegurar una apariencia moderna, coherente y responsive en distintos dispositivos. Además, se estableció una estructura de carpetas modular dentro del proyecto Angular para mantener una organización clara del código.
+
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
@@ -629,199 +631,198 @@ Durante el Sprint 2, el equipo de desarrollo frontend de FuelTrack avanzó en la
     </tr>
   </thead>
 <tbody>
-  <tr><td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>34ff8c2</td>
-	  <td>Initial commit - frontend Angular</td>
-	  <td>-</td>
-	  <td>14/05/2025</td></tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>0b8c5bd</td>
-	  <td>feat(footer): add footer component</td>
-	  <td>the content shown is download column, connect with us column, functions column</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>10e3ccd</td>
-	  <td>feat(header): add header component</td>
-	  <td>add toolbar that shows navigation and login</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>55b866e</td>
-	  <td>feat(app): add imports</td>
-	  <td><p>added header component, footer component</p><p>changed to standalone</p></td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>0ee6d75</td>
-	  <td>refactor(app.html): erase default content html and add components imported</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>f66a88c</td>
-	  <td>refactor(components): remove header and footer files</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>7feed79</td>
-	  <td>feat(assets): add images in assets file</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>f7432c7</td>
-	  <td>feat(pages): add register page</td>
-	  <td>add standalone file for register that shows method for client or supplier</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>2ec138b</td>
-	  <td>feat(pages): add login page</td>
-	  <td>add standalone file for login that shows login method for client or supplier</td>
-	  <td>14/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>455a6df</td>
-	  <td>feat(pages): add home page</td>
-	  <td>add standalone file for home screen before login or registration, shows images and text</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>fa150c9</td>
-	  <td>feat(app): modified app files for new files in pages</td>
-	  <td>import new dependencies for news files home, login and register</td>
-	  <td>14/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>d7ef2b7</td>
-	  <td>feat(angular.json): add assets file</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>ce9e433</td>
-	  <td>feat(home): modified css</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>a13cbbf</td>
-	  <td>feat(login): modify css</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>34ea6f0</td>
-	  <td>feat(register): modify css</td>
-	  <td>-</td>
-	  <td>14/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>0670564</td>
-	  <td>feat: implement orders dashboard with expandable rows and status chips</td>
-	  <td>-</td>
-	  <td>15/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>d50bd3b</td>
-	  <td>Implement order creation wizard with improved steps and design</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>e82277c</td>
-	  <td>feat: Adds analytics view with basic activity graph</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>2a41156</td>
-	  <td>Adding layout for orders-management page</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>d8135c6</td>
-	  <td>Adding configuration for project deployment</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>db579f6</td>
-	  <td>fix: resolve issue in spec.ts</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>5b7da7b</td>
-	  <td>fix: resolve issue in app.config.server.ts</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-   <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>c5a5ae6</td>
-	  <td>fix: resolve issue in app.routes.ts</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
-  <tr>
-	  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
-	  <td>develop</td>
-	  <td>add8ce8</td>
-	  <td>feat: Express-based server to support Angular</td>
-	  <td>-</td>
-	  <td>16/05/2025</td>
-  </tr>
+<tr><td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>34ff8c2</td>
+  <td>Initial commit - frontend Angular</td>
+  <td>-</td>
+  <td>14/05/2025</td></tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>0b8c5bd</td>
+  <td>feat(footer): add footer component</td>
+  <td>the content shown is download column, connect with us column, functions column</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>10e3ccd</td>
+  <td>feat(header): add header component</td>
+  <td>add toolbar that shows navigation and login</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>55b866e</td>
+  <td>feat(app): add imports</td>
+  <td><p>added header component, footer component</p><p>changed to standalone</p></td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>0ee6d75</td>
+  <td>refactor(app.html): erase default content html and add components imported</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>f66a88c</td>
+  <td>refactor(components): remove header and footer files</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>7feed79</td>
+  <td>feat(assets): add images in assets file</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>f7432c7</td>
+  <td>feat(pages): add register page</td>
+  <td>add standalone file for register that shows method for client or supplier</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>2ec138b</td>
+  <td>feat(pages): add login page</td>
+  <td>add standalone file for login that shows login method for client or supplier</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>455a6df</td>
+  <td>feat(pages): add home page</td>
+  <td>add standalone file for home screen before login or registration, shows images and text</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>fa150c9</td>
+  <td>feat(app): modified app files for new files in pages</td>
+  <td>import new dependencies for news files home, login and register</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>d7ef2b7</td>
+  <td>feat(angular.json): add assets file</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>ce9e433</td>
+  <td>feat(home): modified css</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>a13cbbf</td>
+  <td>feat(login): modify css</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>34ea6f0</td>
+  <td>feat(register): modify css</td>
+  <td>-</td>
+  <td>14/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>0670564</td>
+  <td>feat: implement orders dashboard with expandable rows and status chips</td>
+  <td>-</td>
+  <td>15/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>d50bd3b</td>
+  <td>Implement order creation wizard with improved steps and design</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>e82277c</td>
+  <td>feat: Adds analytics view with basic activity graph</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>2a41156</td>
+  <td>Adding layout for orders-management page</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>d8135c6</td>
+  <td>Adding configuration for project deployment</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>db579f6</td>
+  <td>fix: resolve issue in spec.ts</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>5b7da7b</td>
+  <td>fix: resolve issue in app.config.server.ts</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>c5a5ae6</td>
+  <td>fix: resolve issue in app.routes.ts</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>1ASI0730-2510-4374-G4-FuelTrack/FuelTrack-front-end</td>
+  <td>develop</td>
+  <td>add8ce8</td>
+  <td>feat: Express-based server to support Angular</td>
+  <td>-</td>
+  <td>16/05/2025</td>
+</tr>
 </tbody>
-
-Se aplicaron estilos CSS personalizados y componentes de Angular Material para asegurar una apariencia moderna, coherente y responsive en distintos dispositivos. Además, se estableció una estructura de carpetas modular dentro del proyecto Angular para mantener una organización clara del código.
+</table>
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la navegacion tanto de cliente como de proveedor. Algunas evidencias son:
