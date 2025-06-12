@@ -1,29 +1,32 @@
 # 5.1. Software Configuration Management
 ## 5.1.1. Software Development Environment Configuration
 
-**Project Management:**
-- WhatsApp: Es una aplicación de mensajería instantánea propiedad de Meta, en la cual coordinamos las tareas del equipo y facilitamos el intercambio de ideas y el apoyo continuo durante el desarrollo del proyecto.
-- Google Meet: Es una herramienta de videoconferencias de Google, en la cual mantenemos una comunicación más verbal y directa, permitiendo planificar las tareas de manera colaborativa.
-- Google Drive: Es un servicio de almacenamiento en la nube de Google, que utilizamos para compartir archivos de mayor tamaño e información relevante entre los integrantes del equipo.
-- Trello: Es una herramienta visual basada en la metodología Kanban que facilita la organización de tareas, sprints y entregables a través de tableros interactivos y tarjetas movibles. Es especialmente útil para mantener el ritmo del equipo y asegurar la visibilidad en cada etapa del proyecto.
+### Project Management
+- **WhatsApp**: Aplicación de mensajería instantánea propiedad de Meta, utilizada para coordinar tareas del equipo, facilitar el intercambio de ideas y brindar soporte continuo durante el desarrollo del proyecto.
+- **Google Meet**: Herramienta de videoconferencias de Google empleada para mantener una comunicación verbal y directa, permitiendo la planificación colaborativa de actividades y la toma de decisiones en tiempo real.
+- **Google Drive**: Servicio de almacenamiento en la nube que facilita el intercambio de archivos de gran tamaño e información relevante entre los miembros del equipo.
+- **Notion**: Plataforma utilizada para la organización, asignación y seguimiento de tareas, centralizando la gestión de actividades y documentación del proyecto.
 
-**Requirements Management:**
-- UXPressia: Utilizada para la elaboración de User Personas, User Journey Maps e Impact Maps, lo que nos permite entender mejor a nuestros usuarios y planificar funcionalidades centradas en ellos.
-- Zoom: Herramienta empleada para la realización de entrevistas a posibles usuarios, facilitando la obtención de información directa y valiosa para la definición de requisitos.
-- Pivotal Tracker: Plataforma de gestión ágil que permite registrar, priorizar y desarrollar historias de usuario dentro de un backlog dinámico. Su enfoque en la velocidad de desarrollo, facilita la planificación y predicción precisa de futuras entregas del proyecto.
+### Requirements Management
+- **UXPressia**: Herramienta utilizada para la elaboración de User Personas, User Journey Maps e Impact Maps, lo que permite comprender mejor las necesidades de los usuarios y definir funcionalidades centradas en ellos.
+- **Zoom**: Aplicación empleada para la realización de entrevistas a potenciales usuarios, facilitando la recopilación de información valiosa para la definición y validación de requisitos.
 
-**Product UX/UI Design:**
-- Figma: Plataforma utilizada para el diseño de wireframes, wireflows, mockups y prototipos interactivos, asegurando una visión clara y colaborativa de la interfaz del producto.
-Software Development:
-- Vertabelo: Herramienta usada para el diseño del modelo de base de datos, permitiendo una estructura clara y visual de las entidades y sus relaciones.
-- Google Chrome: Navegador empleado para realizar pruebas de visualización y funcionalidad de la landing page, garantizando su correcto comportamiento en entornos reales.
-- Visual Studio Code: Editor de código utilizado para programar en lenguajes como JavaScript y Gherkin, y para integrar funcionalidades mediante herramientas como GitHub.
+### Product UX/UI Design
+- **Figma**: Plataforma colaborativa utilizada para el diseño de wireframes, wireflows, mockups y prototipos interactivos, garantizando una visión clara y alineada de la interfaz del producto.
 
-**Software Documentation:**
-- Google Docs: Documento colaborativo para registrar de manera detallada los informes, decisiones y evolución del proyecto.
-- Structurizr: Utilizado para el diseño de diagramas C4, lo cual nos permite representar visualmente la arquitectura del software a distintos niveles de abstracción.
+### Software Development
+- **Vertabelo**: Herramienta empleada para el diseño del modelo de base de datos, permitiendo una representación visual y estructurada de las entidades y sus relaciones.
+- **Google Chrome**: Navegador utilizado para la ejecución de pruebas de visualización y funcionalidad de la landing page y el frontend, asegurando su correcto comportamiento en entornos reales.
+- **JetBrains WebStorm**: Entorno de desarrollo integrado empleado para la implementación del frontend de la aplicación.
+- **JetBrains IntelliJ IDEA**: Entorno de desarrollo integrado utilizado para la implementación y gestión del backend de la aplicación.
 
-## 5.1.2. Source Code Management
+### Software Deployment
+- **GitHub Pages**: Servicio de hosting utilizado para el despliegue de la landing page del proyecto.
+
+### Software Documentation
+- **Google Docs**: Herramienta de edición colaborativa utilizada para documentar de manera detallada informes, decisiones y avances del proyecto.
+- **Structurizr**: Plataforma empleada para la creación de diagramas C4, permitiendo representar visualmente la arquitectura del software en distintos niveles de abstracción.
+- **GitHub**: Plataforma utilizada para la gestión de repositorios de código y documentación del proyecto, incluyendo la landing page, el frontend, el backend y los documentos técnicos, facilitando el trabajo colaborativo y el control de versiones.
 
 ### Gestión de Versiones con Git y GitFlow
 
@@ -151,11 +154,14 @@ En este primer sprint se desarrolló el landing page.
     </tr>
     <tr align="center">
         <td>Attendess (to planning meeting)</td>
-        <td>Manuel Angel Sanchez Arenas - U201817507<br>
-        Adrián Emanuel Valerio Garcia - U202210334<br>
-        Luciana Carolina Choquehuanca Nuñez - U202319431<br>
-        César Augusto Navarro Correa - U202310129<br>
-        Franz Jair La Torre Valle - U202012378</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Adrián Emanuel Valerio Garcia - U202210334<br>
+          Luciana Carolina Choquehuanca Nuñez - U202319431<br>
+          César Augusto Navarro Correa - U202310129<br>
+          Franz Jair La Torre Valle - U202012378<br>
+          Frezzia Eldaa Isabel Espinoza Paredes - U815121
+        </td>
     </tr>
     <tr align="center">
         <td>Sprint 0 Review Summary</td>
@@ -190,13 +196,15 @@ En este primer sprint se desarrolló el landing page.
 </table>
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
-| Team Member | GitHub Username | Landing Page | Documentation |
-|-------------|-----------------|--------------|---------------|
-| Sanchez Arenas, Manuel Angel | manuels7a | C | C |
-| Valerio Garcia, Adrián Emanuel | adrianvalerio | C | C |
-| Choquehuanca Nuñez, Luciana Carolina | Lucianxaaa | C | L |
-| Navarro Correa, César Augusto | csr555-ui | L | C |
-| La Torre Valle, Franz Jair | FranzJairLTV | C | C |
+
+| Team Member                                 | GitHub Username    | Landing Page  | Documentation  |
+|---------------------------------------------|--------------------|---------------|----------------|
+| Manuel Angel Sanchez Arenas                 | manuels7a          | C             | C              |
+| Adrián Emanuel Valerio Garcia               | adrianvalerio      | C             | C              |
+| Luciana Carolina Choquehuanca Nuñez         | Lucianxaaa         | C             | L              |
+| César Augusto Navarro Correa                | csr555-ui          | L             | C              |
+| Franz Jair La Torre Valle                   | FranzJairLTV       | C             | C              |
+| Frezzia Eldaa Isabel Espinoza Paredes       | fflushh            | C             | C              |
 
 ### 5.2.1.3. Sprint Backlog 1
 <table>
@@ -398,12 +406,14 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
     </tr>
     <tr align="center">
         <td>Attendess (to planning meeting)</td>
-        <td>Manuel Angel Sanchez Arenas - U201817507<br>
-        Adrián Emanuel Valerio Garcia - U202210334<br>
-        Luciana Carolina Choquehuanca Nuñez - U202319431<br>
-        César Augusto Navarro Correa - U202310129<br>
-        Franz Jair La Torre Valle - U202012378<br>
-        Frezzia Eldaa Isabel Espinoza Paredes</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Adrián Emanuel Valerio Garcia - U202210334<br>
+          Luciana Carolina Choquehuanca Nuñez - U202319431<br>
+          César Augusto Navarro Correa - U202310129<br>
+          Franz Jair La Torre Valle - U202012378<br>
+          Frezzia Eldaa Isabel Espinoza Paredes - U815121
+        </td>
     </tr>
     <tr align="center">
         <td>Sprint 1 Review Summary</td>
@@ -432,14 +442,14 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
-| Team Member                                  | GitHub Username   | Landing Page | Documentation | Frontend | Correcciones TB1 |
-|---------------------------------------------|--------------------|--------------|----------------|----------|--------------|
-| Sanchez Arenas, Manuel Angel                | manuels7a          | C            | C              | C        | L            |
-| Valerio Garcia, Adrián Emanuel              | adrianvalerio      | C            | C              | L        | C            |
-| Choquehuanca Nuñez, Luciana Carolina        | Lucianxaaa         | C            | L              | C        | L            |
-| Navarro Correa, César Augusto               | csr555-ui          | L            | C              | C        | C            |
-| La Torre Valle, Franz Jair                  | FranzJairLTV       | C            | C              | L        | C            |
-| Frezzia Eldaa Isabel Espinoza Paredes       | fflushh            | C            | C              | C        | C            |
+| Team Member                                 | GitHub Username    | Landing Page | Documentation  | Frontend | Correcciones TB1 |
+|---------------------------------------------|--------------------|--------------|----------------|----------|------------------|
+| Manuel Angel Sanchez Arenas                 | manuels7a          | C            | C              | C        | L                |
+| Adrián Emanuel Valerio Garcia               | adrianvalerio      | C            | C              | L        | C                |
+| Luciana Carolina Choquehuanca Nuñez         | Lucianxaaa         | C            | L              | C        | L                |
+| César Augusto Navarro Correa                | csr555-ui          | L            | C              | C        | C                |
+| Franz Jair La Torre Valle                   | FranzJairLTV       | C            | C              | L        | C                |
+| Frezzia Eldaa Isabel Espinoza Paredes       | fflushh            | C            | C              | C        | C                |
 
 ### 5.2.2.3. Sprint Backlog 2
 
@@ -846,7 +856,6 @@ En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la nav
 
 ![CreateOrder](img/CreateOrder.png)
 
-
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint 2, el equipo se enfocó en el desarrollo del frontend inicial de la plataforma FuelTrack, particularmente en la construcción de la Landing Page. En esta etapa se priorizó el diseño visual, la experiencia de usuario y la implementación de la estructura base de la interfaz.
 
@@ -859,9 +868,11 @@ Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y depl
 
 Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distribución de tareas. Las reuniones frecuentes ayudaron a coordinar avances, resolver bloqueos técnicos y asegurar que cada miembro comprendiera sus responsabilidades dentro del desarrollo frontend, y los canales de comunicación fueron efectivos para mantener una alineación constante entre los integrantes.
 
-## 5.2.3. Sprint 1
+![commitsgroup](img/incommits.png)
 
-### 5.2.3.1. Sprint Planning 1
+## 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
 <table>
     <tr align="center">
         <td><strong>Sprint #</strong></td>
@@ -872,11 +883,11 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
     </tr>
     <tr align="center">
         <td>Date</td>
-        <td>10/04/2025</td>
+        <td>02/06/2025</td>
     </tr>
     <tr align="center">
         <td>Time</td>
-        <td>11:00 PM</td>
+        <td>7:00 PM</td>
     </tr>
     <tr align="center">
         <td>Location</td>
@@ -884,30 +895,42 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
     </tr>
     <tr align="center">
         <td>Prepared by</td>
-        <td>Manuel Sanchez</td>
+        <td>Luciana Carolina</td>
     </tr>
     <tr align="center">
         <td>Attendess (to planning meeting)</td>
-        <td>Manuel Angel Sanchez Arenas - U201817507<br>
-        Adrián Emanuel Valerio Garcia - U202210334<br>
-        Luciana Carolina Choquehuanca Nuñez - U202319431<br>
-        César Augusto Navarro Correa - U202310129<br>
-        Franz Jair La Torre Valle - U202012378</td>
+        <td>
+          Adrián Emanuel Valerio Garcia - U202210334<br>
+          Luciana Carolina Choquehuanca Nuñez - U202319431<br>
+          César Augusto Navarro Correa - U202310129<br>
+          Franz Jair La Torre Valle - U202012378<br>
+          Frezzia Eldaa Isabel Espinoza Paredes - U815121
     </tr>
     <tr align="center">
         <td>Sprint 2 Review Summary</td>
-        <td></td>
+        <td>
+          - Se realizó la primera versión del Frontend y algunos cambios en la Landing page<br>
+          - Se corrigieron algunas correciones en los User Stories<br>
+          - Se corrigieron la distribución del diseño de la base de datos<br>
+          - Se documentó todo el proceso y evidencias del Sprint 2, se corrigió el Sprint 1<br>
+        </td>
     </tr>
     <tr align="center">
         <td>Sprint 2 Retrospective Summary</td>
-        <td></td>
+        <td>
+          - Se desarrollo el API REST, pero no fue desplegado en una Fake API<br>
+          - Se evidenciaron errores gramaticales y datos incoherentes en el informe<br>
+          - Faltaron añadir evidencias visuales del desarrollo del Sprint 2<br>
+        </td>
     </tr>
     <tr>
         <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr align="center">
-        <td>Sprint 1 Goal</td>
-        <td></td>
+        <td>Sprint 3 Goal</td>
+        <td>En la reunión, se presentó la organización de todas las correciones a tratar en este Sprint
+        como lo es el desarrollo final del Frontend y revisión del informe. Por otro lado, se trató como
+        debemos realizar la primera versión del backend.</td>
     </tr>
     <tr align="center">
         <td>Sprint 3 Velocity</td>
@@ -920,14 +943,16 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 </table>
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
-| Team Member | GitHub Username | Landing Page | Documentation |
-|-------------|-----------------|--------------|---------------|
-| Valerio Garcia, Adrián Emanuel | adrianvalerio | C | C |
-| Choquehuanca Nuñez, Luciana Carolina | Lucianxaaa | C | L |
-| Navarro Correa, César Augusto | csr555-ui | L | C |
-| La Torre Valle, Franz Jair | FranzJairLTV | C | C |
 
-### 5.2.3.3. Sprint Backlog 1
+| Team Member                                  | GitHub Username   | Frontend     | Documentation  | Backend  | Correcciones TB2 |
+|----------------------------------------------|-------------------|--------------|----------------|----------|------------------|
+| Valerio Garcia, Adrián Emanuel               | adrianvalerio     | C            | C              | C        | C                |
+| Choquehuanca Nuñez, Luciana Carolina         | Lucianxaaa        | C            | C              | L        | L                |
+| Navarro Correa, César Augusto                | csr555-ui         | C            | L              | C        | C                |
+| La Torre Valle, Franz Jair                   | FranzJairLTV      | C            | C              | L        | C                |
+| Frezzia Eldaa Isabel Espinoza Paredes        | fflushh           | L            | C              | C        | C                |
+
+### 5.2.3.3. Sprint Backlog 3
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -941,7 +966,7 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 ### 5.3.1. Diseño de entrevistas
 ### 5.3.2. Registro de entrevistas
 ### 5.3.3. Evaluaciones heuristicas
-### 5.4. Video About-the-Product
+## 5.4. Video About-the-Product
 
 **Link:** 
 
