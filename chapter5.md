@@ -859,7 +859,95 @@ Durante este Sprint, nos enfocamos en consolidar un proceso de desarrollo y depl
 
 Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distribución de tareas. Las reuniones frecuentes ayudaron a coordinar avances, resolver bloqueos técnicos y asegurar que cada miembro comprendiera sus responsabilidades dentro del desarrollo frontend, y los canales de comunicación fueron efectivos para mantener una alineación constante entre los integrantes.
 
-Además, se evidenció una actitud proactiva por parte del equipo al brindar apoyo mutuo entre los miembros, especialmente en la integración de Angular Material y el manejo de rutas dentro de la aplicación.
+## 5.2.3. Sprint 1
+
+### 5.2.3.1. Sprint Planning 1
+<table>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 1</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>10/04/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>Manuel Angel Sanchez Arenas - U201817507<br>
+        Adrián Emanuel Valerio Garcia - U202210334<br>
+        Luciana Carolina Choquehuanca Nuñez - U202319431<br>
+        César Augusto Navarro Correa - U202310129<br>
+        Franz Jair La Torre Valle - U202012378</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Goal</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td></td>
+    </tr>
+</table>
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+| Team Member | GitHub Username | Landing Page | Documentation |
+|-------------|-----------------|--------------|---------------|
+| Valerio Garcia, Adrián Emanuel | adrianvalerio | C | C |
+| Choquehuanca Nuñez, Luciana Carolina | Lucianxaaa | C | L |
+| Navarro Correa, César Augusto | csr555-ui | L | C |
+| La Torre Valle, Franz Jair | FranzJairLTV | C | C |
+
+### 5.2.3.3. Sprint Backlog 1
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de entrevistas
+### 5.3.2. Registro de entrevistas
+### 5.3.3. Evaluaciones heuristicas
+### 5.4. Video About-the-Product
+
+**Link:** 
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+![commitsgroup](img/incommits.png)
 
 ## Conclusiones 
 
