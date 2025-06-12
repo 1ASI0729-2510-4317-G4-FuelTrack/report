@@ -479,7 +479,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Crear formulario de registro de pedido</td>
         <td>Como solicitante, quiero registrar un pedido con tipo y cantidad de combustible para que el proveedor lo procese.</td>
         <td>6 horas</td>
-        <td>Freezia</td>
+        <td>Cesar</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -489,7 +489,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Mostrar estado de pedidos del usuario</td>
         <td>Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados.</td>
         <td>4 horas</td>
-        <td>Freezia</td>
+        <td>Adrián</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -499,7 +499,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Confirmar recepción desde interfaz</td>
         <td>Como solicitante, quiero confirmar que recibí el pedido para que el proveedor lo cierre.</td>
         <td>5 horas</td>
-        <td>Freezia</td>
+        <td>Franz</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -509,7 +509,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Formulario de ingreso de pagos</td>
         <td>Como solicitante, quiero ingresar la información de los pagos correspondientes para validar el pedido ante el proveedor.</td>
         <td>4 horas</td>
-        <td>Freezia</td>
+        <td>Luciana</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -519,7 +519,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Mostrar el listado de pedidos y su información</td>
         <td>Como solicitante, quiero ver mis pedidos anteriores para tener control sobre mi consumo.</td>
         <td>4 horas</td>
-        <td>Adrian</td>
+        <td>Frezzia</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -529,7 +529,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Mostrar pedidos pendientes al proveedor</td>
         <td>Como proveedor, quiero ver todos los pedidos pendientes para analizarlos y tomar acción.</td>
         <td>4 horas</td>
-        <td>Manuel</td>
+        <td>Cesar</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -539,7 +539,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Aprobar pedidos desde panel proveedor</td>
         <td>Como proveedor, quiero aprobar pedidos según los depósitos hechos a mis cuentas bancarias.</td>
         <td>4 horas</td>
-        <td>Freezia</td>
+        <td>Adrian</td>
         <td>In Process</td>
     </tr>
     <tr align="center">
@@ -549,7 +549,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Implementar el ingreso de usuarios</td>
         <td>Como usuario registrado, quiero iniciar sesión con correo y contraseña para acceder a mi cuenta.</td>
         <td>5 horas</td>
-        <td>César</td>
+        <td>Frezzia</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -579,7 +579,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Mostrar resumen de pedidos enviados del solicitante</td>
         <td>Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados.</td>
         <td>5 horas</td>
-        <td>Freezia</td>
+        <td>Luciana</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -589,7 +589,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Mostrar resumen de pedidos gestionados del proveedor</td>
         <td>Como proveedor, quiero ver un resumen de pedidos gestionados y pendientes para organizar a los clientes.</td>
         <td>5 horas</td>
-        <td>Freezia</td>
+        <td>Franz</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -599,7 +599,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Generar gráfico de consumo mensual</td>
         <td>Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible.</td>
         <td>5 horas</td>
-        <td>Manuel</td>
+        <td>Adrián</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -609,7 +609,7 @@ Repositorio Github: https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack
         <td>Generar gráfico de ventas mensuales</td>
         <td>Como proveedor, quiero ver un gráfico de ventas por mes para monitorear el rendimiento del negocio.</td>
         <td>5 horas</td>
-        <td>Luciana</td>
+        <td>Franz</td>
         <td>Done</td>
     </tr>
 </table>
