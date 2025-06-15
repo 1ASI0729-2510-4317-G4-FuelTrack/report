@@ -1204,41 +1204,38 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 ## 5.3. Validation Interviews
+
 ### 5.3.1. Diseño de entrevistas
 
+#### Preguntas relacionadas al Landing Page
+
+1. ¿La información presentada en la pagina principal le resulta clara y fácil de entender para su negocio?
+2. ¿Cómo calificarías la facilidad de navegación de la plataforma?
+3. ¿Consideras que se deberia añadir alguna información adicional?
+
+#### Preguntas relacionadas al Fronted
 A. Proveedores de Combustible
 
-1.
-2.
-3.
-4.
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
+1. ¿Consideras que el listado de las secciones principales en el dashboard adecuadas?
+2. ¿Te resultó clara la información de pedidos de las empresas solicitantes?
+3. ¿Te parecio adecuada la organización de los pagos de los pedidos?
+4. ¿El proceso del registro de despachos es lo suficientente intuitiva para usted?
+5. ¿La funcionalidad para ver el gráfico de ventas mensuales fue comprensible?
+6. ¿Te gustaría recibir notificaciones cuando un pedido de una empresa haya sido aprobado, modificado o cancelado?
+7. ¿La información de cada empresa te pareció suficiente para evaluar a tus clientes?
+8. ¿Hubo alguna función que esperabas encontrar y que no estaba disponible o no funcionaba como esperabas?
+
 
 B. Empresas Solicitantes de Combustible:
 
-1.
-2.
-3.
-4.
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
+1. ¿Consideras que el listado de las secciones principales en el dashboard adecuadas?
+2. ¿Te resultó clara la información de pedidos realizados como solicitante?
+3. ¿Que opina sobre el proceso de registro de nuevas ordenes de pedidos?
+4. ¿Considera que la organización de terminales le proporciona los datos suficientes?
+5. ¿Considera el gráfico de consumo mensual y volumen total ideal para conocer su actividad?
+7. ¿La grafica y el mapa le proporcionan la información adecuada para conocer el flujo de sus ordenes?
+8. ¿La información de cada empresa te pareció suficiente para evaluar a tus clientes?
+9. ¿Hubo alguna función que esperabas encontrar y que no estaba disponible o no funcionaba como esperabas?
 
 ### 5.3.2. Registro de entrevistas
 
