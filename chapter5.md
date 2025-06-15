@@ -934,11 +934,11 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
     </tr>
     <tr align="center">
         <td>Sprint 3 Velocity</td>
-        <td></td>
+        <td>21</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td></td>
+        <td>90</td>
     </tr>
 </table>
 
@@ -1239,7 +1239,27 @@ B. Empresas Solicitantes de Combustible:
 
 ### 5.3.2. Registro de entrevistas
 
+---
 
+#### Entrevista N°1 – Segmento: Proveedores
+- Nombres: 
+- Apellidos: 
+- Edad:
+- Distrito:
+- URL Entrevista:
+- Duración: 
+- Resumen:
+
+---
+
+#### Entrevista N°2 – Segmento: Solicitantes
+- Nombres: 
+- Apellidos: 
+- Edad:
+- Distrito:
+- URL Entrevista:
+- Duración: 
+- Resumen:
 
 ### 5.3.3. Evaluaciones heuristicas
 
