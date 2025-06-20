@@ -842,26 +842,32 @@ En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la nav
 ![Home](img/Home.png)
 - **Inicio de sesión:** Se muestra la pagina para los usuarios que ya tienen una cuenta, ya sean esto clientes o proveedores
 
-![SupplierLogin](img/SupplierLogin.png)
-![ProviderLogin](img/ProviderLogin.png)
+![Login](img/ClientLogin.png)
 - **Registro:** Una interfaz donde le da la opcion al usuario de registrarse en nuestra pagina como cliente o proveedores
 
-![SupplierRegistrer](img/SupplierRegistrer.png)
-![ProviderRegistrer](img/ProviderRegistrer.png)
+![Registrer](img/SupplierRegistrer.png)
+
+Interfaz de solicitantes:
 
 - **Ordenes:** Se muestran las ordenes con sus diferentes estados y la informacion necesaria de cada orden
 
-![SupplierOrders](img/SupplierOrders.png)
+![SupplierOrders](img/ClientOrders.png)
 - **Creación de orden:** Ofrece un formulario para llenar con los datos necesarios para que el proveedor genere la orden de envio.
 
 ![CreateOrder](img/CreateOrder.png)
 ![CreateOrder2](img/CreateOrder2.png)
-![CreateOrder](img/CreateOrder3.png)
-![CreateOrder](img/CreateOrder4.png)
+![CreateOrder3](img/CreateOrder3.png)
+![CreateOrder4](img/CreateOrder4.png)
 
-- **Analíticas:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
+- **Analíticas:** Muestra algunos usuarios que confían en FuelTrack como referencia de credibilidad.
 
-![SupplierAnalytics](img/SupplierAnalytics.png)
+![SupplierAnalytics](img/ClientAnalytics.png)
+
+Interfaz de proovedor:
+
+- **Manejo de ordenes:** Visualiza un listado de ordenes de los clientes del proovedor
+
+![SupplierOrderManagment](img/SupplierOrderManagment.png)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint 2, el equipo se enfocó en el desarrollo del frontend inicial de la plataforma FuelTrack, particularmente en la construcción de la Landing Page. En esta etapa se priorizó el diseño visual, la experiencia de usuario y la implementación de la estructura base de la interfaz.
