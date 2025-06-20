@@ -839,22 +839,29 @@ En el sprint 2 se diseñó el primer modelo del frontEnd con seccion para la nav
 
 - **Home:** Presenta de manera rápida el propósito y valor de FuelTrack para captar la atención del visitante.
 
-![Home](img/homefront.png)
+![Home](img/Home.png)
 - **Inicio de sesión:** Se muestra la pagina para los usuarios que ya tienen una cuenta, ya sean esto clientes o proveedores
 
-![logiin](img/login1.png)
+![SupplierLogin](img/SupplierLogin.png)
+![ProviderLogin](img/ProviderLogin.png)
 - **Registro:** Una interfaz donde le da la opcion al usuario de registrarse en nuestra pagina como cliente o proveedores
 
-![How it works?](img/register.png)
-- **Pagina de Analisis:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
+![SupplierRegistrer](img/SupplierRegistrer.png)
+![ProviderRegistrer](img/ProviderRegistrer.png)
 
-![analyticsfront](img/analyticsfront.png)
-- **Pagina de gestión de ordenes:** Se muestran las ordenes con sus diferentes estados y la informacion necesaria de cada orden
+- **Ordenes:** Se muestran las ordenes con sus diferentes estados y la informacion necesaria de cada orden
 
-![orderfront](img/ordersfront.png)
+![SupplierOrders](img/SupplierOrders.png)
 - **Creación de orden:** Ofrece un formulario para llenar con los datos necesarios para que el proveedor genere la orden de envio.
 
 ![CreateOrder](img/CreateOrder.png)
+![CreateOrder2](img/CreateOrder2.png)
+![CreateOrder](img/CreateOrder3.png)
+![CreateOrder](img/CreateOrder4.png)
+
+- **Analíticas:** Muestra algunas de las empresas o usuarios que confían en FuelTrack como referencia de credibilidad.
+
+![SupplierAnalytics](img/SupplierAnalytics.png)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Durante el Sprint 2, el equipo se enfocó en el desarrollo del frontend inicial de la plataforma FuelTrack, particularmente en la construcción de la Landing Page. En esta etapa se priorizó el diseño visual, la experiencia de usuario y la implementación de la estructura base de la interfaz.
@@ -1405,6 +1412,51 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 </table>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3 se realizaron mejoras en la estructura del frontend con el objetivo de optimizar su organización y funcionamiento. Asimismo, se completaron e integraron las secciones que habían quedado pendientes en el sprint anterior, garantizando así la continuidad y coherencia del desarrollo de la página web. Estas acciones permitieron avanzar en la consolidación de la interfaz de usuario, asegurando una experiencia más completa y alineada con los requerimientos del proyecto.
+
+Interfaz de los socilitantes:
+
+- Panel de Administrador: Permite a los solicitantes ver la actividad de los usuarios
+![AdminPanel](img/ClientAdminPanel.png)
+
+- Terminales: Aquí se gestiona la información relacionada con los terminales conectados al sistema
+![Terminals](img/ClientTerminals.png)
+
+- Notificaciones: Centraliza todas las notificaciones generadas por la plataforma
+![Notifications](img/ClientNotifications.png)
+
+- Proovedores: Administra la información de los proveedores asociados con el solicitante en la plataforma
+![Providers](img/ClientProviders.png)
+
+- Contactanos: Ofrece un formulario de contacto
+![Contact US](img/ClientContactUs.png)
+
+Interfaz de los proovedores:
+
+- Panel de Administrador: Permite a los proovedores ver la actividad de los usuarios
+![AdminPanel](img/SupplierAdminPanel.png)
+
+- Conciliaciones: Permite gestionar el pago de los solicitantes
+![Conciliations](img/SupplierConciliations.png)
+
+- Despachos: Permite gestionar y aprobar envio de despachos a sus clientes
+![Terminals](img/SupplierDispatch.png)
+
+- Analiticas: Permite ver la actividad del solicitante mediante graficas para evaluar su rendimiento
+![Analytics](img/SupplierAnalytics.png)
+
+- Notificaciones: Centraliza todas las notificaciones generadas por la plataforma
+![Notifications](img/SupplierNotifications.png)
+
+- Precios: Permite visualizar los planes de suscripción que ofrece la plataforma
+![Providers](img/SupplierPrices.png)
+
+- Clientes: Administra la información de los solicitantes asociados con el proovedor en la plataforma
+![Clients](img/SupplierClients.png)
+
+- Contactanos: Ofrece un formulario de contacto
+![Contact Us Supplier](img/SupplierContactUs.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
