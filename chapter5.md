@@ -968,46 +968,6 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 ### 5.2.3.3. Sprint Backlog 3
 
 <table border="1" cellspacing="0" cellpadding="6">
-    <thead>
-        <tr align="center">
-          <td><strong>#</strong></td>
-          <td><strong>Problema</strong></td>
-          <td><strong>Escala de severidad</strong></td>
-          <td><strong>Heurística/Principio violada(o)</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td></td>
-            <td>2</td>
-            <td>Control y libertad del usuario</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-
-
-
-<table border="1" cellspacing="0" cellpadding="6">
     <tr align="center">
         <td colspan="6"><strong>Sprint 3</strong></td>
     </tr>
@@ -1585,7 +1545,70 @@ B. Empresas Solicitantes de Combustible:
 
 ### 5.3.3. Evaluaciones heuristicas
 
+<table border="1" cellspacing="0" cellpadding="6">
+    <thead>
+        <tr align="center">
+          <td><strong>Nivel</strong></td>
+          <td><strong>Descripción</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+        </tr>
+    </tbody>
+</table>
 
+
+<table border="1" cellspacing="0" cellpadding="6">
+    <thead>
+        <tr align="center">
+          <td><strong>#</strong></td>
+          <td><strong>Problema</strong></td>
+          <td><strong>Escala de severidad</strong></td>
+          <td><strong>Heurística/Principio violada(o)</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td></td>
+            <td>2</td>
+            <td>Control y libertad del usuario</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 5.4. Video About-the-Product
 
