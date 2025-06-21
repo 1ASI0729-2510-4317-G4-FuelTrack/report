@@ -967,244 +967,301 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 
 ### 5.2.3.3. Sprint Backlog 3
 
-<table>
+<table border="1" cellspacing="0" cellpadding="6">
+    <thead>
+        <tr align="center">
+          <td><strong>#</strong></td>
+          <td><strong>Problema</strong></td>
+          <td><strong>Escala de severidad</strong></td>
+          <td><strong>Heurística/Principio violada(o)</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td></td>
+            <td>2</td>
+            <td>Control y libertad del usuario</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+<table border="1" cellspacing="0" cellpadding="6">
     <tr align="center">
-        <td colspan="2"><strong>Sprint #</strong></td>
         <td colspan="6"><strong>Sprint 3</strong></td>
     </tr>
     <tr align="center">
-        <td colspan="2"><strong>User Story</strong></td>
-        <td colspan="6"><strong>Work-Item / Task</strong></td>
+        <td colspan="1"><strong>User Story</strong></td>
+        <td colspan="5"><strong>Work-Item / Task</strong></td>
     </tr>
     <tr align="center">
         <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
         <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
         <td><strong>Description</strong></td>
         <td><strong>Estimation (Hours)</strong></td>
         <td><strong>Assigned to</strong></td>
-        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+        <td><strong>Status</strong></td>
     </tr>
-   <tr align="center">
+    <tr align="center">
         <td>US-05</td>
-        <td>Registrar nuevo pedido</td>
         <td>W-25</td>
-        <td>Implementar formulario de pedido</td>
-        <td>Como solicitante, quiero registrar un pedido con tipo y cantidad de combustible para que el proveedor lo procese.</td>
+        <td>Desarrollar POST /api/v1/orders para crear pedido de combustible.</td>
         <td>6</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>-</td>
+        <td>W-26</td>
+        <td>Validaciones de stock y tipo de combustible en pedido nuevo.</td>
+        <td>6</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-06</td>
-        <td>Consultar estado del pedido</td>
-        <td>W-26</td>
-        <td>Crear listado con estados de pedidos</td>
-        <td>Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados.</td>
+        <td>W-27</td>
+        <td>Desarrollar endpoint GET /api/v1/orders para consultar estado de pedidos.</td>
         <td>5</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>-</td>
+        <td>W-28</td>
+        <td>Crear listado con estados de pedidos</td>
+        <td>5</td>
+        <td>Freezia</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-08</td>
-        <td>Registrar información de pago</td>
-        <td>W-27</td>
-        <td>Implementar sección de registro de pagos</td>
-        <td>Como solicitante, quiero ingresar la información de los pagos correspondientes para validar el pedido ante el proveedor.</td>
+        <td>W-29</td>
+        <td>Desarrollar endpoint POST /api/v1/transactions para registrar pagos.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
+        <td>-</td>
+        <td>W-30</td>
+        <td>Registrar información de pago asociada a un pedido en la entidad Transaction.</td>
+        <td>4</td>
+        <td>Freezia</td>
+        <td>Done</td>
+    </t>
+    <tr align="center">
         <td>US-34</td>
-        <td>Recibir notificación de aprobación</td>
-        <td>W-28</td>
-        <td>Desarrollar notificación push/email</td>
-        <td>Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para estar informado.</td>
+        <td>W-31</td>
+        <td>Configurar notificación por correo para cambios de estado de pedido.</td>
         <td>3</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-35</td>
-        <td>Notificación de pedido despachado</td>
-        <td>W-29</td>
-        <td>Desarrollar notificación de despacho</td>
-        <td>Como solicitante, quiero recibir una notificación cuando un pedido haya sido despachado para estar informado.</td>
+        <td>W-32</td>
+        <td>Implementar notificación automática de despacho.</td>
         <td>3</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-10</td>
-        <td>Ver pedidos pendientes</td>
-        <td>W-30</td>
-        <td>Crear vista de pedidos pendientes para proveedor</td>
-        <td>Como proveedor, quiero ver todos los pedidos pendientes para analizarlos y tomar acción.</td>
+        <td>W-33</td>
+        <td>Listar pedidos pendientes para análisis del proveedor desde entidad FuelOrder.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-11</td>
-        <td>Aprobar pedido</td>
-        <td>W-31</td>
-        <td>Implementar función de aprobación</td>
-        <td>Como proveedor, quiero aprobar pedidos según los depósitos hechos a mis cuentas bancarias.</td>
+        <td>W-34</td>
+        <td>Desarrollar un endpoint PUT /api/v1/orders del estado de pedido.</td>
         <td>4</td>
+        <td>Luciana</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
         <td></td>
-        <td>To do</td>
+        <td>W-35</td>
+        <td>Implementar función de aprobación</td>
+        <td>4</td>
+        <td>Franz</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>W-36</td>
+        <td>Actualizar estado de pedido a Aprobado si validación de pago es correcta.</td>
+        <td>4</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-12</td>
-        <td>Marcar pedido como despachado</td>
-        <td>W-32</td>
+        <td>W-37</td>
         <td>Función para marcar como despachado</td>
-        <td>Como proveedor, quiero marcar cuándo un pedido sale a entrega para notificar al cliente.</td>
         <td>3</td>
+        <td>Luciana</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
         <td></td>
-        <td>To do</td>
+        <td>W-38</td>
+        <td>Desarrollar endpoint GET /api/v1/deliveries </td>
+        <td>3</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-25</td>
-        <td>Asignar vehículo a pedido</td>
-        <td>W-33</td>
-        <td>Diseñar asignación de vehículo</td>
-        <td>Como proveedor, quiero asignar un vehículo a un pedido aprobado para organizar la logística.</td>
+        <td>W-39</td>
+        <td>Desarrollar endpoint /api/v1/transport para cambiar el vehiculo.</td>
         <td>5</td>
+        <td>Luciana</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
         <td></td>
-        <td>To do</td>
+        <td>W-40</td>
+        <td>Diseñar asignación de vehículo</td>
+        <td>5</td>
+        <td>Franz</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-26</td>
-        <td>Asignar conductor a pedido</td>
-        <td>W-34</td>
-        <td>Diseñar asignación de conductor</td>
-        <td>Como proveedor, quiero asignar un conductor para completar la información de despacho.</td>
+        <td>W-41</td>
+        <td>Desarrollar endpoint /api/v1/transport para asignar el conductor</td>
         <td>5</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-26</td>
+        <td>W-42</td>
+        <td>Diseñar asignación de conductor</td>
+        <td>5</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-27</td>
-        <td>Validar disponibilidad de transporte</td>
-        <td>W-35</td>
-        <td>Mostrar listado de vehículos disponibles</td>
-        <td>Como proveedor, quiero saber qué vehículos están disponibles antes de asignarlos para vincularlos correctamente.</td>
+        <td>W-43</td>
+        <td>Desarrollar endpoint GET en /api/v1/transports para validar disponibilidad.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-13</td>
-        <td>Cerrar pedido</td>
-        <td>W-36</td>
-        <td>Implementar función de cierre de pedido</td>
-        <td>Como proveedor, quiero cerrar el pedido cuando el cliente confirme la entrega para finalizar el proceso.</td>
+        <td>W-44</td>
+        <td>Desarrollar endpoint PUT /api/v1/orders para cerrar pedido.</td>
         <td>3</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-19</td>
-        <td>Ver resumen de pedidos (Proveedor)</td>
-        <td>W-37</td>
-        <td>Crear vista de resumen de pedidos</td>
-        <td>Como proveedor, quiero ver un resumen de pedidos gestionados y pendientes para organizar a los clientes.</td>
+        <td>W-45</td>
+        <td>Desarrollar endpoint GET /api/v1/orders para el resumen de pedidos para provedor</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Franz</td>
+        <td>Done</td>
     </tr>
-        <tr align="center">
+    <tr align="center">
         <td>US-33</td>
-        <td>Filtrar pedidos por estado</td>
-        <td>W-38</td>
-        <td>Implementar filtros de estado en listado de pedidos</td>
-        <td>Como usuario de ambos segmentos, quiero filtrar mis pedidos por estado (pendiente, aprobado, entregado) para facilitar la revisión.</td>
+        <td>W-46</td>
+        <td>Agregar filtros por estado de pedido en /api/v1/orders.</td>
         <td>3</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
-        <tr align="center">
+    <tr align="center">
         <td>US-09</td>
-        <td>Ver historial de pedidos</td>
-        <td>W-39</td>
-        <td>Diseñar vista de historial de pedidos</td>
-        <td>Como solicitante, quiero ver mis pedidos anteriores para tener control sobre mi consumo.</td>
+        <td>W-47</td>
+        <td>Desarrollar endpoint GET para obtener una cantidad de pedidos.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-18</td>
-        <td>Ver resumen de pedidos (Solicitante)</td>
-        <td>W-40</td>
-        <td>Crear vista de resumen de pedidos</td>
-        <td>Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados.</td>
+        <td>W-48</td>
+        <td>Desarrollar endpoint GET /api/v1/orders para el resumen de pedidos para solicitante.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-38</td>
-        <td>Ver gráfico de consumo (Solicitante)</td>
-        <td>W-41</td>
-        <td>Implementar gráfico de consumo mensual</td>
-        <td>Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible.</td>
+        <td>W-49</td>
+        <td>Implementar la funcionalidad del gráfico de ventas a traves de los datos del backend.</td>
         <td>5</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-39</td>
-        <td>Ver gráfico de ventas (Proveedor)</td>
-        <td>W-42</td>
-        <td>Implementar gráfico de ventas mensual</td>
-        <td>Como proveedor, quiero ver un gráfico de ventas por mes para monitorear el rendimiento del negocio.</td>
+        <td>W-50</td>
+        <td>Implementar la funcionalidad gráfico de consumo mensual a traves de los datos del backend.</td>
         <td>5</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-40</td>
-        <td>Descargar reporte PDF</td>
-        <td>W-43</td>
+        <td>W-51</td>
         <td>Implementar exportación de datos a PDF</td>
-        <td>Como usuario de ambos segmentos, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Franz</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-14</td>
-        <td>Generar reporte de ventas</td>
-        <td>W-44</td>
-        <td>Crear función de generación de reportes</td>
-        <td>Como proveedor, quiero generar reportes de ventas para tener registro de operaciones realizadas.</td>
+        <td>W-52</td>
+        <td>Crear función retornable de datos del backend para la generación del reporte.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Adrian</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-23</td>
-        <td>Endpoint: Crear pedido</td>
-        <td>W-45</td>
-        <td>Desarrollar endpoint POST</td>
-        <td>Como developer, quiero un endpoint para registrar un nuevo pedido de combustible.</td>
+        <td>W-53</td>
+        <td>Crear ordenes por /api/v1/orders.</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-24</td>
-        <td>Endpoint: Consultar pedidos por usuario</td>
-        <td>W-46</td>
-        <td>Desarrollar endpoint GET</td>
-        <td>Como developer, quiero un endpoint para obtener todos los pedidos de un usuario.</td>
+        <td>W-54</td>
+        <td>Obtener pedidos por usuario por /api/v1/orders/user/{id}</td>
         <td>4</td>
-        <td></td>
-        <td>To do</td>
+        <td>Luciana</td>
+        <td>Done</td>
     </tr>
 </table>
 
