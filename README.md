@@ -45,6 +45,10 @@
       <td>u202310129</td>
       <td>César Augusto Navarro Correa</td>
     </tr>
+        <tr>
+      <td></td>
+      <td>Frezzia Espinoza Paredes</td>
+    </tr>
   </table>
 </div>
 
@@ -54,31 +58,12 @@
 
 | **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
 |-------------|-------------|---------------------------------------|-----------------------------------------------|
-| **1.0**     | 2025-04-08  | Sanchez Arenas, Manuel Angel | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas |
-|             |             | Adrián Emanuel Valerio Garcia | Inserte nombre aquí                           |
-|             |             | Luciana Carolina Choquehuanca Nuñez | Inserte nombre aquí                           |
-|             |             | Franz Jair La Torre Valle | Inserte nombre aquí                           |
-|             |             | César Augusto Navarro Correa | Inserte nombre aquí                           |
-| **2.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo II. Análisis de la competencia y entrevistas. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **2.1**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo III. Especificación de los requisitos del producto. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **3.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo IV. Diseño del producto y la interfaz de usuario. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **4.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo V. Implementación, validación y despliegue del producto. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
+| **1.0**     | 2025-04-27  | Sanchez Arenas, Manuel Angel | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas<br>-Wireflows y Userflows |
+| **1.0**     | 2025-04-27  | Adrián Emanuel Valerio Garcia | **Se incluye:**<br>-Chapter I<br>-Diseño de Scenarios As-Is y To-Be<br>Aporte en los style-guid-lines y diagramas de arquitectura y database<br>Edición del video de entrevistas |
+| **1.0**     | 2025-04-27  | Luciana Carolina Choquehuanca Nuñez | **Se incluye**<br>-Wireframe y Mockup de Landing Page<br>-Coordinación de equipo<br>-Chapter I<br>-Conclusiones |
+| **1.0**     | 2025-04-27  | Franz Jair La Torre Valle | **Se incluye**<br>-User Stories<br>-Product Backlog<br>-Chapter V |
+| **1.0**     | 2025-04-27  | César Augusto Navarro Correa | **Se incluye**<br>-User Journey Map<br>-Impact Map<br>-User Personas<br>-Web Applications Prototyping<br>-SEO Tags<br>-Navigations Systems |
+| **1.0**     | 2025-04-27  | Frezzia Eldaa Isabel Espinoza Paredes | **Se incluye**<br>-Propuesta y desarrollo de Landing Page<br>-Despliegue de Landing Page<br>-Chapter V |
 
 ---
 ## Project Report Collaboration Insights
@@ -92,11 +77,12 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | **Integrante**        | **Usuario GitHub**  | **Aportaciones destacadas** |
 |-----------------------|---------------------|-----------------------------|
-| Manuel Sanchez        | @manuels7anchez     |  |
-| Adrián Valerio        | @adrianvalerio      |  |
-| Luciana Choquehuanca  | @Lucianxaaa         |  |
-| Franz La Torre        | @FranzJairLTV       |  |
-| César Navarro         | @csr555-ui          |  |
+| Manuel Sanchez        | @manuels7anchez     | Creación de la rama feature//cover. Revisión de commits y pull requests. |
+| Adrián Valerio        | @adrianvalerio      | Creación de rama Chapter IV. Supervisión de aportes a la rama. |
+| Luciana Choquehuanca  | @Lucianxaaa         | Creación de la organización y repositorio contenedor del informe. |
+| Franz La Torre        | @FranzJairLTV       | Creación de la rama Chapter V. |
+| César Navarro         | @csr555-ui          | Creación de la rama Chapter II. Revisión general de los commits hechos.  |
+| Frezzia Espinoza      | @fflushh            | Creación de nuevo repositorio para el despliegue de la Landing Page. |
 
 ---
 
@@ -174,14 +160,41 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1 Sprint 1](#521-sprint-1)
-    - [5.2.1.1 Sprint Planning](#5211-sprint-planning)
-    - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-    - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
-    - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-    - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1.1 Sprint Planning](#5211-sprint-planning-1)
+      - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2 Sprint 2](#522-sprint-2)
+      - [5.2.2.1 Sprint Planning](#5221-sprint-planning-2)
+      - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3 Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4 Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3 Sprint 3](#523-sprint-3)
+      - [5.2.3.1 Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3 Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4 Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5 Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones heuristicas](#533-evaluaciones-heuristicas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografia](#bibliografia)
+  - [Anexos](#anexos)
+
 
 ---
 
@@ -191,7 +204,6 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Manuel Sanchez**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br> | TB1: Escribe aquí la conclusión para TB1.<br> |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Manuel Sanchez**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>**Nombre de integrante**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br> | TB1: Escribe aquí la conclusión para TB1.<br> |
-
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Manuel Sanchez**<br> TB1: Expongo con efectividad los hallazgos de entrevistas y análisis de usuarios, empleando un lenguaje accesible para transmitir insights clave tanto a perfiles técnicos como no técnicos<br>TP: Me comuniqué con efectividad tanto oral como por escrito en el desarrollo del TP1. Durante las presentaciones, expuse con claridad y adapté mi lenguaje al público. En la elaboración de la landing page, participé en la organización del contenido y en asegurar que el mensaje fuera comprensible para el usuario. También colaboré en la documentación técnica, validando la calidad del contenido escrito.<br>**Franz Jair La Torre Valle**<br>TB1: Comunico de forma clara y estructurada la visión de FuelTrack, el problema que buscamos resolver y los segmentos objetivo, adaptando el nivel de detalle según la audiencia (usuarios, inversionistas o stakeholders).<br>TP: Me expresé con claridad en las presentaciones orales del proyecto, enfocándome en los objetivos de cada entrega. Participé en el desarrollo del front, explicando sus funcionalidades en exposiciones. Además, colaboré en documentos escritos, asegurando que la información técnica fuera precisa y adaptada al público. <br>**Adrián Emanuel Valerio Garcia**<br>TB1: Presento de manera ordenada y precisa las user stories, el impact mapping y el product backlog, enfocándome en comunicar las prioridades del proyecto según el rol del interlocutor (desarrolladores, gerentes o usuarios finales).<br>TP: Presentó ordenadamente los Sprints del desarrollo de la pagina web y cambios en la base de datos. <br>**César Augusto Navarro Correa**<br>TB1: Comunico los cambios realizados en el repositorio al grupo. Además, presentó tanto los Prototipos como los User Scenarios correspondientes.<br>TP: En el TP1, me comuniqué de forma efectiva tanto oral como por escrito. Durante las presentaciones, expliqué con claridad las decisiones técnicas. En el desarrollo del front, participé activamente y documenté su estructura, utilizando lenguaje técnico comprensible y coherente para la audiencia. <br>**Luciana Carolina Choquehuanca Nuñez**<br>TB1: Explico de forma visual y verbal el diseño UX/UI de FuelTrack, incluyendo wireframes y mock-ups, adaptando mi discurso para facilitar la comprensión tanto a diseñadores como a públicos sin experiencia en diseño.Comunico el avance y la evidencia de los sprints de implementación de manera clara, usando métricas, resultados visibles y lenguaje sencillo para conectar con públicos técnicos y de negocio.<br>TP: Me comuniqué de manera efectiva tanto oral como por escrito durante este TP1. En las presentaciones, transmití ideas con claridad y escuché activamente las observaciones. Aporté en el diseño y redacción del contenido de la landing page, asegurando que fuera accesible y entendible. También contribuí en la elaboración de entregables con lenguaje técnico apropiado. <br>**Frezzia Eldaa Isabel Espinoza Paredes**<br>TB1: Expongo con efectividad los hallazgos de entrevistas y análisis de usuarios, empleando un lenguaje accesible para transmitir insights clave tanto a perfiles técnicos como no técnicos <br>TP: A lo largo del TP1, me aseguré de comunicar con claridad en presentaciones y entregables. Trabajé en el contenido y estructura de la landing page, adaptando el mensaje al público objetivo. También colaboré en la redacción técnica del proyecto, cuidando el orden y la calidad del lenguaje utilizado. <br> | TB1: El equipo logró comunicar su propuesta a una problemática expecifica en su video de tal forma que sea alcanzable para cualquier audiencia.<br> TP: El equipo ha realizado presentaciones claras y estructuradas, enfocando su discurso en los objetivos específicos de cada entrega. Se utilizaron códigos apropiados al contexto académico y técnico, garantizando que el mensaje llegara satisfactoriamente al público objetivo, que incluye docentes y compañeros de clase. Además, se ha promovido la escucha activa en las sesiones de retroalimentación, incorporando las observaciones con actitud crítica y disposición a la mejora, lo que evidencia un proceso de comunicación abierto, objetivo y conciliador.
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Manuel Sanchez**<br>TB1: Redacto documentos claros y persuasivos que describen la visión de FuelTrack, el problema identificado y nuestros segmentos objetivo, adaptando el nivel de formalidad según si el lector es un potencial cliente, un inversionista o un usuario final.<br>TP: Realizó la redacción de los cambios de manera correcta para la realización de una mejor presentación en el informe<br>**Franz Jair La Torre Valle**<br>TB1: Registro de manera estructurada y precisa los hallazgos de entrevistas y análisis de usuarios, redactando informes comprensibles tanto para equipos de desarrollo como para stakeholders no técnicos.<br>TP: Redactó la corrección del Sprint 2 y secciones del capitulo 4 con un lenguaje más claro y formal respecto a la anterior revisión. <br>**Adrián Emanuel Valerio Garcia**<br>TB1: Escribo especificaciones de requisitos de usuario (user stories, impact mapping, product backlog) utilizando un lenguaje claro, técnico y alineado al nivel de detalle que cada audiencia necesita para su rol en el proyecto.<br>**César Augusto Navarro Correa**<br>TB1: Documento de manera visual y textual los diseños de UX/UI, explicando wireframes, mock-ups y flujos de usuario en formatos accesibles para diseñadores, desarrolladores y usuarios de negocio.<br>TP: Redactó y actualizó las secciones del informe relacionadas con el modelado de la base de datos, explicando de forma clara los cambios realizados y su impacto.<br>**Luciana Carolina Choquehuanca Nuñez**<br>TB1: Redacto reportes de avance de los sprints y documentación de implementación, usando un lenguaje preciso y adaptado para comunicar tanto a perfiles técnicos como a gerenciales los logros, dificultades y resultados del proyecto.<br>TP: Redactó la documentación de diseño y funcionalidad de la interfaz de usuario, así como el resumen del impacto visual y técnico de las mejoras implementadas.<br>**Frezzia Eldaa Isabel Espinoza Paredes**<br>TB1: Elaboro documentos y contenidos escritos, como la descripción de la startup y los segmentos, que comunican información de manera estructurada. Adapto el mensaje de la landing para que fuera relevante para nuestros usuarios finales. Utilizo un lenguaje claro y medios adecuados para asegurarme de que el mensaje fuera fácil de entender y rápido de asimilar por el público objetivo. Al revisar y validar la calidad de los textos, me aseguré de que fueran coherentes y bien escritos.<br>TP: Redactó las secciones del informe relacionadas con la interfaz gráfica y el comportamiento del Frontend, asegurando consistencia en la descripción de funcionalidades y en la presentación final. <br> | TB1: El equipo logró comunicar sus ideas en el informe, planteando una solución estructurada y detallada a una problematica especifica.<br>TP: El  equipo ha desarrollado entregables que cumplen con los estándares establecidos, tales como el README del repositorio FuelTrack, documentos en formato markdown y diagramas técnicos. En estos se evidencia una síntesis clara de las ideas y conceptos clave, presentados con lenguaje técnico adecuado y adaptado a la audiencia esperada. Además, se han utilizado recursos visuales como esquemas y tablas que complementan el contenido escrito, asegurando así una presentación coherente y empática. <br> |
 ---
