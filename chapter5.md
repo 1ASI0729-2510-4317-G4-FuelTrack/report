@@ -1656,6 +1656,14 @@ En esta sección, describe la evaluación de la experiencia de usuario de la pro
 - A nivel técnico, se construyó una base sólida de arquitectura de software y base de datos, asegurando escalabilidad, mantenibilidad y alineación con los objetivos de negocio.
 
 - El desarrollo del producto se organizó mediante una planificación iterativa, permitiendo construir, validar y mejorar de manera progresiva, asegurando que el resultado final responda tanto a las expectativas de los usuarios como a las metas de FuelTrack.
+  
+- En este sprint, se planificaron tareas clave como la finalización del frontend, la revisión del informe y la creación de la primera versión del backend. El equipo definió las User Stories y asignó responsabilidades, con un total de 90 puntos de historia y una velocidad de Sprint de 21.
+  
+- Se desarrollaron varios endpoints para gestionar pedidos, pagos, notificaciones y transportes. Además, se mejoraron las funcionalidades de la plataforma, como los gráficos de ventas y consumo mensual.
+  
+- El frontend se desplegó en Netlify y Firebase, y el backend se desplegó localmente para pruebas. También se actualizó el Panel de Administrador y se integró la documentación de los Web Services con Swagger UI.
+  
+- Se identificaron problemas de usabilidad, como la falta de comparaciones de ventas y la imposibilidad de exportar datos a Excel. Se sugirieron mejoras como filtros avanzados en gráficos y mensajes de error más claros.
 
 ## Bibliografia
 
