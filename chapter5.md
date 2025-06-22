@@ -1369,9 +1369,10 @@ Este proyecto utilizó diversas herramientas para el desarrollo del backend de l
 - **GitHub Desktop**: Herramienta gráfica que facilitó la interacción con nuestro repositorio en GitHub.
 - **GitHub**: Plataforma colaborativa donde se almacenó y gestionó el código fuente de nuestro proyecto.
 - **Netlify**: Plataforma de implementación y alojamiento web que facilita el despliegue de sitios estáticos y aplicaciones web modernas.
+- **Firebase**:Plataforma de desarrollo de aplicaciones móviles y web creada por Google, que proporciona una variedad de herramientas y servicios como bases de datos en tiempo real.
 
 Enlaces de despliegue:
-- **Landing Page**: [FuelTrack Landing Page](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
+- **Landing Page**: [FuelTrack Landing Page](https://fueltrack-f9064.web.app/)
 - **FrontEnd**: [FuelTrack FrontEnd](https://fueltrackapp.netlify.app)
 - **Backend**: [FuelTrack Backend]()
 
