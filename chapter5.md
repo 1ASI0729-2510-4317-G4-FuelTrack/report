@@ -1292,6 +1292,12 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 
 Durante el Sprint 3 se realizaron mejoras en la estructura del frontend, con el objetivo de optimizar su organización y funcionamiento. También se completaron e integraron las secciones que habían quedado pendientes en el sprint anterior, garantizando la continuidad y coherencia en el desarrollo de la página web.
 
+-El backend desplegado de forma local 
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/IZqOB8Q.jpeg"  width="100%" />
+</div>
+
 - Panel de Administrador: Permite a los usuarios ver la actividad de los usuarios
 ![AdminPanel](img/ClientAdminPanel.png)
 
@@ -1357,7 +1363,9 @@ Durante el Sprint 3 se completó la documentación de los Web Services correspon
 
 Adicionalmente, se desplego la estructura de los Web Services mediante la herramienta Swagger UI, lo que permitió validar la definición y comportamiento de los endpoints simulados:
 
-![SwaggerEvidence](img/SwaggerEvidence.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/IZqOB8Q.jpeg"  width="100%" />
+</div>
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
