@@ -888,7 +888,7 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 <table>
     <tr align="center">
         <td><strong>Sprint #</strong></td>
-        <td><strong>Sprint 1</strong></td>
+        <td><strong>Sprint 3</strong></td>
     </tr>
     <tr>
         <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
