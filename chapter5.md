@@ -857,7 +857,6 @@ Interfaz de solicitantes:
 ![CreateOrder](img/CreateOrder.png)
 ![CreateOrder2](img/CreateOrder2.png)
 ![CreateOrder3](img/CreateOrder3.png)
-![CreateOrder4](img/CreateOrder4.png)
 
 - **Analíticas:** Muestra algunos usuarios que confían en FuelTrack como referencia de credibilidad.
 
@@ -1436,11 +1435,9 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-Durante el Sprint 3 se realizaron mejoras en la estructura del frontend con el objetivo de optimizar su organización y funcionamiento. Asimismo, se completaron e integraron las secciones que habían quedado pendientes en el sprint anterior, garantizando así la continuidad y coherencia del desarrollo de la página web. Estas acciones permitieron avanzar en la consolidación de la interfaz de usuario, asegurando una experiencia más completa y alineada con los requerimientos del proyecto.
+Durante el Sprint 3 se realizaron mejoras en la estructura del frontend, con el objetivo de optimizar su organización y funcionamiento. También se completaron e integraron las secciones que habían quedado pendientes en el sprint anterior, garantizando la continuidad y coherencia en el desarrollo de la página web.
 
-Interfaz de los socilitantes:
-
-- Panel de Administrador: Permite a los solicitantes ver la actividad de los usuarios
+- Panel de Administrador: Permite a los usuarios ver la actividad de los usuarios
 ![AdminPanel](img/ClientAdminPanel.png)
 
 - Terminales: Aquí se gestiona la información relacionada con los terminales conectados al sistema
@@ -1455,31 +1452,7 @@ Interfaz de los socilitantes:
 - Contactanos: Ofrece un formulario de contacto
 ![Contact US](img/ClientContactUs.png)
 
-Interfaz de los proovedores:
-
-- Panel de Administrador: Permite a los proovedores ver la actividad de los usuarios
-![AdminPanel](img/SupplierAdminPanel.png)
-
-- Conciliaciones: Permite gestionar el pago de los solicitantes
-![Conciliations](img/SupplierConciliations.png)
-
-- Despachos: Permite gestionar y aprobar envio de despachos a sus clientes
-![Terminals](img/SupplierDispatch.png)
-
-- Analiticas: Permite ver la actividad del solicitante mediante graficas para evaluar su rendimiento
-![Analytics](img/SupplierAnalytics.png)
-
-- Notificaciones: Centraliza todas las notificaciones generadas por la plataforma
-![Notifications](img/SupplierNotifications.png)
-
-- Precios: Permite visualizar los planes de suscripción que ofrece la plataforma
-![Providers](img/SupplierPrices.png)
-
-- Clientes: Administra la información de los solicitantes asociados con el proovedor en la plataforma
-![Clients](img/SupplierClients.png)
-
-- Contactanos: Ofrece un formulario de contacto
-![Contact Us Supplier](img/SupplierContactUs.png)
+Adicionalmente, se llevó a cabo el desarrollo integral de los datos de la aplicación, estructurándolos según los bounded contexts definidos: Analytics, Logistics, Operations, Orders, Reports y Validations. Si bien se lograron avances en todos ellos, se priorizó el desarrollo de los componentes esenciales para el correcto funcionamiento del módulo de pedidos en ambos segmentos.
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -1531,11 +1504,17 @@ Adicionalmente, se desplego la estructura de los Web Services mediante la herram
 
 ![SwaggerEvidence](img/SwaggerEvidence.png)
 
-Enlace del despliegue:
-
-**Link:** [FuelTrack Front-End]()
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se llevaron a cabo diversas actividades orientadas al despliegue de los productos desarrollados, abarcando tanto servicios web como aplicaciones front-end.
+
+Enlace del despliegue:
+**Link:** [FuelTrack Web Services]()
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+![backend_commits](img/backend_commits.png)
 
 ## 5.3. Validation Interviews
 
