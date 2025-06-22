@@ -1362,11 +1362,18 @@ Adicionalmente, se desplego la estructura de los Web Services mediante la herram
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Durante este Sprint, se llevaron a cabo diversas actividades orientadas al despliegue de los productos desarrollados, abarcando tanto servicios web como aplicaciones front-end.
+Este proyecto utilizó diversas herramientas para el desarrollo del backend de la aplicación web, así como para la actualización del frontend:
 
-Enlace del despliegue:
+- **Git**: Sistema de control de versiones utilizado para gestionar el código.
+- **GitFlow**: Flujo de trabajo colaborativo implementado en el desarrollo del proyecto.
+- **GitHub Desktop**: Herramienta gráfica que facilitó la interacción con nuestro repositorio en GitHub.
+- **GitHub**: Plataforma colaborativa donde se almacenó y gestionó el código fuente de nuestro proyecto.
+- **Netlify**: Plataforma de implementación y alojamiento web que facilita el despliegue de sitios estáticos y aplicaciones web modernas.
 
-**Link:** [FuelTrack Web Services]()
+Enlaces de despliegue:
+- **Landing Page**: [FuelTrack Landing Page](https://1asi0730-2510-4370-g4-petnova.github.io/PetNova-Landing-Page/)
+- **FrontEnd**: [FuelTrack FrontEnd](https://fueltrackapp.netlify.app)
+- **Backend**: [FuelTrack Backend]()
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
