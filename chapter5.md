@@ -1013,22 +1013,22 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
     </tr>
   </thead>
 <tbody>
- <tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-front-end</td>
 	<td>develop</td>
 	<td>a5ad1b6</td>
 	<td>feat(dispatch): add dashboard section for dispatch</td>
 	<td>-</td>
 	<td>14-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-front-end</td>
 	<td>develop</td>
 	<td>a5ad1b6</td>
 	<td>feat: Add new sections: Admin, Terminals, Notifications, Providers, Workflows, Contact Us for clients</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
+</tr>
 <tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
@@ -1037,174 +1037,254 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 	<td>-</td>
 	<td>12-06-2025</td>
   </tr>
-  <tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>31adbc1</td>
 	<td>feat(orderStatus): add class for order status</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>34032fb</td>
 	<td>feat(FuelType): add class for fuel type in order</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>0f9b69d</td>
 	<td>feat: add SnakeCase for lower, plural and well written class names</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>b76971b</td>
 	<td>feat(FuelOrder): add FuelOrder class that saves all order infos</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>2dd17bd</td>
 	<td>feat(controller): add REST controller for creating and listing fuel orders</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>89c3c5f</td>
 	<td>feat(orders): implement service logic to handle and store fuel orders in memory</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>14faf8f</td>
 	<td>feat(orders): add FuelOrderCommand to encapsulate fuel order creation data</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>d323600</td>
 	<td>feat(orders): add CreateFuelOrderResource as DTO for incoming fuel order requests</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>db3e509</td>
 	<td>feat(application.properties): add database in h2</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>8d5587b</td>
 	<td>feat(FuelOrder): define class JPA for fuel_orders table</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>51fe946</td>
 	<td>feat(controller): add endpoint mappings using @RequestMapping and REST shortcuts</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>7430616</td>
 	<td>feat(mapper): implement FuelOrderMapper to convert between DTO and domain command</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>8a5eac2</td>
 	<td>feat: add fuel order class resource</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>d59e7f4</td>
 	<td>feat(repository): create FuelOrderRepository interface for JPA access</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feature/orders</td>
 	<td>fb57cab</td>
 	<td>feat(service): implement FuelOrderService to handle order creation logic</td>
 	<td>-</td>
 	<td>17-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feat/operations</td>
 	<td>71d8ecb</td>
 	<td>feat(transport): add command and query logic to operation</td>
 	<td>-</td>
 	<td>14-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feat/operations</td>
 	<td>0d1d7f6</td>
 	<td>feat(transport): add services</td>
 	<td>-</td>
 	<td>14-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feat/operations</td>
 	<td>b8b6c92</td>
 	<td>feat(transport): establish database connectivity</td>
 	<td>-</td>
 	<td>15-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feat/operations</td>
 	<td>57cc6bd</td>
 	<td>feat(delivery): add commands and queries</td>
 	<td>-</td>
 	<td>15-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feat/operations</td>
 	<td>84a233f</td>
 	<td>feat(delivery): establish connection to database</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
 	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
 	<td>feat/operations</td>
 	<td>b59de8c</td>
 	<td>feat(inventory): add JPA repository and service layer with create & update operations</td>
 	<td>-</td>
 	<td>16-06-2025</td>
-  </tr>
+</tr>
+<tr>
+	<td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+	<td>orders</td>
+	<td>4741c4a</td>
+	<td>feat(Controller): add complete payment fuction</td>
+	<td>-</td>
+	<td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>d7701cf</td>
+      <td>feat(service): add logic processing order</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+    </tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>bd4e372</td>
+      <td>feat: add class for paymentorder</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>09a0016</td>
+      <td>feat: add status for payment</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>c567f39</td>
+      <td>feat: add resource for payment</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>ab05487</td>
+      <td>feat: add payment repository</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>0fe6980</td>
+      <td>feat: add logic for aditional note on orders</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>orders</td>
+      <td>b43baee</td>
+      <td>feat: add creation time to fuel_orders table</td>
+      <td>-</td>
+      <td>21-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>operations</td>
+      <td>025bd4a</td>
+      <td>refactor: reorganize operations structure</td>
+      <td>-</td>
+      <td>20-06-2025</td>
+</tr>
+<tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>operations</td>
+      <td>343ecb0</td>
+      <td>feat:add validation context</td>
+      <td>-</td>
+      <td>22-06-2025</td>
+</tr>
 </tbody>
 </table>
 
@@ -1285,6 +1365,7 @@ Adicionalmente, se desplego la estructura de los Web Services mediante la herram
 Durante este Sprint, se llevaron a cabo diversas actividades orientadas al despliegue de los productos desarrollados, abarcando tanto servicios web como aplicaciones front-end.
 
 Enlace del despliegue:
+
 **Link:** [FuelTrack Web Services]()
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
