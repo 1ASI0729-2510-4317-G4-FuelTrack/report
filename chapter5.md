@@ -1645,9 +1645,26 @@ Smashing Magazine. (2020, julio 21). *Information and information architecture: 
 UXAX. (2023, junio 18). *The Lean UX process: Streamlining user-centered design*. Recuperado de [https://www.uxax.org/post/the-lean-ux-process-streamlining-user-centered-design](https://www.uxax.org/post/the-lean-ux-process-streamlining-user-centered-design)
 
 ## Anexos 
+### Anexo A. Products Deployed.
 
-- **Despliegue de la Landing Page:** [https://fueltrack-f9064.web.app/ ](https://fueltrack-f9064.web.app/)
+Landing Page Desplegada: https://fueltrack-f9064.web.app/
+
+Front Web Applications Desplegado: https://fueltrackapp.netlify.app/
+
+Backend Desplegado:
+
+### Anexo B. Web tools
 
 - **Figma - User Flow Diagrams, Wireframes y Mockups:**  
 [https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0](https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0)
 
+### Anexo C. Github Repositories
+
+Link de la Organización FUELTRACK: https://github.com/1ASI0729-2510-4317-G4-FuelTrack
+
+| Repositorios                  | Enlace al Respositorio                                  |
+|-------------------------------|---------------------------------------------------------|
+| Fueltrack Project Report      | https://github.com/1ASI0729-2510-4317-G4-FuelTrack/report |
+| Fueltrack Landing Page        | https://github.com/1ASI0729-2510-4317-G4-FuelTrack/landing-page |
+| Fueltrack FrontEnd            | https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-front-end |
+| Fueltrack Backend             | https://github.com/1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end |
