@@ -1576,14 +1576,26 @@ B. Empresas Solicitantes de Combustible:
 ---
 
 #### Entrevista N°1 – Segmento: Proveedores
-- Nombres: 
-- Apellidos: 
-- Edad:
-- Distrito:
-- URL Entrevista:
-- Duración: 
-- Resumen:
+- Nombres: Henry Ismael
+- Apellidos: Ubica Pacheco
+- Edad: 28
+- Distrito: SJL
+- URL Entrevista: [https://youtu.be/RYrcK_EstdA](https://youtu.be/RYrcK_EstdA)
+- Duración: 5:24
+- Resumen: Henry considera que la plataforma transmite confianza gracias a su diseño profesional y buena organización. Valoró la facilidad de navegación, aunque notó que el botón de login para proveedores es poco visible. Destacó la claridad en la presentación de pedidos y pagos, pero sugirió mejorar la guía para subir archivos PDF. Considera útil incluir un historial de contacto con clientes y valoraría recibir notificaciones automáticas. También propuso un apartado de preguntas frecuentes para proveedores y la integración con sistemas de facturación electrónica.
 
+
+#### Entrevista N°2 – Segmento: Proveedores
+- Nombres: Jamil Iván
+- Apellidos: Calista de Lázaro
+- Edad: 25
+- Distrito: VMT
+- URL Entrevista: [https://youtu.be/_QAcHVgNgwI](https://youtu.be/_QAcHVgNgwI)
+- Duración: 5:29
+- Resumen: Jamil destacó la claridad del dashboard y la facilidad para registrar despachos. Mencionó que la sección de despachos debería estar más visible y que la distribución de información en la aprobación de cargos podría ordenarse mejor. Sugirió incorporar filtros avanzados en el gráfico de ventas y comparativas mensuales. También señaló la utilidad de notificaciones automáticas y de alertas visuales en la sección de pagos. Extrañó contar con medios de contacto directo con las empresas y con la opción de exportar datos a Excel para análisis y reportes.
+
+
+  
 ---
 
 #### Entrevista N°2 – Segmento: Solicitantes
