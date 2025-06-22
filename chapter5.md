@@ -1464,13 +1464,15 @@ B. Empresas Solicitantes de Combustible:
 ---
 
 #### Entrevista N°2 – Segmento: Solicitantes
-- Nombres: 
-- Apellidos: 
-- Edad:
-- Distrito:
-- URL Entrevista:
-- Duración: 
-- Resumen:
+- Nombres: Marcelo 
+- Apellidos: Binda
+- Edad: 24
+- Distrito: Surquillo
+- URL Entrevista: [https://youtu.be/JOrO-Q-i-TQ](https://youtu.be/JOrO-Q-i-TQ)
+- Duración: 5:59
+- Resumen: Marcelo considera que la landing page del sistema transmite una imagen profesional y está bien organizada para empresas que buscan monitorear el suministro de combustible. Le pareció intuitiva, aunque notó que la sección de contacto podría mejorarse. Sugirió incluir un video explicativo para facilitar la comprensión del sistema. En el frontend, valoró el diseño simple del dashboard, la claridad en los pedidos realizados y la utilidad de los gráficos y mapas para el control logístico. Destacó la necesidad de una opción para duplicar pedidos anteriores y mejorar la guía al llenar campos de dirección.
+
+
 
 ### 5.3.3. Evaluaciones heuristicas
 
