@@ -966,263 +966,38 @@ Durante el Sprint 2, el equipo demostró una mejora en la colaboración y distri
 
 ### 5.2.3.3. Sprint Backlog 3
 
-<table border="1" cellspacing="0" cellpadding="6">
-    <tr align="center">
-        <td colspan="6"><strong>Sprint 3</strong></td>
-    </tr>
-    <tr align="center">
-        <td colspan="1"><strong>User Story</strong></td>
-        <td colspan="5"><strong>Work-Item / Task</strong></td>
-    </tr>
-    <tr align="center">
-        <td><strong>Id</strong></td>
-        <td><strong>Id</strong></td>
-        <td><strong>Description</strong></td>
-        <td><strong>Estimation (Hours)</strong></td>
-        <td><strong>Assigned to</strong></td>
-        <td><strong>Status</strong></td>
-    </tr>
-    <tr align="center">
-        <td>US-05</td>
-        <td>W-25</td>
-        <td>Desarrollar POST /api/v1/orders para crear pedido de combustible.</td>
-        <td>6</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>-</td>
-        <td>W-26</td>
-        <td>Validaciones de stock y tipo de combustible en pedido nuevo.</td>
-        <td>6</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-06</td>
-        <td>W-27</td>
-        <td>Desarrollar endpoint GET /api/v1/orders para consultar estado de pedidos.</td>
-        <td>5</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>-</td>
-        <td>W-28</td>
-        <td>Crear listado con estados de pedidos</td>
-        <td>5</td>
-        <td>Freezia</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-08</td>
-        <td>W-29</td>
-        <td>Desarrollar endpoint POST /api/v1/transactions para registrar pagos.</td>
-        <td>4</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>-</td>
-        <td>W-30</td>
-        <td>Registrar información de pago asociada a un pedido en la entidad Transaction.</td>
-        <td>4</td>
-        <td>Freezia</td>
-        <td>Done</td>
-    </t>
-    <tr align="center">
-        <td>US-34</td>
-        <td>W-31</td>
-        <td>Configurar notificación por correo para cambios de estado de pedido.</td>
-        <td>3</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-35</td>
-        <td>W-32</td>
-        <td>Implementar notificación automática de despacho.</td>
-        <td>3</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-10</td>
-        <td>W-33</td>
-        <td>Listar pedidos pendientes para análisis del proveedor desde entidad FuelOrder.</td>
-        <td>4</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-11</td>
-        <td>W-34</td>
-        <td>Desarrollar un endpoint PUT /api/v1/orders del estado de pedido.</td>
-        <td>4</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td>W-35</td>
-        <td>Implementar función de aprobación</td>
-        <td>4</td>
-        <td>Franz</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td>W-36</td>
-        <td>Actualizar estado de pedido a Aprobado si validación de pago es correcta.</td>
-        <td>4</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-12</td>
-        <td>W-37</td>
-        <td>Función para marcar como despachado</td>
-        <td>3</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td>W-38</td>
-        <td>Desarrollar endpoint GET /api/v1/deliveries </td>
-        <td>3</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-25</td>
-        <td>W-39</td>
-        <td>Desarrollar endpoint /api/v1/transport para cambiar el vehiculo.</td>
-        <td>5</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td></td>
-        <td>W-40</td>
-        <td>Diseñar asignación de vehículo</td>
-        <td>5</td>
-        <td>Franz</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-26</td>
-        <td>W-41</td>
-        <td>Desarrollar endpoint /api/v1/transport para asignar el conductor</td>
-        <td>5</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-26</td>
-        <td>W-42</td>
-        <td>Diseñar asignación de conductor</td>
-        <td>5</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-27</td>
-        <td>W-43</td>
-        <td>Desarrollar endpoint GET en /api/v1/transports para validar disponibilidad.</td>
-        <td>4</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-13</td>
-        <td>W-44</td>
-        <td>Desarrollar endpoint PUT /api/v1/orders para cerrar pedido.</td>
-        <td>3</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-19</td>
-        <td>W-45</td>
-        <td>Desarrollar endpoint GET /api/v1/orders para el resumen de pedidos para provedor</td>
-        <td>4</td>
-        <td>Franz</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-33</td>
-        <td>W-46</td>
-        <td>Agregar filtros por estado de pedido en /api/v1/orders.</td>
-        <td>3</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-09</td>
-        <td>W-47</td>
-        <td>Desarrollar endpoint GET para obtener una cantidad de pedidos.</td>
-        <td>4</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-18</td>
-        <td>W-48</td>
-        <td>Desarrollar endpoint GET /api/v1/orders para el resumen de pedidos para solicitante.</td>
-        <td>4</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-38</td>
-        <td>W-49</td>
-        <td>Implementar la funcionalidad del gráfico de ventas a traves de los datos del backend.</td>
-        <td>5</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-39</td>
-        <td>W-50</td>
-        <td>Implementar la funcionalidad gráfico de consumo mensual a traves de los datos del backend.</td>
-        <td>5</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-40</td>
-        <td>W-51</td>
-        <td>Implementar exportación de datos a PDF</td>
-        <td>4</td>
-        <td>Franz</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-14</td>
-        <td>W-52</td>
-        <td>Crear función retornable de datos del backend para la generación del reporte.</td>
-        <td>4</td>
-        <td>Adrian</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-23</td>
-        <td>W-53</td>
-        <td>Crear ordenes por /api/v1/orders.</td>
-        <td>4</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-24</td>
-        <td>W-54</td>
-        <td>Obtener pedidos por usuario por /api/v1/orders/user/{id}</td>
-        <td>4</td>
-        <td>Luciana</td>
-        <td>Done</td>
-    </tr>
-</table>
+| **User Story** | **Work-Item / Task**                                                                 | **Id**  | **Description**                                                                                              | **Estimation (Hours)** | **Assigned to**                    | **Status** |
+|----------------|--------------------------------------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------|------------|
+| US-05          | Desarrollar POST /api/v1/orders para crear pedido de combustible.                    | Tk-25   | Creación del endpoint POST para la recepción de pedidos de combustible.                                        | 6                      | Adrian                             | Done       |
+| US-05          | Validaciones de stock y tipo de combustible en pedido nuevo.                         | Tk-26   | Implementación de validaciones para asegurarse que el stock y el tipo de combustible sean correctos.          | 6                      | Adrian                             | Done       |
+| US-06          | Desarrollar endpoint GET /api/v1/orders para consultar estado de pedidos.            | Tk-27   | Desarrollo del endpoint GET para consultar el estado de los pedidos realizados.                               | 5                      | Adrian                             | Done       |
+| US-06          | Crear listado con estados de pedidos                                                | Tk-28   | Generación de un listado con todos los estados de los pedidos realizados.                                     | 5                      | Freezia                            | Done       |
+| US-08          | Desarrollar endpoint POST /api/v1/transactions para registrar pagos.                | Tk-29   | Creación del endpoint POST para registrar pagos realizados en la plataforma.                                 | 4                      | Luciana                            | Done       |
+| US-08          | Registrar información de pago asociada a un pedido en la entidad Transaction.       | Tk-30   | Implementación para registrar la información del pago en la entidad Transaction relacionada con los pedidos.   | 4                      | Freezia                            | Done       |
+| US-34          | Configurar notificación por correo para cambios de estado de pedido.                 | Tk-31   | Implementación de la notificación por correo cuando haya cambios en el estado de un pedido.                   | 3                      | Luciana                            | Done       |
+| US-35          | Implementar notificación automática de despacho.                                    | Tk-32   | Desarrollo de notificación automática para informar sobre el despacho de pedidos.                            | 3                      | Luciana                            | Done       |
+| US-10          | Listar pedidos pendientes para análisis del proveedor desde entidad FuelOrder.      | Tk-33   | Implementación de una función que liste los pedidos pendientes para análisis por parte del proveedor.        | 4                      | Adrian                             | Done       |
+| US-11          | Desarrollar un endpoint PUT /api/v1/orders del estado de pedido.                     | Tk-34   | Creación del endpoint PUT para modificar el estado de los pedidos.                                           | 4                      | Luciana                            | Done       |
+| US-11          | Implementar función de aprobación                                                   | Tk-35   | Implementación de la función para aprobar pedidos tras la validación de los pagos.                           | 4                      | Franz                              | Done       |
+| US-11          | Actualizar estado de pedido a Aprobado si validación de pago es correcta.           | Tk-36   | Desarrollo de la lógica para cambiar el estado del pedido a aprobado una vez validado el pago.               | 4                      | Luciana                            | Done       |
+| US-12          | Función para marcar como despachado                                                | Tk-37   | Implementación de la función para marcar un pedido como despachado.                                           | 3                      | Luciana                            | Done       |
+| US-12          | Desarrollar endpoint GET /api/v1/deliveries                                         | Tk-38   | Desarrollo de un endpoint GET para obtener información sobre las entregas realizadas.                        | 3                      | Luciana                            | Done       |
+| US-25          | Desarrollar endpoint /api/v1/transport para cambiar el vehiculo.                    | Tk-39   | Creación del endpoint para modificar el vehículo asignado a un pedido.                                       | 5                      | Luciana                            | Done       |
+| US-25          | Diseñar asignación de vehículo                                                      | Tk-40   | Diseño de la asignación de vehículo para los pedidos en el sistema.                                          | 5                      | Franz                              | Done       |
+| US-26          | Desarrollar endpoint /api/v1/transport para asignar el conductor.                   | Tk-41   | Implementación del endpoint para asignar un conductor a los pedidos.                                          | 5                      | Luciana                            | Done       |
+| US-26          | Diseñar asignación de conductor                                                     | Tk-42   | Diseño del proceso de asignación de conductor a los pedidos dentro del sistema.                              | 5                      | Adrian                             | Done       |
+| US-27          | Desarrollar endpoint GET en /api/v1/transports para validar disponibilidad.         | Tk-43   | Creación del endpoint GET para validar la disponibilidad de transportes.                                      | 4                      | Adrian                             | Done       |
+| US-13          | Desarrollar endpoint PUT /api/v1/orders para cerrar pedido.                         | Tk-44   | Desarrollo del endpoint PUT para cerrar un pedido.                                                           | 3                      | Luciana                            | Done       |
+| US-19          | Desarrollar endpoint GET /api/v1/orders para el resumen de pedidos para proveedor   | Tk-45   | Creación del endpoint GET para obtener el resumen de pedidos de un proveedor.                                | 4                      | Franz                              | Done       |
+| US-33          | Agregar filtros por estado de pedido en /api/v1/orders.                             | Tk-46   | Implementación de filtros adicionales para consultar pedidos por estado en el endpoint /api/v1/orders.      | 3                      | Luciana                            | Done       |
+| US-09          | Desarrollar endpoint GET para obtener una cantidad de pedidos.                      | Tk-47   | Creación del endpoint GET para obtener la cantidad total de pedidos en el sistema.                          | 4                      | Adrian                             | Done       |
+| US-18          | Desarrollar endpoint GET /api/v1/orders para el resumen de pedidos para solicitante | Tk-48   | Implementación del endpoint GET para obtener el resumen de pedidos solicitados por un solicitante específico. | 4                      | Adrian                             | Done       |
+| US-38          | Implementar la funcionalidad del gráfico de ventas a través de los datos del backend | Tk-49   | Implementación de un gráfico que visualice las ventas utilizando los datos extraídos del backend.            | 5                      | Luciana                            | Done       |
+| US-39          | Implementar la funcionalidad gráfico de consumo mensual a través de los datos del backend | Tk-50 | Desarrollo de un gráfico de consumo mensual utilizando datos provenientes del backend.                       | 5                      | Luciana                            | Done       |
+| US-40          | Implementar exportación de datos a PDF                                             | Tk-51   | Implementación de la exportación de datos a formato PDF desde el sistema.                                    | 4                      | Franz                              | Done       |
+| US-14          | Crear función retornable de datos del backend para la generación del reporte        | Tk-52   | Creación de una función que devuelva datos del backend para generar reportes específicos.                    | 4                      | Adrian                             | Done       |
+| US-23          | Crear ordenes por /api/v1/orders.                                                   | Tk-53   | Creación del endpoint para la creación de órdenes a través de la API.                                        | 4                      | Luciana                            | Done       |
+| US-24          | Obtener pedidos por usuario por /api/v1/orders/user/{id}                           | Tk-54   | Implementación del endpoint para obtener los pedidos de un usuario a través de su ID.                       | 4                      | Luciana                            | Done       |
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
