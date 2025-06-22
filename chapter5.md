@@ -1378,7 +1378,20 @@ Enlaces de despliegue:
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
-![backend_commits](img/backend_commits.png)
+En el Sprint 3, el equipo estructuró el desarrollo del backend y la corrección del frontend de la aplicación web mediante el uso de ramas dedicadas a cada funcionalidad, adhiriéndose a las convenciones de GitFlow. Este método permitió a los desarrolladores trabajar de forma autónoma en diversas partes del proyecto, mejorando la colaboración y el manejo del código.
+A continuación se presentarán los gráficos con los insights obtenidos durante el sprint:
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/JLDGoUU.png"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/FDtv1OR.png"  width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Sxj3Yvq.png"  width="100%" />
+</div>
 
 ## 5.3. Validation Interviews
 
