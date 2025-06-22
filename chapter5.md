@@ -1638,8 +1638,7 @@ En esta sección, describe la evaluación de la experiencia de usuario de la pro
 
 ## 5.4. Video About-the-Product
 
-**Link:** 
-
+**Link:** [https://youtu.be/UAANwxgY9bs](https://youtu.be/UAANwxgY9bs)
 ## 5.5. Video About-the-Team
 
 **Link:** 
