@@ -1483,6 +1483,58 @@ Interfaz de los proovedores:
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 3 se completó la documentación de los Web Services correspondientes a las funcionalidades de gestión de pedidos y autenticación de usuarios. En esta sección se describen los endpoints implementados, las operaciones soportadas, y el alcance funcional previsto conforme a la especificación OpenAPI, acompañados de evidencias visuales que muestran el resultado de las pruebas realizadas con datos de ejemplo:
+
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #f5e8b0;">
+    <tr>
+      <th>Endpoint Simulado (Fake API)</th>
+      <th>Operaciones CRUD Soportadas</th>
+      <th>Futuro Alcance con OpenAPI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/users/</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión de los usuarios: creación y registro de perfiles, modificación de datos, eliminación de la cuenta</td>
+    </tr>
+    <tr>
+      <td>/api/v1/orders/</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión completa de pedidos: creación, consulta, edición de estado y productos, eliminación de órdenes canceladas.</td>
+    </tr>
+    <tr>
+      <td>/api/v1/notifications</td>
+      <td>GET, POST</td>
+      <td>Gestión de notificaciones: generación de acciones realizadas, cambios en las ordenes y otros recordatorios.</td>
+    </tr>
+    <tr>
+      <td>/api/v1/transports</td>
+      <td>GET, POST</td>
+      <td>Gestión de flota: registro de nuevos camiones, actualización de estado y capacidad, baja de unidades inoperativas.</td>
+    </tr>
+    <tr>
+      <td>/api/v1/inventories</td>
+      <td>GET, POST</td>
+      <td>Catálogo de combustibles: adición de nuevos tipos, actualización de precios, retiro de productos descontinuados.</td>
+    </tr>
+    <tr>
+      <td>/api/v1/deliveries</td>
+      <td>GET, POST</td>
+      <td>Asignación y actualización de transporte a pedidos, consulta de estado en ruta, eliminación de asignaciones obsoletas.</td>
+    </tr>
+  </tbody>
+</table>
+
+Adicionalmente, se desplego la estructura de los Web Services mediante la herramienta Swagger UI, lo que permitió validar la definición y comportamiento de los endpoints simulados:
+
+![SwaggerEvidence](img/SwaggerEvidence.png)
+
+Enlace del despliegue:
+
+**Link:** [FuelTrack Front-End]()
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 ## 5.3. Validation Interviews
@@ -1545,6 +1597,10 @@ B. Empresas Solicitantes de Combustible:
 
 ### 5.3.3. Evaluaciones heuristicas
 
+En esta sección, describe la evaluación de la experiencia de usuario de la propuesta, aplicando un análisis heurístico integral que considera principios de usabilidad, arquitectura de información e inclusive design. La evaluación tiene como objetivo identificar problemas potenciales en la interacción usuario-sistema antes de su desarrollo o implementación final.
+
+#### ESCALA DE SEVERIDAD:
+
 <table border="1" cellspacing="0" cellpadding="6">
     <thead>
         <tr align="center">
@@ -1572,6 +1628,7 @@ B. Empresas Solicitantes de Combustible:
     </tbody>
 </table>
 
+#### TABLA RESUMEN:
 
 <table border="1" cellspacing="0" cellpadding="6">
     <thead>
@@ -1585,30 +1642,120 @@ B. Empresas Solicitantes de Combustible:
     <tbody>
         <tr>
             <td>1</td>
-            <td></td>
+            <td>Falta de opciones para comparar ventas con el mes anterior o filtrar gráficos por periodos (trimestre, año fiscal) para proveedores.</td>
             <td>2</td>
-            <td>Control y libertad del usuario</td>
+            <td>Flexibilidad y Eficiencia de Uso</td>
         </tr>
         <tr>
             <td>2</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Imposibilidad de exportar el listado de empresas a Excel para proveedores.</td>
+            <td>3</td>
+            <td>Control y Libertad del Usuario</td>
         </tr>
         <tr>
             <td>3</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Falta de testimonios del publico objetivo.</td>
+            <td>2</td>
+            <td>Relación entre el Sistema y el Mundo Real</td>
         </tr>
         <tr>
             <td>4</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Falta de integración de mensajes de errores</td>
+            <td>3</td>
+            <td>Ayuda a los Usuarios a Reconocer, Diagnosticar y Recuperarse de Errores</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Ausencia de notificaciones automáticas generadas</td>
+            <td>2</td>
+            <td>Visibilidad del Estado del Sistema</td>
         </tr>
     </tbody>
 </table>
+
+#### DESCRIPCIÓN DE PROBLEMAS:
+
+---
+
+*PROBLEMA #1: Falta de opciones para comparar ventas con el mes anterior o filtrar gráficos por periodos (trimestre, año fiscal) para proveedores.*
+
+*Severidad: 3*
+
+*Heurística violada: Flexibilidad y Eficiencia de Uso.* 
+
+*Problema:* 
+
+*En la seccion de analiticas, el gráfico mostrado a los usuarios es comprensible pero carece de funcionalidades de análisis avanzado, como la comparación mensual o filtros por periodos más amplios, lo cual limita la utilidad para la toma de decisiones.*
+
+*Recomendación:*
+
+*Añadir funcionalidades de comparación de periodos ( vs. mes anterior) y filtros de tiempo como trimestral, anual) a los gráficos de ventas para un análisis más profundo*
+
+---
+
+*PROBLEMA #2: Imposibilidad de exportar el listado de empresas a Excel para proveedores.*
+
+*Severidad: 2*
+
+*Heurística violada: Control y Libertad del Usuario.* 
+
+*Problema:* 
+
+*Para algunos usuarios, es necesario exportar los datos generados, como lo son los pedidos y los despachos en hojas de cálculo para sus reportes internos, una funcionalidad que actualmente no está disponible.*
+
+*Recomendación:*
+
+*Añadir un botón de "Exportar a Excel", por ejemplo el listado de pedidos para permitir generar sus reportes internos.*
+
+---
+
+*PROBLEMA #3: Falta de testimonios del publico objetivo.*
+
+*Severidad: 2*
+
+*Heurística violada: elación entre el Sistema y el Mundo Real.* 
+
+*Problema:* 
+
+*A pesar de incluir a los proveedores asosciados en la pagina, los usuarios, especialmente las empresas solicitantes, buscan confirmación de la confianza y capacidad del sistema a través de testimonios de empresas de su envergadura.*
+
+*Recomendación:*
+
+*Incluir testimonios de  grandes empresas (mineras, industriales, etc.) que utilicen el sistema en la Landing Page para solicitantes*
+
+---
+
+*PROBLEMA #4: Falta de integración de mensajes de errores.*
+
+*Severidad: 3*
+
+*Heurística violada: Ayuda a los Usuarios a Reconocer, Diagnosticar y Recuperarse de Errores.* 
+
+*Problema:* 
+
+*La presencia de los mensajes de error son genéricos o no están presentes en los formularios de la pagina, dificultando al usuario identificar y corregir los problemas específicos.*
+
+*Recomendación:*
+
+*Proporcionar mensajes de error específicos y accionables en un texto en rojo, indicando claramente qué campo o acción requiere corrección.*
+
+---
+
+*PROBLEMA #5: Ausencia de notificaciones automáticas generadas*
+
+*Severidad: 2*
+
+*Heurística violada: Visibilidad del Estado del Sistema.* 
+
+*Problema:* 
+
+*Tanto proveedores como solicitantes expresan el deseo de recibir notificaciones automáticas en la pagina o el aplicativo cuando un pedido cambia de estado, es cancelado o se mueve en el flujo logístico, evitando la necesidad de revisar manualmente.*
+
+*Recomendación:*
+
+*Implementar un sistema robusto de notificaciones automáticas para alertar a los usuarios sobre cambios críticos en los pedidos. Por ejemplo, si se generá un cambio en el flujo logístico, entonces se genera en la pagina una pequeña alerta resumida de la notificación.*
+
+---
 
 ## 5.4. Video About-the-Product
 
@@ -1657,4 +1804,3 @@ UXAX. (2023, junio 18). *The Lean UX process: Streamlining user-centered design*
 - **Figma - User Flow Diagrams, Wireframes y Mockups:**  
 [https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0](https://www.figma.com/design/Ikz9yUtR1XthBJ1ViO6gVc/LP-and-CTA?node-id=0-1&t=WJtigb6RJ2HtjPPw-1node-id=401-8424&t=kuv2vsPlXaFzVYvk-0)
 
-- **Exposición del Proyecto (TB1):**  
