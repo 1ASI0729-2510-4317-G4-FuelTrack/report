@@ -1294,9 +1294,8 @@ Durante el Sprint 3 se realizaron mejoras en la estructura del frontend, con el 
 
 -El backend desplegado de forma local 
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/IZqOB8Q.jpeg"  width="100%" />
-</div>
+![Aswagger_1](img/swagger_1.png)
+![Aswagger_2](img/swagger_3.png)
 
 - Panel de Administrador: Permite a los usuarios ver la actividad de los usuarios
 ![AdminPanel](img/ClientAdminPanel.png)
