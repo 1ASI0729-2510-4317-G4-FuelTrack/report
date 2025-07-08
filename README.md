@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td>u201817507</td>
-      <td>Manuel Angel Sanchez Arenas</td>
+      <td>NUEVO</td>
     </tr>
     <tr>
     <tr>
@@ -44,10 +44,6 @@
     <tr>
       <td>u202310129</td>
       <td>César Augusto Navarro Correa</td>
-    </tr>
-        <tr>
-      <td></td>
-      <td>Frezzia Espinoza Paredes</td>
     </tr>
   </table>
 </div>
