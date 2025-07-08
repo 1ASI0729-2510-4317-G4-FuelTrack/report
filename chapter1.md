@@ -14,12 +14,11 @@ Visión: Liderar la transformación digital del sector de distribución de combu
 
 <table>
   <tr>
-    <th colspan="2"> Manuel Angel Sanchez Arenas  </th>
+    <th colspan="2"> PONER NOMBRE  </th>
   </tr>
   <tr>
-    <td> <img src="img/foto-manuel.jpg" width=300px > </td>
-    <td> Mi nombre es Manuel Sanchez, tengo 24 años y estudio la carrera de Ingeniería de software. Siempre busco nuevos retos en proyectos enfocados en el backend y asegurarme que mi aporte a estos sean significativos.
-    Estoy enfocado en mi desarrollo como profesional de forma técnica, siguiendo las buenas prácticas y principios del desarrollo de software, y actualizándome con las nuevas tecnologías de este ámbito.</td>
+    <td> <img src="img/foto-NUEVOINTEGRANTE.jpg" width=300px > </td>
+    <td> TEXTO </td>
   </tr>
   <tr>
     <th colspan="2"> Luciana Carolina Choquehuanca Nuñez </th>
@@ -48,13 +47,6 @@ Visión: Liderar la transformación digital del sector de distribución de combu
   <tr>
     <td> <img src="img/foto-adrian.png" style="width: 300px"> </td>
     <td> Mi nombre es Adrián, tengo 20 años y estudio la carrera de Ingeniería de Software. Me considero una persona honesta, responsable, siempre buscando soluciones creativas y fomentando el trabajo en equipo para alcanzar objetivos comunes. Estoy comprometido con mi desarrollo profesional y siempre busco nuevas oportunidades para crecer y aportar a proyectos innovadores. </td>
-  </tr>
-  <tr>
-    <th colspan="2"> Frezzia Eldaa Isabel Espinoza Paredes </th>
-  </tr>
-  <tr>
-    <td> <img src="img/foto-frezzia.jpg" style="width: 300px"> </td>
-    <td> Mi nombre es Frezzia, estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas como segunda carrera. </td>
   </tr>
 </table>
 
