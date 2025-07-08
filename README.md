@@ -58,12 +58,11 @@
 
 | **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
 |-------------|-------------|---------------------------------------|-----------------------------------------------|
-| **1.0**     | 2025-04-27  | Sanchez Arenas, Manuel Angel | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas<br>-Wireflows y Userflows |
+| **1.0**     | 2025-04-27  | NUEVO    | **Se incluye:**<br>-Carátula, Registro de versiones, Student Outcome y Contenido de Informe<br>-Estrategias y tácticas frente a competidores<br>-Diseño de entrevistas<br>-Wireflows y Userflows |
 | **1.0**     | 2025-04-27  | Adrián Emanuel Valerio Garcia | **Se incluye:**<br>-Chapter I<br>-Diseño de Scenarios As-Is y To-Be<br>Aporte en los style-guid-lines y diagramas de arquitectura y database<br>Edición del video de entrevistas |
 | **1.0**     | 2025-04-27  | Luciana Carolina Choquehuanca Nuñez | **Se incluye**<br>-Wireframe y Mockup de Landing Page<br>-Coordinación de equipo<br>-Chapter I<br>-Conclusiones |
 | **1.0**     | 2025-04-27  | Franz Jair La Torre Valle | **Se incluye**<br>-User Stories<br>-Product Backlog<br>-Chapter V |
 | **1.0**     | 2025-04-27  | César Augusto Navarro Correa | **Se incluye**<br>-User Journey Map<br>-Impact Map<br>-User Personas<br>-Web Applications Prototyping<br>-SEO Tags<br>-Navigations Systems |
-| **1.0**     | 2025-04-27  | Frezzia Eldaa Isabel Espinoza Paredes | **Se incluye**<br>-Propuesta y desarrollo de Landing Page<br>-Despliegue de Landing Page<br>-Chapter V |
 
 ---
 ## Project Report Collaboration Insights
