@@ -69,7 +69,7 @@
 ## Project Report Collaboration Insights
 
 **URL del Repositorio:**  
-[Repositorio de GitHub](https://github.com/1ASI0729-2510-4317-G4-FuelTrack/report)
+[https://github.com/1ASI0729-2510-4317-G4-FuelTrack](https://github.com/1ASI0729-2510-4317-G4-FuelTrack/report)
 
 Este informe ha sido desarrollado de forma colaborativa mediante GitHub, empleando GitFlow y Conventional Commits. Cada miembro del equipo ha contribuido con commits y ramas individuales durante el desarrollo del proyecto.
 
@@ -77,12 +77,12 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | **Integrante**        | **Usuario GitHub**  | **Aportaciones destacadas** |
 |-----------------------|---------------------|-----------------------------|
-| Manuel Sanchez        | @manuels7anchez     | Creación de la rama feature//cover. Revisión de commits y pull requests. |
+| NUEVO                 | @NUEVO              | TEXTO                        |
 | Adrián Valerio        | @adrianvalerio      | Creación de rama Chapter IV. Supervisión de aportes a la rama. |
 | Luciana Choquehuanca  | @Lucianxaaa         | Creación de la organización y repositorio contenedor del informe. |
 | Franz La Torre        | @FranzJairLTV       | Creación de la rama Chapter V. |
 | César Navarro         | @csr555-ui          | Creación de la rama Chapter II. Revisión general de los commits hechos.  |
-| Frezzia Espinoza      | @fflushh            | Creación de nuevo repositorio para el despliegue de la Landing Page. |
+
 
 ---
 
