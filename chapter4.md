@@ -301,7 +301,7 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
 ---
 ### 4.4.4. Web Applications User Flow Diagrams
 
-### **Userflow 1**
+### **Userflow 1 - Creación de Pedido**
 - User Persona: Solicitante de combustible
 - User Goal: Como solicitante de combustible, deseo registrar un nuevo pedido de combustible. Para ello, debo llenar la información del pedido y los detalles de pago.
 - Happy Paths:
@@ -311,7 +311,7 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
     - El sistema muestra un mensaje indicando que el pedido no fue registrado.
 ![userflow 1](img/userflow_1.png)
 
-### **Userflow 2**
+### **Userflow 2 - Gestión y Conciliación de Pagos**
 - User Persona: Proveedor de combustible
 - User Goal: Como proveedor de combustible, deseo gestionar los pedidos, iniciando por la conciliación de los pagos. Para ello, debo subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
 - Happy Paths:
@@ -320,7 +320,7 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
     - El sistema muestra un listado de pedidos si no se encuentra pagos para ciertos pedidos con una antigüedad específica.
 ![userflow 2](img/userflow_2.png)
 
-### **Userflow 3**
+### **Userflow 3 - Liberación para Despacho**
 - User Persona: Proveedor de combustible
 - User Goal: Como proveedor de combustible, debo liberar los pedidos para su despacho. Para ello, debo seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna y chofer.
 - Happy Paths:
