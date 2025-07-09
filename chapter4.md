@@ -238,27 +238,27 @@ Para una mejor visualización de los mock up (versión desktop y mobile), se adj
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-### **Wireflow 1**
+### **Wireflow 1 - Registro de Pedido de Combustible**
 - User Persona: Solicitante de combustible
 - User Goal: Como solicitante de combustible, deseo registrar un nuevo pedido de combustible. Para ello, debo llenar la información del pedido y los detalles de pago.
 ![wireflow 1](img/wireflow_1.png)
 
-### **Wireflow 2**
+### **Wireflow 2 - Visualización de Pedidos**
 - User Persona: Solicitante de combustible
 - User Goal: Como solicitante de combustible, quiero poder visualizar la información de mis pedidos organizada en dashboards.
 ![wireflow 2](img/wireflow_2.png)
 
-### **Wireflow 3**
+### **Wireflow 3 - Conciliación de Pagos**
 - User Persona: Proveedor de combustible
 - User Goal: Como proveedor de combustible, deseo gestionar los pedidos, iniciando por la conciliación de los pagos. Para ello, debo subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
 ![wireflow 3](img/wireflow_3.png)
 
-### **Wireflow 4**
+### **Wireflow 4 - Liberación de Pedidos**
 - User Persona: Proveedor de combustible
 - User Goal: Como proveedor de combustible, debo liberar los pedidos para su despacho. Para ello, debo seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna y chofer.
 ![wireflow 4](img/wireflow_4.png)
 
-### **Wireflow 5**
+### **Wireflow 5 - Filtrado y Orden de Pedidos**
 - User Persona: Proveedor de combustible | Solicitante de combustible
 - User Goal: Como proveedor y solicitante de combustible, debo ser capaz de aplicar filtros a mis pedidos por diferentes criterios y ordenarlos por diferentes atributos.
 ![wireflow 5](img/wireflow_5.png)
