@@ -354,7 +354,7 @@ El diagrama de contexto del sistema muestra la relación entre el sistema y los 
 ### 4.6.2. Software Architecture Container Diagrams
 Los diagramas de contenedores representan los distintos elementos que conforman el sistema, como aplicaciones web, bases de datos o microservicios, y muestran cómo se relacionan entre ellos. Ofrecen una perspectiva general de la arquitectura, resaltando las funciones de cada contenedor y la forma en que interactúan.
 
-![SACD2](img/container_c4.png)
+![SACD2](img/nuevo_c4.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
