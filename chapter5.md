@@ -1381,7 +1381,7 @@ Este proyecto utilizó diversas herramientas para el desarrollo del backend de l
 Enlaces de despliegue:
 - **Landing Page**: [FuelTrack Landing Page](https://fueltrack-f9064.web.app/)
 - **FrontEnd**: [FuelTrack FrontEnd](https://fueltrackapp.netlify.app)
-- **Backend**: [FuelTrack Backend]()
+- **Backend**: [FuelTrack Backend](https://fueltrack-back-end.onrender.com)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -1400,6 +1400,230 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 <div style="text-align: center;">
   <img src="https://i.imgur.com/Sxj3Yvq.png"  width="100%" />
 </div>
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1 Sprint Planning 4
+
+<table border="1" cellspacing="0" cellpadding="6">
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 4</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>1/07/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Google Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Bryan Espejo</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+		      	Adrián Emanuel Valerio Garcia - U202210334<br>
+          		Luciana Carolina Choquehuanca Nuñez - U202319431<br>
+          		César Augusto Navarro Correa - U202310129<br>
+          		Franz Jair La Torre Valle - U202012378<br>
+          		Stephano Moscoso Bejar 
+		</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Review Summary</td>
+        <td>
+		<p>Se desarrolló la primera versión del backend y se publicó usando Swagger para documentar los endpoints. Se hicieron correcciones en la documentación, ajustando el Bounded Context y la planificación de los Sprints.</p>
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Retrospective Summary</td>
+        <td>
+		<p>Faltó agregar algunas evidencias y actualizar los Sprint Backlogs en la documentación. Se logró desplegar tanto la web como los servicios, pero aún queda trabajo por pulir.</p>
+        </td>
+	</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 4 Goal</td>
+        <td>
+		<p>Finalizar e integrar nuevas funciones en el backend, añadir seguridad con autenticación JWT, y avanzar en la integración con el frontend para asegurar una experiencia de usuario más fluida.</p>
+        </td>
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 4 Velocity</td>
+        <td>19</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td></td>
+    </tr>
+</table>
+
+### 5.2.4.2 Aspect Leaders and Collaborators
+
+| Team Member                                  | GitHub Username   | Frontend     | Documentation  | Backend  | Correcciones TF |
+|----------------------------------------------|-------------------|--------------|----------------|----------|------------------|
+| Valerio Garcia, Adrián Emanuel               | adrianvalerio     | C            | C              | C        | C                |
+| Choquehuanca Nuñez, Luciana Carolina         | Lucianxaaa        | C            | C              | L        | L                |
+| Navarro Correa, César Augusto                | csr555-ui         | C            | L              | C        | C                |
+| La Torre Valle, Franz Jair                   | FranzJairLTV      | C            | C              | L        | C                |
+|  Moscoso Bejar, Stephano         |  StephanoDang          | C            | C              | C        | C                |
+
+### 5.2.4.3 Sprint Backlog 4
+
+
+### 5.2.4.4 Development Evidence for Sprint Review
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>feature/orders</td>
+      <td>e0d6eb8</td>
+      <td>Merge pull request #13 from 1ASI0729-2510-4317-G4-FuelTrack/feature/orders</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>4b06e13</td>
+      <td>fix(orders): fix delete endpoint</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>develop</td>
+      <td>52e57f3</td>
+      <td>Merge pull request #12 from 1ASI0729-2510-4317-G4-FuelTrack/develop</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>feature/orders</td>
+      <td>eff8260</td>
+      <td>Merge pull request #11 from 1ASI0729-2510-4317-G4-FuelTrack/feature/orders</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>effb8b3</td>
+      <td>feat(orders): add delete endpoint for orders</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>ab689ed</td>
+      <td>fix: fix route for connection</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>1162304</td>
+      <td>feat: CORS changes for testing</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>440f98c</td>
+      <td>feat: add CORS global for frontend</td>
+      <td>-</td>
+      <td>8 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>431a06d</td>
+      <td>refactor: move file FuelOrderCommand into application/commands</td>
+      <td>-</td>
+      <td>6 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>develop</td>
+      <td>8a8c6f5</td>
+      <td>Merge pull request #9 from 1ASI0729-2510-4317-G4-FuelTrack/develop</td>
+      <td>-</td>
+      <td>5 jul 2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2510-4317-G4-FuelTrack/FuelTrack-back-end</td>
+      <td>main</td>
+      <td>19cd14f</td>
+      <td>Merge pull request #8 from 1ASI0729-2510-4317-G4-FuelTrack/main</td>
+      <td>-</td>
+      <td>5 jul 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.5 Execution Evidence for Sprint Review
+
+En el Sprint 4,se alcanzaron progresos significativos en el frontend, destacando la mejora y estabilidad de la interfaz de usuario, así como la conexión con el backend a través de una Fake API protegida con JWT. También se optimizó la navegación, haciendo las vistas más intuitivas y adaptables, lo que garantiza una presentación uniforme en distintos tipos de dispositivos.
+
+
+### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+En el Sprint 4, tomamos como objetivo terminar todos los boundeds que faltaban terminar, realizar la integración con Front-end y aplicar un esquema de seguridad JWT para autorizar el uso de back-end desplegado.
+
+A continuación, se mostrarán algunas capturas:
+
+### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+Este proyecto utilizó diversas herramientas para el desarrollo del backend de la aplicación web, así como para la actualización del frontend:
+
+- **Git**: Sistema de control de versiones utilizado para gestionar el código.
+- **GitFlow**: Flujo de trabajo colaborativo implementado en el desarrollo del proyecto.
+- **GitHub Desktop**: Herramienta gráfica que facilitó la interacción con nuestro repositorio en GitHub.
+- **GitHub**: Plataforma colaborativa donde se almacenó y gestionó el código fuente de nuestro proyecto.
+- **Netlify**: Plataforma de implementación y alojamiento web que facilita el despliegue de sitios estáticos y aplicaciones web modernas.
+- **Firebase**:Plataforma de desarrollo de aplicaciones móviles y web creada por Google, que proporciona una variedad de herramientas y servicios como bases de datos en tiempo real.
+
+Enlaces de despliegue:
+- **Landing Page**: [FuelTrack Landing Page](https://fueltrack-f9064.web.app/)
+- **FrontEnd**: [FuelTrack FrontEnd](https://fueltrackapp.netlify.app)
+- **Backend**: [FuelTrack Backend]()
+
+### 5.2.4.8 Team Collaboration Insights during Sprint
+
+En el Sprint 4, el equipo colaboró de manera organizada para diseñar y establecer una arquitectura robusta y clara. Este proceso se reflejó en la refinación de los Bounded Contexts, desarrollados detalladamente por cada integrante, lo que permitió lograr una estructura modular y consistente que facilitará tanto el desarrollo como el mantenimiento futuro del proyecto.
+
+A continuación, se presentan evidencias del trabajo de cada miembro mediante capturas de su actividad en los repositorios de Github del proyecto:
+
+
 
 ## 5.3. Validation Interviews
 
