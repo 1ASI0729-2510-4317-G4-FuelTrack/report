@@ -155,7 +155,7 @@ En esta sección se incluyen las fichas de User Persona elaboradas con base en e
 - Apellidos: Binda
 - Edad: 27 años
 - Distrito: Lima
-- URL Entrevista: https://tinyurl.com/EntrevistasGrupo4
+- URL Entrevista:[https://youtu.be/YM_nSKUvlVg](https://youtu.be/YM_nSKUvlVg)
 - Duración: 00:06:00 minutos - minuto de inicio: 00:00:00
 - Resumen:<br>
     Jorge menciona que tiene más de 10 años de experiencia en el área de logística. Indica que utiliza plataformas como Excel, WhatsApp y Outlook para desempeñar su rol, y de esta manera realiza el seguimiento de los pedidos a sus clientes, aunque no en tiempo real. Jorge también señala algunos problemas que afectan su puesto, como la falta de comunicación con el cliente y fallos en el stock. Además, considera que una plataforma como la nuestra podría reducir los errores y facilitar todo el proceso, siempre y cuando no sea muy complicada de implementar.
@@ -168,7 +168,7 @@ En esta sección se incluyen las fichas de User Persona elaboradas con base en e
 - Apellidos: Hernandez
 - Edad: 23 años
 - Distrito: Lima
-- URL Entrevista: https://tinyurl.com/EntrevistasGrupo4
+- URL Entrevista: [https://youtu.be/fUit6Eag_9g](https://youtu.be/fUit6Eag_9g)
 - Duración: 00:07:49 minutos - minuto de inicio: 00:06:00
 - Resumen:<br>
    Javier comenta que trabaja en el área de logística, función en la que se encarga del inventario, así como de organizar el suministro de combustible para las diferentes maquinarias que requiere la empresa. Menciona que no cuentan con un sistema propio y, al tratarse de grandes cantidades de combustible, necesitan que un representante de la empresa esté presente, lo cual retrasa las operaciones. Además, comenta que esto les ha generado problemas legales debido a la falta de confirmación de identidad y de comunicación, por lo que considera que un software de gestión sería de gran ayuda.
@@ -180,7 +180,7 @@ En esta sección se incluyen las fichas de User Persona elaboradas con base en e
 - Apellidos: Sanchez
 - Edad: 19 años
 - Distrito: Lima
-- URL Entrevista: https://tinyurl.com/EntrevistasGrupo4
+- URL Entrevista: [https://youtu.be/OBqmwlKY6k0](https://youtu.be/OBqmwlKY6k0)
 - Duración: 00:05:35 - minuto de inicio: 00:13:50
 - Resumen:<br>
     Zahir es encargado del registro de pedidos de Petromax, que se dedica a la venta de combustible. Maneja los pedidos de forma semimanual ya que estos llegan primero a través de correo y luego su información pasa a su sistema interno. Tiene la necesidad de generar reportes tanto mensualmente como diariamente, y principalmente deben mostrar datos de ventas y consumo. Siente que es un gran problema el registro de pedidos, ya que cuando identifican un error de información, el pedido se encuentra en estado avanzado. Siente que seríal ideal centralizar todos estos procesos, principallmente por el registro y la conciliación de pagos.
@@ -194,7 +194,7 @@ En esta sección se incluyen las fichas de User Persona elaboradas con base en e
 - Apellidos: Chacon
 - Edad: 31 años
 - Distrito: Lima
-- URL Entrevista: https://tinyurl.com/EntrevistasGrupo4
+- URL Entrevista:  [https://youtu.be/op2iPx5dDDM](https://youtu.be/op2iPx5dDDM)
 - Duración: 00:07:06 - minuto de inicio: 00:19:26
 - Resumen:<br>
     Kevyn es un parte del area de operaciones de Energex que utiliza combustible para sus vehículos. Recibe los pedidos por correo y usa Excel para su registro y gestión. Se siente frustrado por la dificultad para hacer una gestión de las solicitudes de combustible. Es necesaria la comunicación con sus clientes para que estén al tanto del despacho de sus pedidos. Cree que una solución como FuelTrack podría ayudar a mejorar la comunicación con los proveedores y optimizar el proceso de pedidos.
@@ -207,7 +207,7 @@ En esta sección se incluyen las fichas de User Persona elaboradas con base en e
 - Apellidos: Manosalva
 - Edad: 33 años
 - Distrito: Lima
-- URL Entrevista: https://tinyurl.com/EntrevistasGrupo4
+- URL Entrevista: [https://youtu.be/QGe-VkpCubM](https://youtu.be/QGe-VkpCubM)
 - Duración: 00:15:43 - minuto de inicio: 00:26:33
 - Resumen:<br>
     Grover menciona que trabaja en Petroperú y que requieren un suministro constante de combustible para la maquinaria. Explica que actualmente utilizan una plataforma interna para gestionar los pedidos, la cual permite que estos pasen por diferentes etapas de aprobación y seguimiento. Sin embargo, señala que cuando trabaja en provincias, en ocasiones el suministro no llega hasta su lugar de trabajo, lo que genera inconvenientes en las operaciones. A pesar de contar con un sistema, considera que aún hay oportunidades de mejora en cuanto a la logística y cobertura del servicio.
@@ -220,7 +220,7 @@ En esta sección se incluyen las fichas de User Persona elaboradas con base en e
 - Apellidos: Fernandez
 - Edad: 32
 - Distrito: San Borja
-- URL Entrevista: https://tinyurl.com/EntrevistasGrupo4
+- URL Entrevista: [https://youtu.be/1VZ5J3t3BmI](https://youtu.be/1VZ5J3t3BmI)
 - Duración: 00:05:09 - minuto de inicio: 00:42:15
 - Resumen:<br>
       Aleskha menciona que utiliza herramientas de Microsoft para realizar su trabajo, apoyándose principalmente en Excel para llevar un control interno. Sin embargo, señala que no cuentan con un sistema propio, por lo que realiza los pedidos a su proveedor mediante WhatsApp. Entre los principales problemas que enfrenta se encuentran la falta de confirmación, los retrasos en los tiempos de entrega y la necesidad de estar constantemente dando seguimiento para obtener los informes. Asimismo, a veces tienen fallos en el contenido del pedido siendo este menos de lo solicitado.
