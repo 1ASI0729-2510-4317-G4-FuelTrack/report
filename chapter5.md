@@ -1487,6 +1487,18 @@ Backend Desplegado: https://fueltrack-back-end.onrender.com/swagger-ui/index.htm
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
 
+En el Sprint 4 de FuelTrack, nos enfocamos en solucionar problemas en el backend, corrigiendo errores en algunos endpoints. También logramos completar la integración total entre el backend y el frontend, asegurando una comunicación eficiente y sin interrupciones entre ambos.
+
+En este sprint, se llevó a cabo la documentación de los servicios web utilizando Swagger, lo que facilita el acceso a la API y mejora la comprensión de los endpoints disponibles para los desarrolladores y colaboradores.
+
+La documentación abarca:
+
+Detalles de los endpoints corregidos y mejorados para gestionar las solicitudes de pedidos y pagos.
+
+Integración total entre el frontend y el backend, implementado en Azure.
+
+Este enfoque garantiza que todo el equipo comparta un entendimiento común de la API, lo cual es fundamental para el progreso y la colaboración efectiva en FuelTrack. Con las correcciones realizadas y la integración completada, el equipo está listo para avanzar hacia las siguientes etapas de desarrollo y la implementación de nuevas funcionalidades.
+
 
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 Se incluye evidencia del despliegue del backend, con el siguiente enlace: https://fueltrack-back-end.onrender.com/swagger-ui/index.html
