@@ -48,6 +48,18 @@ Visión: Liderar la transformación digital del sector de distribución de combu
     <td> <img src="img/foto-adrian.png" style="width: 300px"> </td>
     <td> Mi nombre es Adrián, tengo 20 años y estudio la carrera de Ingeniería de Software. Me considero una persona honesta, responsable, siempre buscando soluciones creativas y fomentando el trabajo en equipo para alcanzar objetivos comunes. Estoy comprometido con mi desarrollo profesional y siempre busco nuevas oportunidades para crecer y aportar a proyectos innovadores. </td>
   </tr>
+
+<tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="../images/Stephano_Moscoso_Photo.jpeg" alt="Stephano Moscoso Photo" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Angelo Stephano Moscoso Bejar - (U20211G499)</strong> - Ingeniería de Software<br><br>
+              Tengo 21 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Me ha interasado mucho la creación de paginas web para diversos objetivos. Manejo algunos lenguajes de programación como javascript, C++, C+, Python, entre otros. Considero que tengo las habilidades de comunicación efectiva, organización, proactividad, resolución de problemas, entre otras. Espero aportar de manera satisfactoria en mi grupo para terminar de manera exitosa el proyecto.
+            </td>
+        </tr>
+
+
 </table>
 
 ## 1.2. Solution Profile
