@@ -359,29 +359,42 @@ Los diagramas de contenedores representan los distintos elementos que conforman 
 ### 4.6.3. Software Architecture Components Diagrams
 En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
 
-#### Bounded Context: Analytics
+#### Bounded Context: IAM
 
-![Analytics](img/analytics-c4.png)
+![Analytics](img/IAM_C4.png)
 
-Este bounded context contiene todo lo relacionado al control y seguimiento de los pedidos, asimismo como el estados de los pedidos
+Este bounded context contiene todo lo relacionado a la gestión de identidades, autenticación de usuarios, autorización y control de acceso a los diferentes recursos y funcionalidades del sistema.
 
-#### Bounded Context: Control
+#### Bounded Context: Logistics
 
-![supplier](img/supplier_c4.png)
+![supplier](img/LOGISTICS_C4.png)
 
-Este bounded context separa todo lo relacionado con el control de producto que en este caso es combustible de los diferentes proveedores, por lo que el feature de inventario de los proveedores está considerado dentro de este bounded context.
+Este bounded context separa todo lo relacionado con la gestión logística, seguimiento de envíos, coordinación de entregas, optimización de rutas y control de la cadena de suministro.
 
-#### Bounded Context: Planning
+#### Bounded Context: Validations
 
-![orderdiagram](img/order-diagram.png)
+![orderdiagram](img/VALIDATIONS_C4png)
 
-Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
+Este bounded context sirve para alojar las funcionalidades de validación y verificación de datos, asegurando la integridad y consistencia de la información en el sistema.
 
-#### Bounded Context: Sales
+#### Bounded Context: Operations
 
-![sus](img/subscription_c4.png)
+![sus](img/OPERATIONS_C4.png)
 
-Dentro de este bounded context se alojará nuestro sistema de suscripción el cual seria la principal fuente de ingresos, donde tanto los solicitantes como los proveedores tendran que estar suscritos a nuestra pagina web
+Dentro de este bounded context se alojará la gestión de operaciones del sistema, incluyendo monitoreo, configuración, mantenimiento y administración de los procesos operativos.
+
+#### Bounded Context: Orders
+
+![sus](img/ORDERS_C4.png)
+
+Dentro de este bounded context se alojará todo lo relacionado al control y seguimiento de los pedidos, así como la gestión de los estados de los pedidos a lo largo del proceso.
+
+#### Bounded Context: Reports
+
+![sus](img/REPORTS_C4.png)
+
+Dentro de este bounded context se alojará el sistema de generación de reportes y análisis, proporcionando insights y métricas sobre el rendimiento y operaciones del sistema.
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
