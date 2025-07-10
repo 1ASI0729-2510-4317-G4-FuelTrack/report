@@ -1409,21 +1409,22 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 | **Sprint Planning Background** |  |
 | **Date** | 2025-07-05 |
 | **Time** | 04:00 PM |
-| **Location** | 	Discord meeting |
+| **Location** | Discord meeting |
 | **Prepared By** | Choquehuanca Núñez, Luciana Carolina |
 | **Attendees (to planning meeting)** | Adrián Emanuel Valerio Garcia / Luciana Carolina Choquehuanca Nuñez / Franz Jair La Torre Valle / César Augusto Navarro Correa |
 | **Sprint 1 – 4 Review Summary** | En el Sprint 3 se progresó en la integración de los endpoints para la administración de perfiles de empresas e influencers, la documentación de la API en Swagger, el despliegue en Azure y la integración inicial con el frontend. |
 | **Sprint 1 – 4 Retrospective Summary** | Se detectó la necesidad de optimizar la cobertura de las pruebas, la validación de datos y la trazabilidad de las acciones. Además, se notó que algunas tareas técnicas se llevaron a cabo antes de ser documentadas, lo que dio lugar a la necesidad de refactorizar y mejorar la coherencia del backend. |
 | **Sprint Goal & User Stories** |  |
 | **Sprint 4 Goal** | El objetivo de este sprint es mejorar la gestión de pedidos, la seguridad del backend y la integración con el frontend. Se abordarán los siguientes puntos:
-- Implementar endpoints para crear, listar, editar y cerrar pedidos.
-- Mejorar autenticación con JWT y control de roles.
-- Optimizar validación de pagos y seguimiento de pedidos.
-- Integrar logs para trazabilidad de acciones.
-- Actualizar documentación en Swagger.
-- Avanzar en pruebas automáticas e integración frontend-backend.|
+  - Implementar endpoints para crear, listar, editar y cerrar pedidos.
+  - Mejorar autenticación con JWT y control de roles.
+  - Optimizar validación de pagos y seguimiento de pedidos.
+  - Integrar logs para trazabilidad de acciones.
+  - Actualizar documentación en Swagger.
+  - Avanzar en pruebas automáticas e integración frontend-backend. |
 | **Sprint 4 Velocity** | 18 Story Points |
 | **Sum of Story Points** | 20 |
+
 
 #### **5.2.4.2. Aspect Leaders and Collaborators**
 
