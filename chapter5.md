@@ -1422,6 +1422,15 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 
 #### **5.2.4.2. Aspect Leaders and Collaborators**
 
+| Team Member                                  | GitHub Username   | Frontend     | Documentation  | Backend  | Correcciones Generales |
+|----------------------------------------------|-------------------|--------------|----------------|----------|------------------|
+| Valerio Garcia, Adrián Emanuel               | adrianvalerio     | C            | C              | C        | C                |
+| Choquehuanca Nuñez, Luciana Carolina         | Lucianxaaa        | C            | C              | L        | L                |
+| Navarro Correa, César Augusto                | csr555-ui         | C            | L              | C        | C                |
+| La Torre Valle, Franz Jair                   | FranzJairLTV      | C            | C              | L        | C                |
+| Frezzia Eldaa Isabel Espinoza Paredes        | fflushh           | L            | C              | C        | C                |
+
+
 #### **5.2.4.3. Sprint Backlog 4**
 
 #### **5.2.4.4. Development Evidence for Sprint Review.**
