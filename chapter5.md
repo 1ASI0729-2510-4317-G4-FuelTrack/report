@@ -1469,10 +1469,37 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 | FuelTrack | iam | - | fix: delete openapi config temporaly | - | 09-07-2025 |
 
 #### **5.2.4.5. Execution Evidence for Sprint Review.**
+En este sprint, el equipo de FuelTrack logró implementar y desplegar exitosamente la plataforma digital para la gestión de pedidos en Azure Web Services, utilizando MySQL for Azure como base de datos, garantizando un entorno seguro y escalable para gestionar los datos de las empresas solicitantes y proveedoras.
+
+Además, se lanzó una actualización de la plataforma, mejorando la experiencia del usuario y habilitando funciones clave como el registro de solicitudes, validación de pagos, seguimiento en tiempo real y generación de reportes históricos. También se agregaron materiales informativos sobre el producto y sus ventajas.
+
+Este despliegue establece una base sólida para el funcionamiento de FuelTrack, preparando la plataforma para futuras integraciones y expansión conforme el proyecto crezca y se adapte.
+
+La API de la plataforma está documentada en Swagger, lo que facilita el acceso a los endpoints para el equipo de desarrollo y colaboradores futuros.
+
+Enlace a la documentación de la API en Swagger:
+
+Landing Page Desplegada: https://fueltrack-f9064.web.app/
+
+Front Web Applications Desplegado: https://fueltrackapp.netlify.app/
+
+Backend Desplegado: https://fueltrack-back-end.onrender.com/swagger-ui/index.html
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
 
+
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
+Se incluye evidencia del despliegue del backend, con el siguiente enlace: https://fueltrack-back-end.onrender.com/swagger-ui/index.html
+
+Captura del despliegue del backend en Swagger:
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/daSeFPN.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/QL5kVeO.png" width="100%" />
+</div>
 
 #### **5.2.4.8. Team Collaboration Insights during Sprint.**
 
@@ -1774,7 +1801,7 @@ Landing Page Desplegada: https://fueltrack-f9064.web.app/
 
 Front Web Applications Desplegado: https://fueltrackapp.netlify.app/
 
-Backend Desplegado:
+Backend Desplegado: https://fueltrack-back-end.onrender.com/swagger-ui/index.html
 
 ### Anexo B. Web tools
 
