@@ -373,7 +373,7 @@ Este bounded context separa todo lo relacionado con la gestión logística, segu
 
 #### Bounded Context: Validations
 
-![orderdiagram](img/VALIDATIONS_C4png)
+![orderdiagram](img/VALIDATIONS_C4.png)
 
 Este bounded context sirve para alojar las funcionalidades de validación y verificación de datos, asegurando la integridad y consistencia de la información en el sistema.
 
