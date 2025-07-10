@@ -1435,6 +1435,39 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 
 #### **5.2.4.4. Development Evidence for Sprint Review.**
 
+| **Repositorio** | **Rama** | **ID de Commit** | **Mensaje de Commit** | **Descripción del Commit** | **Fecha de Commit** |
+|---|---|---|---|---|---|
+| FuelTrack | develop | - | fix: fix MANIFEST.MF for deploy | - | 03-07-2025 |
+| FuelTrack | develop | - | deployable version with render database | - | 03-07-2025 |
+| FuelTrack | develop | - | feat: add Dockerfile for deploy | - | 03-07-2025 |
+| FuelTrack | develop | - | fix: java 24 for Dockerfile | - | 03-07-2025 |
+| FuelTrack | develop | - | fix: dependencies and cleanup in pom.xml | - | 03-07-2025 |
+| FuelTrack | main | - | Merge pull request #8 from 1ASI0729-2510-4317-G4-FuelTrack/main | - | 05-07-2025 |
+| FuelTrack | develop | - | Merge pull request #9 from 1ASI0729-2510-4317-G4-FuelTrack/develop | - | 05-07-2025 |
+| FuelTrack | feature/orders | - | refactor: move file FuelOrderCommand into application/commands | - | 06-07-2025 |
+| FuelTrack | feature/orders | - | feat: add CORS global for frontend | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | feat: CORS changes for testing | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | fix: fix route for connection | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | feat(orders): add delete endpoint for orders | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #11 from 1ASI0729-2510-4317-G4-FuelTrack/feature/o… | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #12 from 1ASI0729-2510-4317-G4-FuelTrack/develop | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | fix(orders): fix delete endpoint | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #13 from 1ASI0729-2510-4317-G4-FuelTrack/feature/o… | - | 08-07-2025 |
+| FuelTrack | feature/orders | - | fix(orders): fix delete endpoint, final fix | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #14 from 1ASI0729-2510-4317-G4-FuelTrack/feature/o… | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | feat(order payment): add endpoints for payments | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #15 from 1ASI0729-2510-4317-G4-FuelTrack/feature/o… | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | feat(order payment): add restriction to endpoint for minimum price pe… | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #16 from 1ASI0729-2510-4317-G4-FuelTrack/feature/o… | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | fic(fueltype): fix fueltypes name for good conexion in frontend | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | fix(payment): fix price per gallon in payment | - | 09-07-2025 |
+| FuelTrack | feature/orders | - | Merge pull request #17 from 1ASI0729-2510-4317-G4-FuelTrack/feature/o… | - | 09-07-2025 |
+| FuelTrack | iam | - | feat: add iam bounded files | - | 09-07-2025 |
+| FuelTrack | iam | - | feat: add openapi doc and security scheme | - | 09-07-2025 |
+| FuelTrack | iam | - | feat: configure jwt auth properties | - | 09-07-2025 |
+| FuelTrack | iam | - | fix: delete iam files temporaly | - | 09-07-2025 |
+| FuelTrack | iam | - | fix: delete openapi config temporaly | - | 09-07-2025 |
+
 #### **5.2.4.5. Execution Evidence for Sprint Review.**
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
@@ -1442,6 +1475,11 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 
 #### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+<img src="https://i.imgur.com/eVw0m8r.png" />
+<img src="https://i.imgur.com/p58VHIm.png" />
+<img src="https://i.imgur.com/OY7PCEv.png" />
+
 
 ## 5.3. Validation Interviews
 
