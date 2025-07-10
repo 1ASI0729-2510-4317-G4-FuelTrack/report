@@ -1433,16 +1433,24 @@ A continuación se presentarán los gráficos con los insights obtenidos durante
 
 #### **5.2.4.3. Sprint Backlog 4**
 
+#### **5.2.4.3. Sprint Backlog 4**
+
 | User Story Id | User Story Title               | Task Id | Task Title                         | Description                                                                 | Estimation (Hours) | Assigned To       | Status |
-|---------------|---------------------------------|---------|-------------------------------------|-----------------------------------------------------------------------------|-------------------|-------------------|--------|
-| US05          | Registrar nuevo pedido         | TK01    | Crear endpoint de pedido           | Desarrollar endpoint para registrar un nuevo pedido de combustible.         | 5                 | Valerio Garcia     | Todo   |
-| US05          | Registrar nuevo pedido         | TK02    | Validación de datos en el pedido  | Implementar validación de campos en el formulario de pedido.                | 3                 | Adrián Emanuel     | Todo   |
-| US06          | Consultar estado del pedido    | TK03    | Endpoint para consultar estado    | Crear endpoint que permita consultar el estado actualizado del pedido.     | 3                 | Luciana Carolina   | Todo   |
-| US06          | Consultar estado del pedido    | TK04    | Actualización dinámica de estado  | Implementar lógica para mostrar cambios en el estado del pedido en tiempo real. | 3                 | César Augusto      | Todo   |
-| US08          | Registrar información de pago  | TK05    | Crear endpoint de pago             | Desarrollar endpoint para registrar la información de pago asociada al pedido. | 4                 | Franz Jair         | Todo   |
-| US08          | Registrar información de pago  | TK06    | Validación de depósito             | Validar que los datos del depósito sean correctos y no se repitan.         | 3                 | Valerio Garcia     | Todo   |
-| US10          | Ver pedidos pendientes          | TK07    | Listar pedidos pendientes          | Crear endpoint para listar pedidos pendientes de los proveedores.          | 4                 | Adrián Emanuel     | Todo   |
-| US10          | Ver pedidos pendientes          | TK08    | Filtros para búsqueda de pedidos   | Implementar filtros de búsqueda por fecha o cliente.                        | 3                 | Luciana Carolina   | Todo   |
+|---------------|---------------------------------|---------|-------------------------------------|-----------------------------------------------------------------------------|---------------------|---------------------|--------|
+| US05          | Registrar nuevo pedido          | TK01    | Crear endpoint de pedido           | Desarrollar endpoint para registrar un nuevo pedido de combustible.         | 5                   | Valerio Garcia      | Done   |
+| US05          | Registrar nuevo pedido          | TK02    | Validación de datos en el pedido  | Implementar validación de campos en el formulario de pedido.                | 4                   | Adrián Emanuel      | Done   |
+| US06          | Consultar estado del pedido     | TK03    | Endpoint para consultar estado    | Crear endpoint que permita consultar el estado actualizado del pedido.      | 4                   | Luciana Carolina    | Done   |
+| US06          | Consultar estado del pedido     | TK04    | Actualización dinámica de estado  | Implementar lógica para mostrar cambios en el estado del pedido en tiempo real. | 4                | César Augusto       | Done   |
+| US08          | Registrar información de pago   | TK05    | Crear endpoint de pago             | Desarrollar endpoint para registrar la información de pago asociada al pedido. | 4                | Franz Jair          | Done   |
+| US08          | Registrar información de pago   | TK06    | Validación de depósito             | Validar que los datos del depósito sean correctos y no se repitan.          | 4                   | Valerio Garcia      | Done   |
+| US10          | Ver pedidos pendientes          | TK07    | Listar pedidos pendientes          | Crear endpoint para listar pedidos pendientes de los proveedores.           | 4                   | Adrián Emanuel      | Done   |
+| US10          | Ver pedidos pendientes          | TK08    | Filtros para búsqueda de pedidos   | Implementar filtros de búsqueda por fecha o cliente.                        | 4                   | Luciana Carolina    | Done   |
+| US44          | Cambiar idioma                  | TK23    | Configurar sistema de internacionalización | Implementar sistema i18n con selector de idioma y archivos de traducción. | 6 | César Augusto       | Done   |
+| US44          | Cambiar idioma                  | TK24    | Implementar cambio dinámico de idioma | Desarrollar lógica para cambiar idioma dinámicamente y validar traducción completa. | 5 | Franz Jair          | Done   |
+| US02          | Ver sección About Us            | TK25    | Desarrollar sección About Us completa | Implementar componente React con diseño responsive y contenido del equipo. | 7 | Valerio Garcia      | Done   |
+| US02          | Ver sección About Us            | TK26    | Crear contenido de misión y valores | Agregar información sobre misión y valores de la empresa con diseño atractivo. | 4 | Adrián Emanuel      | Done   |
+| US03          | Ver sección How it works?       | TK27    | Diseñar y desarrollar flujo visual | Crear diagrama visual del proceso y componente interactivo con animaciones. | 8                   | Luciana Carolina    | Done   |
+| US03          | Ver sección How it works?       | TK28    | Implementar contenido explicativo | Desarrollar textos explicativos y mostrar interacción entre usuarios optimizada. | 6                | César Augusto       | Done   |
 
 
 #### **5.2.4.4. Development Evidence for Sprint Review.**
